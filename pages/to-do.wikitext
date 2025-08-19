@@ -14,6 +14,7 @@ When Azur Lane updates, these are the priorities of what should be done.
 :{{Todo|high|Add event information.}}
 ::* {{Todo|high|Create pages for new [[Events]] as necessary.}}
 ::* {{Todo|high|Update [[Events]] wiki page with new events.}}
+::* {{Todo|med|Add Event Story to [[Memories#Events|Memories (Events)]].}}
 ::* {{Todo|low|Add new medals to [[Memories#Commemorative_Album|Memories (Commemorative Album)]]}}
 ::* {{Todo|low|Add new dorm furniture to [[Decorations#List_of_Furniture_Sets|List of Furniture Sets]] and their respective pages.}}
 ::* {{Todo|low|Add new gear skins to [[Equipment_Skins|Equipment Skins]].}}
@@ -23,8 +24,11 @@ When Azur Lane updates, these are the priorities of what should be done.
 :{{Todo|med|Update [[Shops]] with new items as necessary.}}
 :{{Todo|med|Add / Update all non-skin cosmetic ship data.}}
 ::* {{Todo|med|Add any new ship quotes to their respective /Quotes pages.}}
-::* {{Todo|low|Add any new ship [[Memories#Secrets|Secrets]].}}
 ::* {{Todo|low|Add any new secretary questlines to [[Memories#Characters|Memories (Characters)]].}}
+::* {{Todo|low|Add any new ship [[Memories#Secrets|Secrets]].}}
+::* {{Todo|low|Add any new ship [[Comics]].}}
+::* {{Todo|low|Add any new ship [[Juustagram|Juustagrams]].}}
+:{{Todo|low|Add new [[Loading Screens]].}}
 
 == To-Do List ==
 Outside of adding new game content, this is '''specific''' existing content that needs to get updated. If you are already working on something, please link a sandbox or any pages on the line-item.
