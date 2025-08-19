@@ -7,6 +7,7 @@ Use [[Template:Todo]] to bullet-list tasks by priority when possible. If a task 
 When Azur Lane updates, these are the priorities of what should be done.
 
 :{{Todo|high|Update [[Recent News]] with latest patch information.}}
+::* {{Todo|high|Update "Row 1 Section: Recent News" on the [[Azur Lane Wiki|main page]] with latest patch information.}}
 :{{Todo|high|Add all new ship and equipment combat-related data to their respective pages.}}
 ::* Stats, skills, drop-locations, etc.
 ::* Update the [[Augmentation]] wiki page if there are new unique augment modules.
