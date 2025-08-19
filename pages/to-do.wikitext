@@ -3,6 +3,8 @@ This page is a '''to-do list''' with tasks that need to be done. Please be '''sp
 
 Use [[Template:Todo]] to bullet-list tasks by priority when possible. If a task is finished, move it to the bottom and label it as <code><nowiki>{{Todo|done|task}}</nowiki></code>, or remove it entirely.
 
+Make sure to follow the [[Azurlane:Style Guide|Style Guide]] when making edits. If you have any questions, please ask in the discord server '''before''' making edits on pages.
+
 == New Game Update Checklist ==
 When Azur Lane updates, these are the priorities of what should be done.
 
