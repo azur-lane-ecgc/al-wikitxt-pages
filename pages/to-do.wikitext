@@ -10,6 +10,7 @@ When Azur Lane updates, these are the priorities of what should be done.
 :{{Todo|high|Add all new ship and equipment combat-related data to their respective pages.}}
 ::* Stats, skills, drop-locations, etc.
 ::* Update the [[Augmentation]] wiki page if there are new unique augment modules.
+::* Update [[Research]] pages (especially [[Gear Lab]], [[META Lab]]) as necessary.
 :{{Todo|high|Add all new skin data to their respective pages.}}
 :{{Todo|high|Add event information.}}
 ::* {{Todo|high|Create pages for new [[Events]] as necessary.}}
@@ -20,7 +21,6 @@ When Azur Lane updates, these are the priorities of what should be done.
 ::* {{Todo|low|Add new gear skins to [[Equipment_Skins|Equipment Skins]].}}
 :{{Todo|med|Create and/or Update pages to account for '''new''' game mechanics.}}
 ::* Add / update game UI images as necessary. Most of the files already exist somewhere; prioritize overwriting existing files over creating new files when possible.
-::* Update [[Gear Lab]] as necessary.
 :{{Todo|med|Update [[Shops]] with new items as necessary.}}
 :{{Todo|med|Add / Update all non-skin cosmetic ship data.}}
 ::* {{Todo|med|Add any new ship quotes to their respective /Quotes pages.}}
