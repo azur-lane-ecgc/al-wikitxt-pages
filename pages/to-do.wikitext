@@ -1,0 +1,149 @@
+__NOINDEX__
+This page is a '''to-do list''' with tasks that need to be done. Please be '''specific''' when outlining what needs to be done here.
+
+Use [[Template:Todo]] to bullet-list tasks by priority when possible. If a task is finished, move it to the bottom and label it as <code><nowiki>{{Todo|done|task}}</nowiki></code>, or remove it entirely.
+
+== New Game Update Checklist ==
+When Azur Lane updates, these are the priorities of what should be done.
+
+:{{Todo|high|Update [[Recent News]] with latest patch information.}}
+:{{Todo|high|Add all new ship and equipment combat-related data to their respective pages.}}
+::* Stats, skills, drop-locations, etc.
+::* Update the [[Augmentation]] wiki page if there are new unique augment modules.
+:{{Todo|high|Add all new skin data to their respective pages.}}
+:{{Todo|high|Add event information.}}
+::* {{Todo|high|Create pages for new [[Events]] as necessary.}}
+::* {{Todo|high|Update [[Events]] wiki page with new events.}}
+::* {{Todo|low|Add new medals to [[Memories#Commemorative_Album|Memories (Commemorative Album)]]}}
+::* {{Todo|low|Add new dorm furniture to [[Decorations#List_of_Furniture_Sets|List of Furniture Sets]] and their respective pages.}}
+::* {{Todo|low|Add new gear skins to [[Equipment_Skins|Equipment Skins]].}}
+:{{Todo|med|Create and/or Update pages to account for '''new''' game mechanics.}}
+::* Add / update game UI images as necessary. Most of the files already exist somewhere; prioritize overwriting existing files over creating new files when possible.
+::* Update [[Gear Lab]] as necessary.
+:{{Todo|med|Update [[Shops]] with new items as necessary.}}
+:{{Todo|med|Add / Update all non-skin cosmetic ship data.}}
+::* {{Todo|med|Add any new ship quotes to their respective /Quotes pages.}}
+::* {{Todo|low|Add any new ship [[Memories#Secrets|Secrets]].}}
+::* {{Todo|low|Add any new secretary questlines to [[Memories#Characters|Memories (Characters)]].}}
+
+== To-Do List ==
+Outside of adding new game content, this is '''specific''' existing content that needs to get updated. If you are already working on something, please link a sandbox or any pages on the line-item.
+
+=== Major Items ===
+:{{Todo|high|Follow the [[#New Game Update Checklist|New Game Update Checklist]] "Add event information" section for [[The Alchemist and the Tower of Horizons]].}}
+:{{Todo|high|Follow the [[#New Game Update Checklist|New Game Update Checklist]] for the August 7th 2025 and August 14th 2025 maintenances.}}
+::* [https://azurlane.yo-star.com/news/2025/08/13/maintenance-notice-8-14-12-a-m-utc-7/ Maintenance Notice - 8/14] (EN 7th Anniversary Event)
+::* [https://azurlane.yo-star.com/news/2025/08/06/maintenance-notice-8-7-12-a-m-utc-7/ Maintenance Notice - 8/7]
+:{{Todo|high|Create wiki page(s) for '''Private Quarters''' (3D Dorm).}}
+:{{Todo|med|Finish wiki page(s) for [[Project Identity]].}}
+:{{Todo|med|Finish wiki page(s) for [[Commander Handbook]].}}
+
+=== Smaller Items ===
+:{{Todo|med|Update UI Images in [[Shops]] and [[Akashi's Shop]] with new UI after August 14th 2025 update.}}
+:{{Todo|med|Update the category label of every single item in [[:Category:Skins]] to '''Category:Ship skins''', preferably with a bot.}}
+:{{Todo|med|Fix bullet ranges for Weapons.}}
+:{{Todo|med|Adapt usages of the "Main" template to the new format (Template:Main!link!display -> Template:Main![[link|display]]).}}
+:{{Todo|low|Remove <code>ScrapIncome</code> across every shippage. This task will take a while, and the params have been disabled in [[Template:Ship]], so there's no rush.}}
+:{{Todo|low|Replace all mentions of plates with parts, preferably with a bot.}}
+:{{Todo|low|Change Strenghtening Unit > General Blueprint, preferably with a bot, but this needs manual verification especially when dealing with hyperlinks.}}
+
+=== Large Undertakings ===
+These are refactorings / overhauls that will improve the wiki but are very complicated to implement.
+
+:{{Todo|med|Improve Barrage handling on wiki.}}
+::*{{Todo|med|Update [[Module:ShipBarrage/data]] and [[Module:ShipBarrage/data2]] with updated information.}}
+::* [https://github.com/samheart564/al-barrage-datamine This GitHub repository] has the tools necessary to extract the information, but it requires some updates to handle the new barrage data structure from [https://github.com/MrLar/AzurLaneData AzurLaneData].
+::* {{Todo|low|Update the Ship Template / Module to store barrage data on a per-skill basis.}}
+::* {{Todo|low|Bring back "barrage gifs".}}
+:{{Todo|low|Make the wiki dark-mode compatible.}}
+::* Current progress can be found [[User:Nobbyfix/dark_mode_progress|here]].
+:{{Todo|low|Add historical notes to individual ship pages as necessary. Please do not go overboard.}}
+::* For example, the [[Enterprise]] page has a variety of historical notes in both her quotes and skills, especially on her Quotes page. The "Trivia" section is unecessary; do not add it when editing ship pages, but don't remove it on existing pages either.
+
+== Will Not Fix ==
+These items will not be worked on due to the reasons listed.
+
+:{{Todo||Fix the [[Barrage]] tables not sorting correctly.}}
+::*Sorting when each part of the barrage is its own tablerow (<code><nowiki><tr></nowiki></code>) is very complicated. This would require a massive refactor. Do it if you dare.
+
+<!--
+== Translation ==
+=== Main Requests ===
+Please remember to refer to the [[Translation Guide]] as you are translating content on the wiki.
+
+* Translate any missing [[:Category:Ships_without_JP_translation|Japanese ship lines]] or [[:Category:Ships_without_CN_translation|Chinese ship lines]]
+*Add any missing [[:Category:Skin_missing_JP_Translation|Japanese skin names]] or [[:Category:Skin_missing_CN_Translation|Chinese skin names]]
+-->
+
+== Maintenance ==
+If you want a change-of-pace, you can perform the following maintenance tasks to ensure the wiki is clean and up-to-date.
+
+=== Event currency and resource icons ===
+* Add any event currency icons to [[:Category:Event point icons]]
+* Add any missing resource icons to [[:Category:Resource icons]]
+
+=== Skill icons ===
+'''Number of missing skill icons:'''
+{{#cargo_query:|tables=ship_skills|fields=COUNT(ship_skills._pageName)|where="Icon" IS NULL AND NOT "Name" = 'Full Barrage' AND NOT "Name" = 'All Out Assault'}}
+
+Visit individual ship pages and '''manually''' correct the skill ID numbers in <code>Skill1Icon</code>, <code>Skill2Icon</code>, <code>Skill3Icon</code>, etc., when necessary.
+
+{{#cargo_query:
+|tables=ship_skills
+|fields=_pageName, Num, Name, Detail, Type, Icon
+|where="Icon" IS NULL AND NOT "Name" = 'Full Barrage' AND NOT "Name" = 'All Out Assault'
+|limit=0
+|format=table
+|more results text=Click here to view all Missing Skill Icons
+}}
+
+=== File Duplicates ===
+Run through [https://azurlane.koumakan.jp/wiki/Special:ListDuplicatedFiles this list] as necessary and make sure to avoid having a ridiculous number of duplicate files. Queue them for deleting with <code><nowiki>{{Delete}}</nowiki></code>.
+
+Duplicate skill icons and .gif bullet pattern files are fine. VA audio files, other images, icons, etc. are not.
+
+=== Template Management ===
+{{Todo|low|Provide, or update, documentation for:}}
+* [[Template:RarityLevel]]
+* [[Template:ColorClass]]
+* [[Template:SkinFileData]]
+* [[Template:Image Gallery]]
+* [[Template:ContentBox]]
+
+=== General Maintenance ===
+* Check categories in [[Special:TrackingCategories]] when necessary. It is ideal to keep these tracking categories empty, or have them remain as red links when not needed.
+* Check [[:Category:Candidates for deletion]] as necessary. When the total number of items in this category exceed 1000+, schedule a cleanup.
+: - The total number of items includes counts for "Subcategories", "Pages in category 'Candidates for deletion'", and "Media in category 'Candidates for deletion'".
+
+== Missing Cargo information ==
+The following links take you to a list of pages where information is missing. If you want a change-of-pace, you can fill in the missing information.
+
+'''Ships with missing information:'''
+{{#cargo_query:
+|tables=ships
+|fields=_pageName, ShipGroup, ShipID, Name, Rarity, Nationality, ConstructTime,Type,Class,Artist, VA, HealthInitial, FireInitial, AAInitial, TorpInitial, EvadeInitial, AirInitial, ConsumptionInitial, ReloadInitial, Armor, Speed, ASWInitial, Oxygen, Ammo, HealthMax, FireMax, AAMax, TorpMax, EvadeMax, AirMax, ConsumptionMax, ReloadMax, ASWMax, Eq1Type, Eq1EffInit, Eq1EffInitMax, Eq2Type, Eq2EffInit, Eq2EffInitMax, Eq3Type, Eq3EffInit, Eq3EffInitMax
+|where="ShipGroup" IS NULL OR "ShipID" IS NULL OR "Name" IS NULL OR "Rarity" IS NULL OR "Nationality" IS NULL OR "ConstructTime" IS NULL OR "Type" IS NULL OR "Class" IS NULL OR "Artist" IS NULL OR "VA" IS NULL OR "HealthInitial" IS NULL OR "FireInitial" IS NULL OR "AAInitial" IS NULL OR "TorpInitial" IS NULL OR "EvadeInitial" IS NULL OR "AirInitial" IS NULL OR "ConsumptionInitial" IS NULL OR "ReloadInitial" IS NULL OR "Armor" IS NULL OR "Speed" IS NULL OR "ASWInitial" IS NULL OR "Oxygen" IS NULL OR "Ammo" IS NULL OR "HealthMax" IS NULL OR "FireMax" IS NULL OR "AAMax" IS NULL OR "TorpMax" IS NULL OR "EvadeMax" IS NULL OR "AirMax" IS NULL OR "ConsumptionMax" IS NULL OR "ReloadMax" IS NULL OR "ASWMax" IS NULL OR "Eq1Type" IS NULL OR "Eq1EffInit" IS NULL OR "Eq1EffInitMax" IS NULL OR "Eq2Type" IS NULL OR "Eq2EffInit" IS NULL OR "Eq2EffInitMax" IS NULL OR "Eq3Type" IS NULL OR "Eq3EffInit" IS NULL OR "Eq3EffInitMax" IS NULL
+|limit=0
+|format=table
+|more results text=Click here to view all ships with missing information
+}}
+
+'''Ships with missing ship drop information:'''
+{{#cargo_query:
+|tables=ship_drops
+|fields=_pageName, Name, ID, Type, Rarity, Nationality, Light, Heavy, Aviation, Exchange, Timer, M1_1, M1_2, M1_3, M1_4, M2_1, M2_2, M2_3, M2_4, M3_1, M3_2, M3_3, M3_4, M4_1, M4_2, M4_3, M4_4, M5_1, M5_2, M5_3, M5_4, M6_1, M6_2, M6_3, M6_4, M7_1, M7_2, M7_3, M7_4, M8_1, M8_2, M8_3, M8_4, M9_1, M9_2, M9_3, M9_4, M10_1, M10_2, M10_3, M10_4, M11_1, M11_2, M11_3, M11_4, M12_1, M12_2, M12_3, M12_4, M13_1, M13_2, M13_3, M13_4, M14_1, M14_2, M14_3, M14_4, M15_1, M15_2, M15_3, M15_4, LightNote, HeavyNote, AviationNote, LimitedNote, ExchangeNote, M1_1note, M1_2note, M1_3note, M1_4note, M2_1note, M2_2note, M2_3note, M2_4note, M3_1note, M3_2note, M3_3note, M3_4note, M4_1note, M4_2note, M4_3note, M4_4note, M5_1note, M5_2note, M5_3note, M5_4note, M6_1note, M6_2note, M6_3note, M6_4note, M7_1note, M7_2note, M7_3note, M7_4note, M8_1note, M8_2note, M8_3note, M8_4note, M9_1note, M9_2note, M9_3note, M9_4note, M10_1note, M10_2note, M10_3note, M10_4note, M11_1note, M11_2note, M11_3note, M11_4note, M12_1note, M12_2note, M12_3note, M12_4note, M13_1note, M13_2note, M13_3note, M13_4note, M14_1note, M14_2note, M14_3note, M14_4note, M15_1note, M15_2note, M15_3note, M15_4note
+|where="Name" IS NULL OR "ID" IS NULL OR "Type" IS NULL OR "Rarity" IS NULL OR "Nationality" IS NULL OR ("Light" IS NULL AND "Heavy" IS NULL AND "Aviation" IS NULL AND "Exchange" IS NULL AND "Timer" IS NULL AND "M1_1" IS NULL AND "M1_2" IS NULL AND "M1_3" IS NULL AND "M1_4" IS NULL AND "M2_1" IS NULL AND "M2_2" IS NULL AND "M2_3" IS NULL AND "M2_4" IS NULL AND "M3_1" IS NULL AND "M3_2" IS NULL AND "M3_3" IS NULL AND "M3_4" IS NULL AND "M4_1" IS NULL AND "M4_2" IS NULL AND "M4_3" IS NULL AND "M4_4" IS NULL AND "M5_1" IS NULL AND "M5_2" IS NULL AND "M5_3" IS NULL AND "M5_4" IS NULL AND "M6_1" IS NULL AND "M6_2" IS NULL AND "M6_3" IS NULL AND "M6_4" IS NULL AND "M7_1" IS NULL AND "M7_2" IS NULL AND "M7_3" IS NULL AND "M7_4" IS NULL AND "M8_1" IS NULL AND "M8_2" IS NULL AND "M8_3" IS NULL AND "M8_4" IS NULL AND "M9_1" IS NULL AND "M9_2" IS NULL AND "M9_3" IS NULL AND "M9_4" IS NULL AND "M10_1" IS NULL AND "M10_2" IS NULL AND "M10_3" IS NULL AND "M10_4" IS NULL AND "M11_1" IS NULL AND "M11_2" IS NULL AND "M11_3" IS NULL AND "M11_4" IS NULL AND "M12_1" IS NULL AND "M12_2" IS NULL AND "M12_3" IS NULL AND "M12_4" IS NULL AND "M13_1" IS NULL AND "M13_2" IS NULL AND "M13_3" IS NULL AND "M13_4" AND "M14_1" IS NULL AND "M14_2" IS NULL AND "M14_3" IS NULL AND "M14_4" IS NULL  AND "M15_1" IS NULL AND "M15_2" IS NULL AND "M15_3" IS NULL AND "M15_4" IS NULL AND "LightNote" IS NULL AND "HeavyNote" IS NULL AND "AviationNote" IS NULL AND "LimitedNote" IS NULL AND "ExchangeNote" IS NULL AND "M1_1note" IS NULL AND "M1_2note" IS NULL AND "M1_3note" IS NULL AND "M1_4note" IS NULL AND "M2_1note" IS NULL AND "M2_2note" IS NULL AND "M2_3note" IS NULL AND "M2_4note" IS NULL AND "M3_1note" IS NULL AND "M3_2note" IS NULL AND "M3_3note" IS NULL AND "M3_4note" IS NULL AND "M4_1note" IS NULL AND "M4_2note" IS NULL AND "M4_3note" IS NULL AND "M4_4note" IS NULL AND "M5_1note" IS NULL AND "M5_2note" IS NULL AND "M5_3note" IS NULL AND "M5_4note" IS NULL AND "M6_1note" IS NULL AND "M6_2note" IS NULL AND "M6_3note" IS NULL AND "M6_4note" IS NULL AND "M7_1note" IS NULL AND "M7_2note" IS NULL AND "M7_3note" IS NULL AND "M7_4note" IS NULL AND "M8_1note" IS NULL AND "M8_2note" IS NULL AND "M8_3note" IS NULL AND "M8_4note" IS NULL AND "M9_1note" IS NULL AND "M9_2note" IS NULL AND "M9_3note" IS NULL AND "M9_4note" IS NULL AND "M10_1note" IS NULL AND "M10_2note" IS NULL AND "M10_3note" IS NULL AND "M10_4note" IS NULL AND "M11_1note" IS NULL AND "M11_2note" IS NULL AND "M11_3note" IS NULL AND "M11_4note" IS NULL AND "M12_1note" IS NULL AND "M12_2note" IS NULL AND "M12_3note" IS NULL AND "M12_4note" IS NULL AND "M13_1note" IS NULL AND "M13_2note" IS NULL AND "M13_3note" IS NULL AND "M13_4note" IS NULL AND "M14_1note" IS NULL AND "M14_2note" IS NULL AND "M14_3note" IS NULL AND "M14_4note" IS NULL AND "M15_1note" IS NULL AND "M15_2note" IS NULL AND "M15_3note" IS NULL AND "M15_4note" IS NULL)
+|limit=0
+|format=table
+|more results text=Click here to view all ships with missing information
+}}
+
+'''Equipment with missing information:''' (Entering a value in DropLocation '''or''' Note '''or''' LabFrom will remove it from this list):
+{{#cargo_query:
+|tables=equipment
+|fields=_pageName, Name, Image, Type, Stars, Tech, Nationality, DropLocation, Notes
+|where="Name" IS NULL OR "Image" IS NULL OR "Type" IS NULL OR "Stars" IS NULL OR "Tech" IS NULL OR "Nationality" IS NULL OR ("DropLocation" IS NULL AND "Notes" IS NULL AND "LabFrom" IS NULL)
+|limit=0
+|format=table
+|more results text=Click here to view all equipment with missing information
+}}
