@@ -11,9 +11,14 @@ When Azur Lane updates, these are the priorities of what should be done.
 :{{Todo|high|Update [[Recent News]] with latest patch information.}}
 ::* {{Todo|high|Update "Row 1 Section: Recent News" on the [[Azur Lane Wiki|main page]] with latest patch information.}}
 :{{Todo|high|Add all new ship and equipment combat-related data to their respective pages.}}
-::* Stats, skills, drop-locations, etc.
-::* Update the [[Augmentation]] wiki page if there are new unique augment modules.
-::* Update [[Research]] pages (especially [[Gear Lab]], [[META Lab]]) as necessary.
+::* {{Todo|high|Create, update and/or fill-in pages for new ships and equipment. This is usually automated with a script.}}
+::* {{Todo|high|Update [[Research]] pages ([[Fleet Technology]], [[Research Academy]], [[Shipyard]], [[Gear Lab]], [[META Lab]]) as necessary.}}
+::* {{Todo|high|Update [[Module:AircraftWeapon/data]] with new plane bomb data as necessary.}}
+::* {{Todo|med|Update the [[Augmentation]] wiki page if there are new unique augment modules.}}
+::* {{Todo|med|Update [[Dockyard#Retrofit|Retrofit]] if there is a new retrofit added.}}
+::* {{Todo|low|Update [[Dockyard#Destroyer_Limit_Break_bonuses|Destroyer Limit Break bonuses]] if a new DD is added.}}
+::* {{Todo|low|Update [[Damage_Calculations#Armor_Break|Armor Break]] section with new data as necessary.}}
+::* {{Todo|low|Update [[Damage_Calculations#Damage_Over_Time_(DOT)|DoT]] section with new data as necessary.}}
 :{{Todo|high|Add all new skin data to their respective pages.}}
 :{{Todo|high|Add event information.}}
 ::* {{Todo|high|Create pages for new [[Events]] as necessary.}}
@@ -66,6 +71,8 @@ These are refactorings / overhauls that will improve the wiki but are very compl
 ::* Current progress can be found [[User:Nobbyfix/dark_mode_progress|here]].
 :{{Todo|low|Add historical notes to individual ship pages as necessary. Please do not go overboard.}}
 ::* For example, the [[Enterprise]] page has a variety of historical notes in both her quotes and skills, especially on her Quotes page. The "Trivia" section is unecessary; do not add it when editing ship pages, but don't remove it on existing pages either.
+:{{Todo|low|Redo aircraft DPS logic.}}
+::* Account for bomb RNG in the numbers. See [[User:Riceist/BombSpread]] for information on aircraft bomb RNG.
 
 == Will Not Fix ==
 These items will not be worked on due to the reasons listed.
