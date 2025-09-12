@@ -1,0 +1,14 @@
+This is a comprehensive guide on how to contribute to the Azur Lane English Wiki effectively.
+
+== Creating an Account ==
+To create a Wiki account, you must first join the [https://discord.gg/VEuScTYbp3 Wiki Discord Server] and post an application in the #applications channel. Usually, we accept almost anyone as long as you are nice and willing to learn. Once you apply, an Admin will send you a DM on Discord to finish the process.
+
+== WikiText Syntax ==
+The Wiki content is mostly written in '''WikiText'''. 
+
+=== Basic Syntax and Layout ===
+
+For normal sentences, you type normally in plain text. 
+
+<code>This is a normal sentence</code>
+ 
