@@ -4,14 +4,14 @@ This is a comprehensive guide on how to contribute to the Azur Lane English Wiki
 To create a Wiki account, you must first join the [https://discord.gg/VEuScTYbp3 Wiki Discord Server] and post an application in the #applications channel. Usually, we accept almost anyone as long as you are nice and willing to learn. Once you apply, an Admin will send you a DM on Discord to finish the process.
 
 == Wikitext ==
-The Wiki content is mostly written in ['''Wikitext''' https://en.wikipedia.org/wiki/Help:Wikitext].
+The Wiki content is mostly written in [https://en.wikipedia.org/wiki/Help:Wikitext '''Wikitext'''].
 
-I highly, highly recommend you read this ['''Cheat Sheet''' http://en.wikipedia.org/wiki/Help:Cheatsheet]. Some of the content in this Cheat Sheet is not relevant to us, as this is for Wikipedia and not the Azur Lane English Wiki, but the majority of the syntax is useful.
+I highly, highly recommend you read this [http://en.wikipedia.org/wiki/Help:Cheatsheet '''Cheat Sheet''']. Some of the content in this Cheat Sheet is not relevant to us, as this is for Wikipedia and not the Azur Lane English Wiki, but the majority of the syntax is useful.
 
 === Files ===
 '''Do NOT upload files without consulting anyone on the staff first.''' 
 
-To search for files, prefix your search with <code>File:</code>. Ex. <code>File:Shipyard</code>
+To search for files, prefix your search with <code>File:</code>. Ex. <code>File:Shipyard</code>. File usage
 
 === Templates ===
 
@@ -25,4 +25,4 @@ For example, <code><nowiki>{{Coin}}</nowiki></code> renders as {{Coin}}.
 Below are a list of commonly used templates on the Wiki:
 
 * [[Template:Main]] / [[Template:See also]] - These are used for subheading text. Example: [[Damage_Calculations#Slash_Damage]] or [[Damage_Calculations#Time_Fuze_AA_Guns]]
-* 
+* test
