@@ -141,6 +141,7 @@ This section of the equipment screen is where you can view your Augment Modules 
 | Aircraft Carrier & Light Aircraft Carrier || {{EquipIcon|One More Ball!|Bogue}}
 {{EquipIcon|Sylvan Dawnbreeze|Centaur}}
 {{EquipIcon|Bizarre Teatime|Chaser}}
+{{EquipIcon|Going for the Bullseye|Independence}}
 {{EquipIcon|Punctual Glory|Glorious}}
 {{EquipIcon|Concentrated Beam-Type Assault Rigging NT|Graf Zeppelin}}
 {{EquipIcon|Resplendent Flower Hairpin|Houshou}}
@@ -159,9 +160,10 @@ This section of the equipment screen is where you can view your Augment Modules 
 {{EquipIcon|Hydrophone Calibration Device|I-58}}
 {{EquipIcon|Surcouf's Sunday|Surcouf}}
 {{EquipIcon|Emotion-Concealing Garb|U-47}}
+{{EquipIcon|Alarmtauchen!|U-81}}
+{{EquipIcon|Special Mix (Do Not Drink)|U-96}}
 {{EquipIcon|"Great Shark"|U-101}}
 {{EquipIcon|1-Cent Coins|U-557}}
-{{EquipIcon|Special Mix (Do Not Drink)|U-96}}
 |-
 | Sailing Frigate || {{EquipIcon|Handwritten Note|Adventure Galley}}
 {{EquipIcon|Crown of Flowing Flames|Amity}}
