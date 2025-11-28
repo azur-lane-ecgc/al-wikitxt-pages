@@ -1,0 +1,148 @@
+== Augment Module Slash Mechanics ==
+
+By equipping certain [[List of Augment Modules|Augment Modules]], a vanguard can perform a '''Slash Attack'''. There are two types of Slash Attacks: '''Spread''' and '''Area'''.
+
+{|class = "azltable" style="width:75%; text-align:center"
+|+List of Augment Modules with Slash Attacks
+!style="width:50%|Spread Type
+!Area Type
+|-
+|{{EquipIcon|Bludgeon of Faith|Algérie}}
+{{EquipIcon|Ryuuki Full Moon|Atago}}
+{{EquipIcon|Carabinier's Honored Hallmark|Carabiniere}}
+{{EquipIcon|Plum-Red Silksteps|Chao Ho}}
+{{EquipIcon|Hermit Dragon of Iwashimizu's Shingon Blade|Choukai}}
+{{EquipIcon|Super Bubblegum Pro Max|Columbia}}
+{{EquipIcon|Shining Comet|Comet}}
+{{EquipIcon|Don't Throw Me Away|Dido}}
+{{EquipIcon|Halo of Fortune|Fortune}}
+{{EquipIcon|Królik and Canteen|Grozny}}
+{{EquipIcon|Blade of the Holy Mountain|Ibuki}}
+{{EquipIcon|Speed S|Jamaica}}
+{{EquipIcon|Full Burst Javelin|Javelin}}
+{{EquipIcon|Floaty Sparkly|Kagerou}}
+{{EquipIcon|Storm-Breaking Fist?|Karlsruhe}}
+{{EquipIcon|The Guardian's Bestowed Sword|Kawakaze}}
+{{EquipIcon|Public-Private Schedule|Köln}}
+{{EquipIcon|Magie de l'Amitié|L'Opiniâtre}}
+{{EquipIcon|Huggy Pillow of Bravery|Laffey}}
+{{EquipIcon|Guardian Fishy|Leipzig}}
+{{EquipIcon|Poisonous Elegance|Le Malin}}
+{{EquipIcon|Flowering Courage|Le Mars}}
+{{EquipIcon|Tem and Opie|Le Téméraire}}
+{{EquipIcon|Knight-Princess's Gauntlets|Le Triomphant}}
+{{EquipIcon|Sister's Care Package|Mogami}}
+{{EquipIcon|Mutsuki's Candy!|Mutsuki}}
+{{EquipIcon|Delicious Nagara-class Nabemono|Nagara}}
+{{EquipIcon|Neptune's Trident|Neptune}}
+{{EquipIcon|To Become Statuesque?|Nicholas}}
+{{EquipIcon|Purse of Everyday Items|Roon}}
+{{EquipIcon|Holy Lance of Judgment|Saint Louis}}
+{{EquipIcon|Grinding Day and Night|Sendai}}
+{{EquipIcon|T3 Sakura Tech Pack (Display Sample)|Shiranui}}
+{{EquipIcon|Watch Your Head!|Shiratsuyu}}
+{{EquipIcon|Sims' Playtime|Sims}}
+{{EquipIcon|You Don't Fear What You Don't Hear|Spence}}
+{{EquipIcon|Lucky Lou|St. Louis}}
+{{EquipIcon|Bright Moon After the Rain|Takao}}
+{{EquipIcon|The Ice Sprite's Kindness|Tashkent}}
+{{EquipIcon|Night Princess' Caprice|Vampire}}
+{{EquipIcon|Ambrosial Violet Whispers|Ying Swei}}
+{{EquipIcon|Order of the White Rose|York}}
+{{EquipIcon|Upgrade Tool Pro Max|Yuubari}}
+{{EquipIcon|The One and Only Style|Z1}}
+{{EquipIcon|Mini Lebe|Z2}}
+{{EquipIcon|Li'l Smile|Z18}}
+{{EquipIcon|Custom-made Companion Rigging - Raubtier|Z23}}
+<br>{{EquipIcon|Hammer|DD}} 
+{{EquipIcon|Sword|CL}}
+|{{EquipIcon|Pirozhki|Avrora}}
+{{EquipIcon|The Ace's Card|Baltimore}}
+{{EquipIcon|Afternoon of Surging Elegance|Belfast}}
+{{EquipIcon|My Friends A and Y|Bulldog}}
+{{EquipIcon|The White Cavalier's Reins|Chapayev}}
+{{EquipIcon|Another Precious Thing|Edinburgh}}
+{{EquipIcon|Teachings of the Seven Bridges|Königsberg}}
+{{EquipIcon|The Lucky Winner|McCall}}
+{{EquipIcon|Just Like Cleve|Montpelier}}
+{{EquipIcon|The Sweetness of Cloudwatching|Suffolk}}
+{{EquipIcon|The General's Battlecoat|Wichita}}
+{{EquipIcon|Fabulous Fioretto|Zara}}
+<br> {{EquipIcon|Dual Swords|DD}}
+{{EquipIcon|Greatsword|CA}}
+|-
+|}
+
+{{Image Gallery|width=400px
+| Augment Module Slash Attack - Spread.gif | Slash Attack - Spread
+| Augment Module Slash Attack - Area.gif | Slash Attack - Area
+}}
+
+===Slash Reload===
+All slash attacks are based on the ''Lead Vanguard Ship''. Once the Lead Vanguard Ship takes damage, a slash is fired. There is a '''15s''' cooldown between slashes (starts on cooldown). '''5s''' after the cooldown ends, if the Lead Vanguard Ship hasn't taken damage, a slash is fired.<br/>
+
+===Slash Damage=== 
+Slash Attacks are assigned a '''Level''', which is dependent on the number and type of Slash Attack Augment Module(s) equipped. When different types of slashes are used in the same fleet, both activate at their respective levels. <br/>
+
+'''Examples''':
+* [[Hammer]] + [[Hammer]] + [[Sword]] = '''Level 3''' Slash Attack - Spread.
+* [[Hammer]] + [[Dual Swords]] + [[Greatsword]] = '''Level 1''' Slash Attack - Spread + '''Level 2''' Slash Attack - Area
+
+All Slash Attacks are unaffected by enemy Armor Modifiers, and work in all game content (including [[Exercise]]).
+<br/>
+
+
+<math>\text{Average Level}</math>: The average Ship Level of all ''Vanguard'' Ships equipped with that '''''specific type''''' of Slash Attack Augment Modules.
+
+{|class = "azltable" style="width:70%; text-align:center"
+|+Slash Attack - Spread
+! style="width:15%"| Slash Level
+! style="width:30%"|Damage Formula
+! style="width:5%"| Diameter
+! style="width:5%"| Range
+! Special Effect
+|-
+! Level 1
+| <math>5 + \text{Average Level} \times 2</math>
+| 24
+| 45
+| Removes enemy bullets
+|-
+! Level 2
+| <math>12 + \text{Average Level} \times 2</math>
+| 24
+| 45
+| Removes enemy bullets; '''fires twice'''
+|-
+! Level 3
+|<math>30 + \text{Average Level} \times 6</math>
+| 24
+| 54
+| Removes both enemy bullets and torpedoes; '''fires twice'''; '''causes [[Damage_Calculations#Armor_Break|Armor Break (ID 401)]]'''
+|-
+|}
+
+{|class = "azltable" style="width:70%; text-align:center"
+|+Slash Attack - Area
+! style="width:15%"| Slash Level
+! style="width:30%"| Damage Formula
+!  style="width:5%"| Diameter
+! Special Effect
+|-
+! Level 1
+| <math>12 + \text{Average Level} \times 6</math>
+| 32
+| Removes enemy torpedoes
+|-
+! Level 2
+| <math>12 + \text{Average Level} \times 6</math>
+| 45
+| Removes enemy torpedoes
+|-
+! Level 3
+|<math>30 + \text{Average Level} \times 14</math>
+| 45
+| Removes both enemy bullets and torpedoes; '''all enemies hit are slowed 20% for 5s'''
+|-
+|}
+<br/>
