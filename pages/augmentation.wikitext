@@ -36,6 +36,7 @@ This section of the equipment screen is where you can view your Augment Modules 
 {{EquipIcon|My Friends A and Y|Bulldog}}
 {{EquipIcon|Carabinier's Honored Hallmark|Carabiniere}}
 {{EquipIcon|Shining Comet|Comet}}
+{{EquipIcon|Squire's Rapier|Forbin}}
 {{EquipIcon|Halo of Fortune|Fortune}}
 {{EquipIcon|Biggest Girl's Bonnie Bells|Fubuki}}
 {{EquipIcon|Królik and Canteen|Grozny}}
@@ -59,10 +60,12 @@ This section of the equipment screen is where you can view your Augment Modules 
 {{EquipIcon|Ultra Rainbow Hammer|Specialized Bulin Custom MKIII}}
 {{EquipIcon|The Ice Sprite's Kindness|Tashkent}}
 {{EquipIcon|Night Princess' Caprice|Vampire}}
+{{EquipIcon|Noble, Lucky, and Invincible|Yukikaze}}
 {{EquipIcon|The One and Only Style|Z1}}
 {{EquipIcon|Mini Lebe|Z2}}
 {{EquipIcon|Li'l Smile|Z18}}
 {{EquipIcon|Custom-made Companion Rigging - Raubtier|Z23}}
+{{EquipIcon|The Stage is Mine|Z35}}
 {{EquipIcon|What Once Was Her World|Z46}}
 |-
 | Light Cruiser || {{EquipIcon|Pirozhki|Avrora}}
@@ -123,6 +126,7 @@ This section of the equipment screen is where you can view your Augment Modules 
 {{EquipIcon|Knight Commander's Medal|King George V}}
 {{EquipIcon|Incanto|Littorio}}
 {{EquipIcon|This Box is Really Heavy|Massachusetts}}
+{{EquipIcon|Monarch's Pledge|Monarch}}
 {{EquipIcon|Wearable Uniqueness|North Carolina}}
 {{EquipIcon|A Royal Knight's Pride|Prince of Wales}}
 {{EquipIcon|Daredevil's Caution|Scharnhorst}}
@@ -146,6 +150,7 @@ This section of the equipment screen is where you can view your Augment Modules 
 {{EquipIcon|Call of a Thousand Cranes|Shoukaku}}
 {{EquipIcon|Majestic Phoenix|Taihou}}
 {{EquipIcon|Splendid as Sky and Sea|Victorious}}
+{{EquipIcon|The Miracle That Symbolizes Freedom|Yorktown}}
 |-
 | Submarine || {{EquipIcon|Prank-of-the-Day!|Albacore}}
 {{EquipIcon|A Praiseworthy Weapon|I-19}}
