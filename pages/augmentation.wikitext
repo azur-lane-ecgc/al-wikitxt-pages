@@ -105,6 +105,7 @@ This section of the equipment screen is where you can view your Augment Modules 
 {{EquipIcon|Blade of the Holy Mountain|Ibuki}}
 {{EquipIcon|Trayastrimsa-Heaven White Scarf|Maya}}
 {{EquipIcon|Hunter's Insignia|Minneapolis}}
+{{EquipIcon|Protector of Order|Myoukou}}
 {{EquipIcon|Lucky Ship's "Punishers"|Prinz Eugen}}
 {{EquipIcon|Purse of Everyday Items|Roon}}
 {{EquipIcon|Holy Lance of Judgment|Saint Louis}}
@@ -114,7 +115,8 @@ This section of the equipment screen is where you can view your Augment Modules 
 {{EquipIcon|Order of the White Rose|York}}
 {{EquipIcon|Fabulous Fioretto|Zara}}
 |-
-| Battleship & Battlecruiser || {{EquipIcon|No More Tears|Arizona}}
+| Battleship & Battlecruiser || {{EquipIcon|Anchor of Fortune|Alabama}} 
+{{EquipIcon|No More Tears|Arizona}}
 {{EquipIcon|The Complete Old Lady Kit|Conte di Cavour}}
 {{EquipIcon|Confections Making Set|Dunkerque}}
 {{EquipIcon|Shichi-Go-San Exorcism Bells|Fusou}}
