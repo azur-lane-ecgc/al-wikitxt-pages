@@ -185,6 +185,8 @@ This section of the equipment screen is where you can view your Augment Modules 
 |-
 | [[Illusory Drifters|BLACK★ROCK SHOOTER]] || {{EquipIcon|Rock Cannon|BLACK★ROCK SHOOTER}} {{EquipIcon|Dead Scythe|DEAD MASTER}}
 |-
+| [[The Alchemist and the Tower of Horizons|Atelier Yumia]] || {{EquipIcon|Ephemeral Record|Yumia Liessfeldt}} {{EquipIcon|Secret Triaina|Isla von Duerer}} {{EquipIcon|Huntress|Nina Friede}} {{EquipIcon|Hellion Mantis|Lenja}}
+|-
 | [[An Encounter Beneath Clear Skies|Danmachi]] || {{EquipIcon|Hestia's String|Hestia}} {{EquipIcon|Alf's Justitia|Ryu Lion}} 
 |-
 | [[Date A Lane|Date A Live]] || {{EquipIcon|Raphael|Kaguya Yamai・Yuzuru Yamai}} {{EquipIcon|Camael|Kotori Itsuka}} {{EquipIcon|Zafkiel|Kurumi Tokisaki}} {{EquipIcon|Metatron|Origami Tobiichi}} {{EquipIcon|Sandalphon|Tohka Yatogami}} {{EquipIcon|Zadkiel|Yoshino}} 
