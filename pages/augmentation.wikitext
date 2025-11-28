@@ -1,0 +1,191 @@
+== Equipment (Augment Modules) ==
+[[File:AugmentTab EN.png|450px|thumb|right|Augment Module Tab]]
+This section of the equipment screen is where you can view your Augment Modules and sort them using filters. The default quantity of Augment Modules that can be stored is 150 and only unequipped Augment Modules counts towards this number.
+
+'''Note:''' Any scrapped, merged, or otherwise destroyed ships will automatically unequip any Augment Modules on them and send it to storage immediately.
+
+''Sailing Frigates can only equip their specific Unique Augment Module if the ship has one.''
+{|class="azltable mw-collapsible" style="text-align:center"
+|+Universal Modules
+!Class
+!Augment Module
+|-
+| Destroyer || {{EquipIcon|Hammer}} {{EquipIcon|Dual Swords}}
+|-
+| Light Cruiser || {{EquipIcon|Crossbow}} {{EquipIcon|Sword}}
+|-
+| Repair Ship || {{EquipIcon|Crossbow}}
+|-
+| Heavy Cruiser & Large Cruiser & Munition Ship || {{EquipIcon|Lance}} {{EquipIcon|Greatsword}}
+|-
+| Monitor || {{EquipIcon|Lance}}
+|-
+| Battleship & Battlecruiser & Aviation Battleship || {{EquipIcon|Bowgun}} {{EquipIcon|Officer's Sword}}
+|-
+| Aircraft Carrier & Light Aircraft Carrier || {{EquipIcon|Scepter}} {{EquipIcon|Hunting Bow}}
+|-
+| Submarine & Aviation Submarine || {{EquipIcon|Kunai}} {{EquipIcon|Dagger}}
+|}
+
+{|class="azltable mw-collapsible" style="text-align:center"
+|+Unique Modules
+!Class
+!Augment Module
+|-
+| Destroyer || {{EquipIcon|Type-35 "Ayanami" Anti-Ship Armament|Ayanami}}
+{{EquipIcon|My Friends A and Y|Bulldog}}
+{{EquipIcon|Carabinier's Honored Hallmark|Carabiniere}}
+{{EquipIcon|Shining Comet|Comet}}
+{{EquipIcon|Halo of Fortune|Fortune}}
+{{EquipIcon|Biggest Girl's Bonnie Bells|Fubuki}}
+{{EquipIcon|Królik and Canteen|Grozny}}
+{{EquipIcon|Hard and Soft|Hardy}}
+{{EquipIcon|Full Burst Javelin|Javelin}}
+{{EquipIcon|Floaty Sparkly|Kagerou}}
+{{EquipIcon|The Guardian's Bestowed Sword|Kawakaze}}
+{{EquipIcon|Magie de l'Amitié|L'Opiniâtre}}
+{{EquipIcon|Huggy Pillow of Bravery|Laffey}}
+{{EquipIcon|Poisonous Elegance|Le Malin}}
+{{EquipIcon|Flowering Courage|Le Mars}}
+{{EquipIcon|Tem and Opie|Le Téméraire}}
+{{EquipIcon|Knight-Princess's Gauntlets|Le Triomphant}}
+{{EquipIcon|The Lucky Winner|McCall}}
+{{EquipIcon|Mutsuki's Candy!|Mutsuki}}
+{{EquipIcon|To Become Statuesque?|Nicholas}}
+{{EquipIcon|T3 Sakura Tech Pack (Display Sample)|Shiranui}}
+{{EquipIcon|Watch Your Head!|Shiratsuyu}}
+{{EquipIcon|Sims' Playtime|Sims}}
+{{EquipIcon|You Don't Fear What You Don't Hear|Spence}}
+{{EquipIcon|Ultra Rainbow Hammer|Specialized Bulin Custom MKIII}}
+{{EquipIcon|The Ice Sprite's Kindness|Tashkent}}
+{{EquipIcon|Night Princess' Caprice|Vampire}}
+{{EquipIcon|The One and Only Style|Z1}}
+{{EquipIcon|Mini Lebe|Z2}}
+{{EquipIcon|Li'l Smile|Z18}}
+{{EquipIcon|Custom-made Companion Rigging - Raubtier|Z23}}
+{{EquipIcon|What Once Was Her World|Z46}}
+|-
+| Light Cruiser || {{EquipIcon|Pirozhki|Avrora}}
+{{EquipIcon|Afternoon of Surging Elegance|Belfast}}
+{{EquipIcon|Plum-Red Silksteps|Chao Ho}}
+{{EquipIcon|The White Cavalier's Reins|Chapayev}}
+{{EquipIcon|Super Bubblegum Pro Max|Columbia}}
+{{EquipIcon|Don't Throw Me Away|Dido}}
+{{EquipIcon|Pursuer's Proof|Duca degli Abruzzi}}
+{{EquipIcon|Another Precious Thing|Edinburgh}}
+{{EquipIcon|Fantastic Loop|Émile Bertin}}
+{{EquipIcon|Speed S|Jamaica}}
+{{EquipIcon|Storm-Breaking Fist?|Karlsruhe}}
+{{EquipIcon|Public-Private Schedule|Köln}}
+{{EquipIcon|Teachings of the Seven Bridges|Königsberg}}
+{{EquipIcon|Guardian Fishy|Leipzig}}
+{{EquipIcon|Sister's Care Package|Mogami}}
+{{EquipIcon|Just Like Cleve|Montpelier}}
+{{EquipIcon|Delicious Nagara-class Nabemono|Nagara}} 
+{{EquipIcon|Neptune's Trident|Neptune}}
+{{EquipIcon|Da Bao|Ning Hai}} 
+{{EquipIcon|Baobao|Ping Hai}} 
+{{EquipIcon|Star Blaster|San Diego}}
+{{EquipIcon|Grinding Day and Night|Sendai}}
+{{EquipIcon|Cherished Cleaning Equipment|Sheffield}}
+{{EquipIcon|Lucky Lou|St. Louis}}
+{{EquipIcon|Ambrosial Violet Whispers|Ying Swei}}
+{{EquipIcon|Upgrade Tool Pro Max|Yuubari}}
+|-
+| Heavy Cruiser|| {{EquipIcon|Tunken der Liebe|Admiral Hipper}} 
+{{EquipIcon|Bludgeon of Faith|Algérie}}
+{{EquipIcon|Ryuuki Full Moon|Atago}}
+{{EquipIcon|The Ace's Card|Baltimore}}
+{{EquipIcon|Hermit Dragon of Iwashimizu's Shingon Blade|Choukai}}
+{{EquipIcon|Proof of Inheritance|Exeter}}
+{{EquipIcon|Houston's Liftoff|Houston}}
+{{EquipIcon|Blade of the Holy Mountain|Ibuki}}
+{{EquipIcon|Trayastrimsa-Heaven White Scarf|Maya}}
+{{EquipIcon|Hunter's Insignia|Minneapolis}}
+{{EquipIcon|Lucky Ship's "Punishers"|Prinz Eugen}}
+{{EquipIcon|Purse of Everyday Items|Roon}}
+{{EquipIcon|Holy Lance of Judgment|Saint Louis}}
+{{EquipIcon|The Sweetness of Cloudwatching|Suffolk}}
+{{EquipIcon|Bright Moon After the Rain|Takao}}
+{{EquipIcon|The General's Battlecoat|Wichita}}
+{{EquipIcon|Order of the White Rose|York}}
+{{EquipIcon|Fabulous Fioretto|Zara}}
+|-
+| Battleship & Battlecruiser || {{EquipIcon|No More Tears|Arizona}}
+{{EquipIcon|The Complete Old Lady Kit|Conte di Cavour}}
+{{EquipIcon|Confections Making Set|Dunkerque}}
+{{EquipIcon|Shichi-Go-San Exorcism Bells|Fusou}}
+{{EquipIcon|Yesterday Or the Night Before That|Gangut}}
+{{EquipIcon|Calculations Complete!|Gneisenau}}
+{{EquipIcon|Dame's Medal of Grace|Hood}}
+{{EquipIcon|Muramasa and Masamune|Izumo}}
+{{EquipIcon|Templar Knight's Battle Standard|Jean Bart}}
+{{EquipIcon|Knight Commander's Medal|King George V}}
+{{EquipIcon|Incanto|Littorio}}
+{{EquipIcon|This Box is Really Heavy|Massachusetts}}
+{{EquipIcon|Wearable Uniqueness|North Carolina}}
+{{EquipIcon|A Royal Knight's Pride|Prince of Wales}}
+{{EquipIcon|Daredevil's Caution|Scharnhorst}}
+{{EquipIcon|The Sturdiest, Strongest Shield|South Dakota}}
+{{EquipIcon|Rime Sword of the Great One|Sovetskaya Rossiya}}
+{{EquipIcon|Lonely Queen's Flag|Tirpitz}} 
+{{EquipIcon|Old Lady's Royal Sword|Warspite}}
+{{EquipIcon|Victory Bell|Washington}} 
+|-
+| Aircraft Carrier & Light Aircraft Carrier || {{EquipIcon|One More Ball!|Bogue}}
+{{EquipIcon|Sylvan Dawnbreeze|Centaur}}
+{{EquipIcon|Bizarre Teatime|Chaser}}
+{{EquipIcon|Punctual Glory|Glorious}}
+{{EquipIcon|Concentrated Beam-Type Assault Rigging NT|Graf Zeppelin}}
+{{EquipIcon|Resplendent Flower Hairpin|Houshou}}
+{{EquipIcon|For Love and Peace|Illustrious}}
+{{EquipIcon|Streamer's Secret Weapon|Long Island}}
+{{EquipIcon|The Punctualist's Ceremonial Needle|Peter Strasser}} 
+{{EquipIcon|Sister Sara's Magic Wand!|Saratoga}}
+{{EquipIcon|Explorer's Eye|Shangri-La}}
+{{EquipIcon|Call of a Thousand Cranes|Shoukaku}}
+{{EquipIcon|Majestic Phoenix|Taihou}}
+{{EquipIcon|Splendid as Sky and Sea|Victorious}}
+|-
+| Submarine || {{EquipIcon|Prank-of-the-Day!|Albacore}}
+{{EquipIcon|A Praiseworthy Weapon|I-19}}
+{{EquipIcon|Hydrophone Calibration Device|I-58}}
+{{EquipIcon|Surcouf's Sunday|Surcouf}}
+{{EquipIcon|Emotion-Concealing Garb|U-47}}
+{{EquipIcon|"Great Shark"|U-101}}
+{{EquipIcon|1-Cent Coins|U-557}}
+{{EquipIcon|Special Mix (Do Not Drink)|U-96}}
+|-
+| Sailing Frigate || {{EquipIcon|Handwritten Note|Adventure Galley}}
+{{EquipIcon|Crown of Flowing Flames|Amity}}
+{{EquipIcon|Brilliant Trinket|Dolphin}}
+{{EquipIcon|Inhuman Heart|Fancy}}
+{{EquipIcon|Treasure Ship's Lantern|Ganj-i-Sawai}}
+{{EquipIcon|Land's End Helm|Golden Hind}}
+{{EquipIcon|Ghost Ship's Scythe|Mary Celeste}}
+{{EquipIcon|Special Spirits|Portsmouth Adventure}}
+{{EquipIcon|Lance of the Golden Age|São Martinho}}
+{{EquipIcon|Portable "Little Guys"|Whydah}}
+|}
+
+{|class="azltable mw-collapsible" style="text-align:center"
+|+Unique Modules (Collaboration Ships)
+!Collaboration
+!Augment Module
+|-
+| [[The Alchemist and the Archipelago of Secrets|Atelier Ryza]] || {{EquipIcon|Elder Lily|Kala Ideas}} {{EquipIcon|Astrumnox|Klaudia Valentz}} {{EquipIcon|Oren Herald|Lila Decyrus}} {{EquipIcon|Edel Schwert|Patricia Abelheim}} {{EquipIcon|Sparkling Reverie|Reisalin Stout}} {{EquipIcon|Grand Floracion|Serri Glaus}}
+|-
+| [[Vacation Lane|Dead or Alive Xtreme Venus Vacation]] || {{EquipIcon|Cream Puff|Honoka}} {{EquipIcon|Strawberry Mille-Feuille|Kasumi (Venus Vacation)}} {{EquipIcon|Roasted Sweet Potato|Luna}} {{EquipIcon|Prinsesstårta|Marie Rose}} {{EquipIcon|Mango Vanilla Crepe|Misaki}} {{EquipIcon|Papanasi|Monica}} {{EquipIcon|Souffle Pancake|Nagisa}} {{EquipIcon|Manjuu Bun|Nyotengu}} {{EquipIcon|Macaroon|Tamaki}}
+|-
+| [[World-Spanning_Arclight|Gridman Universe]] || {{EquipIcon|Confinement Program|Akane Shinjo}} {{EquipIcon|Big Goldburn Zentangle|Chise Asukagawa}} {{EquipIcon|Buster Borr Upgrade|Hass}} {{EquipIcon|Kaiju Seed|Mujina}} {{EquipIcon|Battle Tracto Max Upgrade|Namiko}} {{EquipIcon|Dragon Ornament|Princess Hime}} {{EquipIcon|Primal Accepter|Rikka Takarada}} {{EquipIcon|Live Baton|The 2nd}} {{EquipIcon|Dyna Wing|Yume Minami}}
+|-
+| [[The Ninja Scrolls: Azur Flash|Senran Kagura]] || {{EquipIcon|Twin Blades - Two-Sided Winding Flash|Asuka}} {{EquipIcon|Feather Fan - Purple Ice Linked Blossoms|Fubuki (Senran Kagura)}} {{EquipIcon|Six Swords - Homura the Pioneer|Homura}} {{EquipIcon|Sword Draw - Phoenix's Flashing Flight|Ikaruga}} {{EquipIcon|Shuriken - Full Moon Hidden in Shade|Murasaki}} {{EquipIcon|Folding Fan - Frosty Sleeves Snow Dance|Yumi}} {{EquipIcon|Tachis - Hankane|Yūyaki}}
+|-
+| [[Dangerous Inventions Incoming!|To LOVE-Ru]] || {{EquipIcon|Omnitool|Lala Satalin Deviluke}} {{EquipIcon|Animal Attack|Nana Astar Deviluke}} {{EquipIcon|Burst Flower|Momo Belia Deviluke}} {{EquipIcon|Golden Slash|Golden Darkness}} {{EquipIcon|Emergency Fire Extinguisher|Haruna Sairenji}} {{EquipIcon|Banner of Order|Yui Kotegawa}}
+|-
+| [[Illusory Drifters|BLACK★ROCK SHOOTER]] || {{EquipIcon|Rock Cannon|BLACK★ROCK SHOOTER}} {{EquipIcon|Dead Scythe|DEAD MASTER}}
+|-
+| [[An Encounter Beneath Clear Skies|Danmachi]] || {{EquipIcon|Hestia's String|Hestia}} {{EquipIcon|Alf's Justitia|Ryu Lion}} 
+|-
+| [[Date A Lane|Date A Live]] || {{EquipIcon|Raphael|Kaguya Yamai・Yuzuru Yamai}} {{EquipIcon|Camael|Kotori Itsuka}} {{EquipIcon|Zafkiel|Kurumi Tokisaki}} {{EquipIcon|Metatron|Origami Tobiichi}} {{EquipIcon|Sandalphon|Tohka Yatogami}} {{EquipIcon|Zadkiel|Yoshino}} 
+|}
