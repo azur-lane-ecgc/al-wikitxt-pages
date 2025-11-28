@@ -165,14 +165,19 @@ This section of the equipment screen is where you can view your Augment Modules 
 {{EquipIcon|"Great Shark"|U-101}}
 {{EquipIcon|1-Cent Coins|U-557}}
 |-
-| Sailing Frigate || {{EquipIcon|Handwritten Note|Adventure Galley}}
+| Sailing Frigate || {{EquipIcon|Adventure's Staff|Adventure}}
+{{EquipIcon|Handwritten Note|Adventure Galley}}
 {{EquipIcon|Crown of Flowing Flames|Amity}}
 {{EquipIcon|Brilliant Trinket|Dolphin}}
 {{EquipIcon|Inhuman Heart|Fancy}}
 {{EquipIcon|Treasure Ship's Lantern|Ganj-i-Sawai}}
 {{EquipIcon|Land's End Helm|Golden Hind}}
+{{EquipIcon|Spear of Order and Judgment|Lyme}}
 {{EquipIcon|Ghost Ship's Scythe|Mary Celeste}}
+{{EquipIcon|Heart of Pearl|Pearl}}
 {{EquipIcon|Special Spirits|Portsmouth Adventure}}
+{{EquipIcon|Evening Rose|Queen Anne's Revenge}}
+{{EquipIcon|Seeker's Saber|Royal James}}
 {{EquipIcon|Lance of the Golden Age|São Martinho}}
 {{EquipIcon|Portable "Little Guys"|Whydah}}
 |}
