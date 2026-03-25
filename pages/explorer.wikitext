@@ -1,0 +1,841 @@
+== Tarot Cards ==
+<gallery widths="200" heights="200" perrow="2" mode="packed-hover">
+File:Tarot_0.png|[[#The_Fool|The Fool]]
+File:Tarot_1.png|[[#The Magician|The Magician]]
+File:Tarot_2.png|[[#The High Priestess|The High Priestess]]
+File:Tarot_3.png|[[#The Empress|The Empress]]
+File:Tarot_4.png|[[#The Emperor|The Emperor]]
+File:Tarot_5.png|[[#The Hierophant|The Hierophant]]
+File:Tarot_6.png|[[#The Lovers|The Lovers]]
+File:Tarot_7.png|[[#The Chariot|The Chariot]]
+File:Tarot_8.png|[[#Strength|Strength]]
+File:Tarot_9.png|[[#The Hermit|The Hermit]]
+File:Tarot_10.png|[[#Wheel of Fortune|Wheel of Fortune]]
+File:Tarot_11.png|[[#Justice|Justice]]
+File:Tarot_12.png|[[#The Hanged Man|The Hanged Man]]
+File:Tarot_13.png|[[#Death|Death]]
+File:Tarot_14.png|[[#Temperance|Temperance]]
+File:Tarot_15.png|[[#The Devil|The Devil]]
+File:Tarot_16.png|[[#The Tower|The Tower]]
+File:Tarot_17.png|[[#The Star|The Star]]
+File:Tarot_18.png|[[#The Moon|The Moon]]
+File:Tarot_19.png|[[#The Sun|The Sun]]
+File:Tarot_20.png|[[#Judgment|Judgment]]
+File:Tarot_21.png|[[#The World|The World]]
+</gallery>
+
+
+----
+<span id="The_Fool">
+[[File:Tarot_0.png|center|200px|The Fool]]
+<div style="font-weight:bold;text-align:center;"><code>The Fool</code>
+When spending AP, +5% to amount of all stats gained next turn.
+
+
+{| class="mw-collapsible mw-collapsed wikitable"style="text-align:center; margin:auto;"
+! colspan="2" | Readings
+|-
+| colspan="2"|<div class="thumb center"><div class="thumbinner" style="width:102px;text-align:center;">
+[[Image:Reading_0.png|100px]]<div class="thumbcaption"><div style="font-weight:bold;line-height:1.6;text-align:center;">
+</div></div></div>
+|-
+| The Fool I 
+| Effect
+|-
+| The Fool II
+| Effect
+|-
+|}
+</div></div>
+</span>
+<br/>
+----
+<span id="The_Magician">
+[[File:Tarot_1.png|center|200px|The Fool]]
+<div style="font-weight:bold;text-align:center;"><code>The Magician</code>
+Activate a random effect every turn: Fund +200/100, Mood +50, AP +3, 1 random stat +200/60/20.
+
+
+{| class="mw-collapsible mw-collapsed wikitable"style="text-align:center; margin:auto;"
+! colspan="2" | Readings
+|-
+| colspan="2"|<div class="thumb center"><div class="thumbinner" style="width:102px;text-align:center;">
+[[Image:Reading_1.png|100px]]<div class="thumbcaption"><div style="font-weight:bold;line-height:1.6;text-align:center;">
+</div></div></div>
+|-
+| The Magician I 
+| Effect
+|-
+| The Magician II
+| Effect
+|-
+|}
+</div></div>
+</span>
+<br/>
+----
+<span id="The High Priestess">
+[[File:Tarot_2.png|center|200px|The High Priestess]]
+<div style="font-weight:bold;text-align:center;"><code>The High Priestess</code>
+When gaining AP, Funds, Mood, and Personality all within 1 turn, gain Reading The High Priestess - IV (for 1 turn, +100% to amount of resources gained).
+
+
+{| class="mw-collapsible mw-collapsed wikitable"style="text-align:center; margin:auto;"
+! colspan="2" | Readings
+|-
+| colspan="2"|<div class="thumb center"><div class="thumbinner" style="width:102px;text-align:center;">
+[[Image:Reading_2.png|100px]]<div class="thumbcaption"><div style="font-weight:bold;line-height:1.6;text-align:center;">
+</div></div></div>
+|-
+| The High Priestess I 
+| Effect
+|-
+| The High Priestess II
+| Effect
+|-
+|}
+</div></div>
+</span>
+<br/>
+----
+<span id="The Empress">
+[[File:Tarot_3.png|center|200px|The Empress]]
+<div style="font-weight:bold;text-align:center;"><code>The Empress</code>
+Every time 50 Funds are spent within a turn, +8 to all stats. 
+
+
+{| class="mw-collapsible mw-collapsed wikitable"style="text-align:center; margin:auto;"
+! colspan="2" | Readings
+|-
+| colspan="2"|<div class="thumb center"><div class="thumbinner" style="width:102px;text-align:center;">
+[[Image:Reading_3.png|100px]]<div class="thumbcaption"><div style="font-weight:bold;line-height:1.6;text-align:center;">
+</div></div></div>
+|-
+| The Empress I 
+| Effect
+|-
+| The Empress II
+| Effect
+|-
+|}
+</div></div>
+</span>
+<br/>
+----
+<span id="The Emperor">
+[[File:Tarot_4.png|center|200px|The Emperor]]
+<div style="font-weight:bold;text-align:center;"><code>The Emperor</code>
+Cost of good at the Fortune Teller -15%.
+
+
+{| class="mw-collapsible mw-collapsed wikitable"style="text-align:center; margin:auto;"
+! colspan="2" | Readings
+|-
+| colspan="2"|<div class="thumb center"><div class="thumbinner" style="width:102px;text-align:center;">
+[[Image:Reading_4.png|100px]]<div class="thumbcaption"><div style="font-weight:bold;line-height:1.6;text-align:center;">
+</div></div></div>
+|-
+| The Emperor I 
+| Effect
+|-
+| The Emperor II
+| Effect
+|-
+|}
+</div></div>
+</span>
+<br/>
+----
+<span id="The Hierophant">
+[[File:Tarot_5.png|center|200px|The Hierophant]]
+<div style="font-weight:bold;text-align:center;"><code>The Hierophant</code>
+At turn start, gain Reading The Hierophant - IV (for 1 turn, +150% to amount gained of a random stat).
+
+
+{| class="mw-collapsible mw-collapsed wikitable"style="text-align:center; margin:auto;"
+! colspan="2" | Readings
+|-
+| colspan="2"|<div class="thumb center"><div class="thumbinner" style="width:102px;text-align:center;">
+[[Image:Reading_5.png|100px]]<div class="thumbcaption"><div style="font-weight:bold;line-height:1.6;text-align:center;">
+</div></div></div>
+|-
+| The Hierophant I 
+| Effect
+|-
+| The Hierophant II
+| Effect
+|-
+|}
+</div></div>
+</span>
+<br/>
+----
+<span id="The Lovers">
+[[File:Tarot_6.png|center|200px|The Lovers]]
+<div style="font-weight:bold;text-align:center;"><code>The Lovers</code>
+At turn end, if an even amount of AP were spent while Going Outside, Mood +50.
+
+
+{| class="mw-collapsible mw-collapsed wikitable"style="text-align:center; margin:auto;"
+! colspan="2" | Readings
+|-
+| colspan="2"|<div class="thumb center"><div class="thumbinner" style="width:102px;text-align:center;">
+[[Image:Reading_6.png|100px]]<div class="thumbcaption"><div style="font-weight:bold;line-height:1.6;text-align:center;">
+</div></div></div>
+|-
+| The Lovers I 
+| Effect
+|-
+| The Lovers II
+| Effect
+|-
+|}
+</div></div>
+</span>
+<br/>
+----
+<span id="The Chariot">
+[[File:Tarot_7.png|center|200px|The Chariot]]
+<div style="font-weight:bold;text-align:center;"><code>The Chariot</code>
+For every Reading of Strength, The Sun, Judgment, and Swords possessed, amount of Fitness gained +10%.
+
+
+{| class="mw-collapsible mw-collapsed wikitable"style="text-align:center; margin:auto;"
+! colspan="2" | Readings
+|-
+| colspan="2"|<div class="thumb center"><div class="thumbinner" style="width:102px;text-align:center;">
+[[Image:Reading_7.png|100px]]<div class="thumbcaption"><div style="font-weight:bold;line-height:1.6;text-align:center;">
+</div></div></div>
+|-
+| The Chariot I 
+| Effect
+|-
+| The Chariot II
+| Effect
+|-
+|}
+</div></div>
+</span>
+<br/>
+----
+<span id="Strength">
+[[File:Tarot_8.png|center|200px|Strength]]
+<div style="font-weight:bold;text-align:center;"><code>Strength</code>
+When gaining Knowledge, gain Fitness equal to 25% of the amount gained. 
+
+
+{| class="mw-collapsible mw-collapsed wikitable"style="text-align:center; margin:auto;"
+! colspan="2" | Readings
+|-
+| colspan="2"|<div class="thumb center"><div class="thumbinner" style="width:102px;text-align:center;">
+[[Image:Reading_8.png|100px]]<div class="thumbcaption"><div style="font-weight:bold;line-height:1.6;text-align:center;">
+</div></div></div>
+|-
+| Strength I 
+| Effect
+|-
+| Strength II
+| Effect
+|-
+|}
+</div></div>
+</span>
+<br/>
+----
+<span id="The Hermit">
+[[File:Tarot_9.png|center|200px|The Hermit]]
+<div style="font-weight:bold;text-align:center;"><code>The Hermit</code>
+At turn end, if there is 1 AP remaining, +20% to all stats gained next turn.
+
+
+
+{| class="mw-collapsible mw-collapsed wikitable"style="text-align:center; margin:auto;"
+! colspan="2" | Readings
+|-
+| colspan="2"|<div class="thumb center"><div class="thumbinner" style="width:102px;text-align:center;">
+[[Image:Reading_9.png|100px]]<div class="thumbcaption"><div style="font-weight:bold;line-height:1.6;text-align:center;">
+</div></div></div>
+|-
+| The Hermit I 
+| Effect
+|-
+| The Hermit II
+| Effect
+|-
+|}
+</div></div>
+</span>
+<br/>
+----
+<span id="Wheel of Fortune">
+[[File:Tarot_10.png|center|200px|Wheel of Fortune]]
+<div style="font-weight:bold;text-align:center;"><code>Wheel of Fortune</code>
+Every 3 turns, gain a random Reading, but also -3% to amount of all stats gained permanently (stacking up to 20 times).
+
+
+
+{| class="mw-collapsible mw-collapsed wikitable"style="text-align:center; margin:auto;"
+! colspan="2" | Readings
+|-
+| colspan="2"|<div class="thumb center"><div class="thumbinner" style="width:102px;text-align:center;">
+[[Image:Reading_10.png|100px]]<div class="thumbcaption"><div style="font-weight:bold;line-height:1.6;text-align:center;">
+</div></div></div>
+|-
+| Wheel of Fortune I 
+| Effect
+|-
+| Wheel of Fortune II
+| Effect
+|-
+|}
+</div></div>
+</span>
+<br/>
+----
+<span id="Justice">
+[[File:Tarot_11.png|center|200px|Justice]]
+<div style="font-weight:bold;text-align:center;"><code>Justice</code>
+For every Reading possessed with "II" or "Two" in its name, +22 to all stats at every turn end.
+
+
+
+{| class="mw-collapsible mw-collapsed wikitable"style="text-align:center; margin:auto;"
+! colspan="2" | Readings
+|-
+| colspan="2"|<div class="thumb center"><div class="thumbinner" style="width:102px;text-align:center;">
+[[Image:Reading_11.png|100px]]<div class="thumbcaption"><div style="font-weight:bold;line-height:1.6;text-align:center;">
+</div></div></div>
+|-
+| Justice I 
+| Effect
+|-
+| Justice II
+| Effect
+|-
+|}
+</div></div>
+</span>
+<br/>
+----
+<span id="The Hanged Man">
+[[File:Tarot_12.png|center|200px|The Hanged Man]]
+<div style="font-weight:bold;text-align:center;"><code>The Hanged Man</code>
+At turn start, lose all Funds. For every 5 Funds lost, +1 to all stats.
+
+
+
+{| class="mw-collapsible mw-collapsed wikitable"style="text-align:center; margin:auto;"
+! colspan="2" | Readings
+|-
+| colspan="2"|<div class="thumb center"><div class="thumbinner" style="width:102px;text-align:center;">
+[[Image:Reading_12.png|100px]]<div class="thumbcaption"><div style="font-weight:bold;line-height:1.6;text-align:center;">
+</div></div></div>
+|-
+| The Hanged Man I 
+| Effect
+|-
+| The Hanged Man II
+| Effect
+|-
+|}
+</div></div>
+</span>
+<br/>
+----
+<span id="Death">
+[[File:Tarot_13.png|center|200px|Death]]
+<div style="font-weight:bold;text-align:center;"><code>Death</code>
+For every Reading of Death, The Devil, The Tower, and The Moon possessed, +1% to amount of all resources gained.
+
+
+
+{| class="mw-collapsible mw-collapsed wikitable"style="text-align:center; margin:auto;"
+! colspan="2" | Readings
+|-
+| colspan="2"|<div class="thumb center"><div class="thumbinner" style="width:102px;text-align:center;">
+[[Image:Reading_13.png|100px]]<div class="thumbcaption"><div style="font-weight:bold;line-height:1.6;text-align:center;">
+</div></div></div>
+|-
+| Death I 
+| Effect
+|-
+| Death II
+| Effect
+|-
+|}
+</div></div>
+</span>
+<br/>
+----
+<span id="Temperance">
+[[File:Tarot_14.png|center|200px|Temperance]]
+<div style="font-weight:bold;text-align:center;"><code>Temperance</code>
+When gaining Mood, gain Funds equal to 30% of the amount gained.
+
+
+
+{| class="mw-collapsible mw-collapsed wikitable"style="text-align:center; margin:auto;"
+! colspan="2" | Readings
+|-
+| colspan="2"|<div class="thumb center"><div class="thumbinner" style="width:102px;text-align:center;">
+[[Image:Reading_14.png|100px]]<div class="thumbcaption"><div style="font-weight:bold;line-height:1.6;text-align:center;">
+</div></div></div>
+|-
+| Temperance I 
+| Effect
+|-
+| Temperance II
+| Effect
+|-
+|}
+</div></div>
+</span>
+<br/>
+----
+<span id="The Devil">
+[[File:Tarot_15.png|center|200px|The Devil]]
+<div style="font-weight:bold;text-align:center;"><code>The Devil</code>
+For every Reading of Death possessed, amount of Funds gained +4%.
+
+
+
+{| class="mw-collapsible mw-collapsed wikitable"style="text-align:center; margin:auto;"
+! colspan="2" | Readings
+|-
+| colspan="2"|<div class="thumb center"><div class="thumbinner" style="width:102px;text-align:center;">
+[[Image:Reading_15.png|100px]]<div class="thumbcaption"><div style="font-weight:bold;line-height:1.6;text-align:center;">
+</div></div></div>
+|-
+| The Devil I 
+| Effect
+|-
+| The Devil II
+| Effect
+|-
+|}
+</div></div>
+</span>
+<br/>
+----
+<span id="The Tower">
+[[File:Tarot_16.png|center|200px|The Tower]]
+<div style="font-weight:bold;text-align:center;"><code>The Tower</code>
+Gain Reading The Tower - VI (every turn, +50 to all stats. When performing any activity, -2% to all stats). For every reading of The Tower possessed, +10 to all stats every turn.
+
+
+
+{| class="mw-collapsible mw-collapsed wikitable"style="text-align:center; margin:auto;"
+! colspan="2" | Readings
+|-
+| colspan="2"|<div class="thumb center"><div class="thumbinner" style="width:102px;text-align:center;">
+[[Image:Reading_16.png|100px]]<div class="thumbcaption"><div style="font-weight:bold;line-height:1.6;text-align:center;">
+</div></div></div>
+|-
+| The Tower I 
+| Effect
+|-
+| The Tower II
+| Effect
+|-
+|}
+</div></div>
+</span>
+<br/>
+----
+<span id="The Star">
+[[File:Tarot_17.png|center|200px|The Star]]
+<div style="font-weight:bold;text-align:center;"><code>The Star</code>
+When spending AP in a random event, +3% to all stats.
+
+
+
+
+
+{| class="mw-collapsible mw-collapsed wikitable"style="text-align:center; margin:auto;"
+! colspan="2" | Readings
+|-
+| colspan="2"|<div class="thumb center"><div class="thumbinner" style="width:102px;text-align:center;">
+[[Image:Reading_17.png|100px]]<div class="thumbcaption"><div style="font-weight:bold;line-height:1.6;text-align:center;">
+</div></div></div>
+|-
+| The Star I 
+| Effect
+|-
+| The Star II
+| Effect
+|-
+|}
+</div></div>
+</span>
+<br/>
+----
+<span id="The Moon">
+[[File:Tarot_18.png|center|200px|The Moon]]
+<div style="font-weight:bold;text-align:center;"><code>The Moon</code>
+At turn start, if Personality is extremely Outgoing or extremely Shy (i.e. either Personality value is 100 or higher), +30% to amount of all stats gained.
+
+
+
+
+
+{| class="mw-collapsible mw-collapsed wikitable"style="text-align:center; margin:auto;"
+! colspan="2" | Readings
+|-
+| colspan="2"|<div class="thumb center"><div class="thumbinner" style="width:102px;text-align:center;">
+[[Image:Reading_18.png|100px]]<div class="thumbcaption"><div style="font-weight:bold;line-height:1.6;text-align:center;">
+</div></div></div>
+|-
+| The Moon I 
+| Effect
+|-
+| The Moon II
+| Effect
+|-
+|}
+</div></div>
+</span>
+<br/>
+----
+<span id="The Sun">
+[[File:Tarot_19.png|center|200px|The Sun]]
+<div style="font-weight:bold;text-align:center;"><code>The Sun</code>
+For every Reading possessed, +2% to amount of all stats gained.
+
+
+
+
+
+{| class="mw-collapsible mw-collapsed wikitable"style="text-align:center; margin:auto;"
+! colspan="2" | Readings
+|-
+| colspan="2"|<div class="thumb center"><div class="thumbinner" style="width:102px;text-align:center;">
+[[Image:Reading_19.png|100px]]<div class="thumbcaption"><div style="font-weight:bold;line-height:1.6;text-align:center;">
+</div></div></div>
+|-
+| The Sun I 
+| Effect
+|-
+| The Sun II
+| Effect
+|-
+|}
+</div></div>
+</span>
+<br/>
+----
+<span id="Judgment">
+[[File:Tarot_20.png|center|200px|The Sun]]
+<div style="font-weight:bold;text-align:center;"><code>Judgment</code>
+For every Reading of Judgement possesed, +5% to all stats after every assessment.
+
+
+
+
+
+{| class="mw-collapsible mw-collapsed wikitable"style="text-align:center; margin:auto;"
+! colspan="2" | Readings
+|-
+| colspan="2"|<div class="thumb center"><div class="thumbinner" style="width:102px;text-align:center;">
+[[Image:Reading_20.png|100px]]<div class="thumbcaption"><div style="font-weight:bold;line-height:1.6;text-align:center;">
+</div></div></div>
+|-
+| Judgement I 
+| Effect
+|-
+| Judgment II
+| Effect
+|-
+|}
+</div></div>
+</span>
+<br/>
+----
+<span id="The World">
+[[File:Tarot_21.png|center|200px|The World]]
+<div style="font-weight:bold;text-align:center;"><code>The World</code>
+When possessing 3 or more Readings of The World, gain 1 Extra Turn every 3 turns.
+
+
+
+
+
+{| class="mw-collapsible mw-collapsed wikitable"style="text-align:center; margin:auto;"
+! colspan="2" | Readings
+|-
+| colspan="2"|<div class="thumb center"><div class="thumbinner" style="width:102px;text-align:center;">
+[[Image:Reading_21.png|100px]]<div class="thumbcaption"><div style="font-weight:bold;line-height:1.6;text-align:center;">
+</div></div></div>
+|-
+| The World I 
+| Effect
+|-
+| The World II
+| Effect
+|-
+|}
+</div></div>
+</span>
+<br/>
+----
+<br/>
+{| class="mw-collapsible wikitable"style="text-align:center; margin:auto;"
+! colspan="2" | Cups 
+|-
+| colspan="2"|<div class="thumb center"><div class="thumbinner" style="width:102px;text-align:center;">
+[[Image:Reading_Cups.png|100px]]<div class="thumbcaption"><div style="font-weight:bold;line-height:1.6;text-align:center;">
+</div></div></div>
+|-
+| Ace of Cups
+| Effect
+|-
+| Two of Cups
+| Effect
+|-
+|}
+</div>
+<br/>
+
+{| class="mw-collapsible wikitable"style="text-align:center; margin:auto;"
+! colspan="2" | Pentacles 
+|-
+| colspan="2"|<div class="thumb center"><div class="thumbinner" style="width:102px;text-align:center;">
+[[Image:Reading_Pentacles.png|100px]]<div class="thumbcaption"><div style="font-weight:bold;line-height:1.6;text-align:center;">
+</div></div></div>
+|-
+| Ace of Pentacles
+| Effect
+|-
+| Two of Pentacles
+| Effect
+|-
+|}
+</div>
+<br/>
+
+{| class="mw-collapsible wikitable"style="text-align:center; margin:auto;"
+! colspan="2" | Swords 
+|-
+| colspan="2"|<div class="thumb center"><div class="thumbinner" style="width:102px;text-align:center;">
+[[Image:Reading_Swords.png|100px]]<div class="thumbcaption"><div style="font-weight:bold;line-height:1.6;text-align:center;">
+</div></div></div>
+|-
+| Ace of Swords
+| Effect
+|-
+| Two of Swords
+| Effect
+|-
+|}
+</div>
+<br/>
+
+{| class="mw-collapsible wikitable"style="text-align:center; margin:auto;"
+! colspan="2" | Wands 
+|-
+| colspan="2"|<div class="thumb center"><div class="thumbinner" style="width:102px;text-align:center;">
+[[Image:Reading_Wands.png|100px]]<div class="thumbcaption"><div style="font-weight:bold;line-height:1.6;text-align:center;">
+</div></div></div>
+|-
+| Ace of Wands
+| Effect
+|-
+| Two of Wands
+| Effect
+|-
+|}
+</div>
+<br/>
+=== Weekly Schedule ===
+----Play Ball Game | Funds -6; Mood -1; Fitness +5
+
+Play with Wooden Blocks | Funds -6; Mood -1; Dexterity +5
+
+Read | Funds -6; Mood -1; Knowledge +5
+
+Have a Think | Funds -6; Mood -1; Sensitivity +5
+
+Dance Practice | Mood +3
+
+Do House Work | Funds + 8
+
+
+
+=== Go Outside ===
+----
+
+==== Sightseeing ====
+Spend AP to recover Mood. 
+
+==== Experiences ====
+Spend AP to gain Funds. 
+
+==== Events ====
+Spend action points to encounter random events at specific locations. 
+
+* Academy
+* Souvenir Shop
+* Cafe
+* Seaside Park
+* Hardware Store 
+* Diner 
+* Gastronomy District
+* Tranquil Summit
+* Sports Ground 
+* World of Wonder
+
+==== Ship Girl Quests ====
+New Jersey - Outgoing | New Jersey Blessing - Dexterity activities consume -50% Mood. 
+
+Sirius - Shy | Sirius Blessing - Knowledge activities consume -50% Mood.  
+
+De Zeven Provincien - Outgoing | Blessing - Sensitivity activities consume -50% Mood.  
+
+Epee - Shy | Epee Blessing - When shopping at the Fortune Teller, Funds spent -10%  
+
+Tashkent- Outgoing | Tashkent Blessing - Fitness activities consume -50% Mood.   
+
+Noshiro - Shy | Noshiro's Blessing - At turn start, if Mood <70, Mood +20. If Mood is 70 or higher, +25(fixed) to all stats.     
+
+=== Moments ===
+----1/18
+
+Message in a Bottle
+
+A Run-In with a Seal
+
+Under the Night Sky
+
+Prayer by The Pond
+
+The Seagull's Cry 
+
+Leisurely Mood 
+
+Reflections in the Water  
+
+Trial of Fallen Leaves  
+
+A Moment at the Lake  
+
+Far Away 
+
+After Snowfall 
+
+Stacking Stones  
+
+A Finger's Ripples 
+
+Twinkling Lights 
+
+Stillness of the Pages 
+
+Drifting on the Lake 
+
+A Tranquil Lake 
+
+Our First Voyage  
+
+=== Endings ===
+----
+
+After 20 turns you are presented with a set of endings that Lora is eligible for depending on what you did during the playthrough. 
+
+To achieve the Pianist or Botanist ending, you must complete an event chain for each. These are marked on the '''Go Outside''' map with an orange ! symbol.  
+{| class="wikitable" style="text-align:center; margin: auto;"
+|+
+!Ending
+!Stat Total Requirement
+!Specific Stat Requirement
+!Personality Requirement
+!Special Requirements
+|-
+![[Memories/Project_Identity:_Explorer#tabber-Chapter_31|Going to University]]
+|
+|
+|
+|Complete Growth
+|-
+![[Memories/Project_Identity:_Explorer#tabber-Chapter_32|A Homemaker at Heart]]
+|>3000
+|
+|
+|
+|-
+![[Memories/Project_Identity:_Explorer#tabber-Chapter_33|Haute Couture Designer]]
+|>4000
+|
+|
+|
+|-
+![[Memories/Project_Identity:_Explorer#tabber-Chapter_34|Food Influencer]]
+|>4000
+|
+|Outgoing
+|
+|-
+![[Memories/Project_Identity:_Explorer#tabber-Chapter_35|Light Novelist]]
+|>4000
+|
+|Shy 
+|
+|-
+![[Memories/Project_Identity:_Explorer#tabber-Chapter_36|Newspaper Journalist]]
+|
+|
+|Personality - Outgoing > 80
+|
+|-
+![[Memories/Project_Identity:_Explorer#tabber-Chapter_37|Mascot Costume Actor]]
+|
+|
+|Personality - Shy > 80
+|
+|-
+![[Memories/Project_Identity:_Explorer#tabber-Chapter_38|Flower Shop Manager]]
+|
+|Sensitivity > 6000
+|
+|Go Sightseeing 20+ Times
+|-
+![[Memories/Project_Identity:_Explorer#tabber-Chapter_39|Traveler]]
+|
+|
+|
+|Go Sightseeing 20+ Times
+|-
+![[Memories/Project_Identity:_Explorer#tabber-Chapter_40|Fishing Expert]]
+|>12000
+|Fitness > 4000
+|
+|
+|-
+![[Memories/Project_Identity:_Explorer#tabber-Chapter_41|Barista]]
+|>12000
+|Dexterity > 4000
+|
+|
+|-
+![[Memories/Project_Identity:_Explorer#tabber-Chapter_42|Fourtune-Teller]]
+|>12000
+|Sensitivity > 4000
+|
+|
+|-
+![[Memories/Project_Identity:_Explorer#tabber-Chapter_43|Bookstore Employee]]
+|
+|
+|
+|Have 20+ Experiences
+|-
+![[Memories/Project_Identity:_Explorer#tabber-Chapter_44|Pianist]]
+|
+|
+|
+|Requires 3 Special Events
+|-
+![[Memories/Project_Identity:_Explorer#tabber-Chapter_45|Botanist]]
+|
+|
+|
+|Requires 3 Special Events
+|}
