@@ -28,13 +28,7 @@
 |
 <code><nowiki>[[copy edit]]</nowiki></code><br>
 <code><nowiki>[[copy edit]]ors</nowiki></code>
-|
-[[copy edit]]<br>
-[[copy edit]]ors
-|-
-|colspan="3" style="border-top:1px solid #cee0f2;"|
-|-
-|
+
 "[[Wikipedia:Piped link|Pipe]]" a link to change the link's text
 |
 <code><nowiki>[[Android (operating system)|Android]]</nowiki></code>
@@ -161,110 +155,13 @@ This statement is true.{{cn}}
 |-
 |colspan="3" style="border-top:1px solid #cee0f2;"|
 |-
-|[[Wikipedia:Picture tutorial|Show an image]]
-<div style="padding: 0.7em .5em; font-size:0.9em;">''for uploading, see the [[Help:Introduction to uploading images|intro to uploading images]]''</div>
-{{Anchor|Thumbnail image}}
-|
-{{Notice|For a complete list of wikitext codes, see <b>[[Help:Wikitext]]</b>.}}
-{|align="center" class="wikitable" style="width:100%; text-align:left;"
-|colspan="3" align="center" style="text-align:center;" |
-<h2 style="margin:.5em; margin-top:.1em; margin-bottom:.1em; border-bottom:0; font-weight:bold;"><br>Wikitext Cheatsheet</h2>
-|-
-| colspan=3 style="text-align:center;" |
-'''Works anywhere in the text'''
-|-
-| width="30%" | Description
-| You type
-| width="30%" | You get
-|-
-|Italics, bold, and both
-|<code><nowiki>''italics'', '''bold''', and '''''both'''''</nowiki></code>
-|''italics'', '''bold''', and '''''both'''''
-|-
-|Link to another page
-|<code><nowiki>[[Enterprise]]</nowiki></code>
-|[[Enterprise]]
-|-
-|"Pipe" a link to change the link's text
-|<code><nowiki>[[Enterprise (CV-6)|Enterprise]]</nowiki></code>
-|[[Enterprise (CV-6)|Enterprise]]
-|-
-|Link to a section
-|<code><nowiki>[[Research#Priority_System|Priority System]]</nowiki></code>
-|[[Research#Priority_System|Priority System]]
-|-
-|Plain website
-|<code><nowiki>https://azurlane.koumakan.jp/wiki/Azur_Lane_Wiki</nowiki></code>
-|https://azurlane.koumakan.jp/wiki/Azur_Lane_Wiki
-|-
-|Link and name a website
-|<code><nowiki>[https://azurlane.koumakan.jp/wiki/Azur_Lane_Wiki Azur Lane Wiki]</nowiki></code>
-|[https://azurlane.koumakan.jp/wiki/Azur_Lane_Wiki Azur Lane Wiki]
-|-
-|Show an image
-|<code><nowiki>[[File:Shipyard_background.png|thumb|Caption]]</nowiki></code>
-|[[File:Shipyard_background.png|thumb|Caption]]
-|-
-|Add a page to a category
-|<code><nowiki>[[Category:Category name]]</nowiki></code>
-|Shows "Category name" in a bar at bottom when the page is previewed or published
-|-
-|Link to a category or file
-|<code><nowiki>[[:Category:Category name]]</nowiki></code><br><code><nowiki>[[:File:File name]]</nowiki></code>
-|[[:Category:Category name]]<br>[[:File:File name]]
-|-
-| colspan="3" style="text-align:center;" | '''Works only at the beginning of lines'''
-|-
-|Description
-|You type
-|You get
-|-
-|Redirect to another page
-|<code><nowiki>#REDIRECT [[Target page]]</nowiki></code>
-|[[File:Redirect arrow without text.svg|30px|link=]] [[Target page]]
-|-
-|Section headings
-|<code><nowiki>== Level 2 ==</nowiki></code><br>
-<code><nowiki>=== Level 3 ===</nowiki></code><br>
-<code><nowiki>==== Level 4 ====</nowiki></code>
-|
-== Level 2 ==
-=== Level 3 ===
-==== Level 4 ====
-|-
-|Bulleted list
-|<code>* One</code><br>
-<code>* Two</code><br>
-<code>** Two point one</code><br>
-<code>* Three</code>
-|
-* One
-* Two
-** Two point one
-* Three
-|-
-|Numbered list
-|<code># One</code><br>
-<code># Two</code><br>
-<code>## Two point one</code><br>
-<code># Three</code>
-|
-# One
-# Two
-## Two point one
-# Three
-|-
-|Indenting text
-|<code>no indent (normal)</code><br>
-<code>: first indent</code><br>
-<code>:: second indent</code>
-|
-no indent (normal)<br>
-: first indent
-:: second indent
+ |[[Wikipedia:Picture tutorial|Show an image]]
+ <div style="padding: 0.7em .5em; font-size:0.9em;">''for uploading, see the [[Help:Introduction to uploading images|intro to uploading images]]''</div>
+ {{Anchor|Thumbnail image}}
+ |
 |}
-
-== Azur Lane Wiki Templates ==
+ 
+ == Azur Lane Wiki Templates ==
 This is a list of commonly used templates on this wiki. Please expand this section with more examples.
 
 === ShipDisplay ===
@@ -317,26 +214,11 @@ Used for displaying items in an event shop.
 |cost=
 |amount=
 |pool=
-}}
-</nowiki></pre>
+ }}
+ </nowiki></pre>
 
-|
-[[File:Wiki.png|thumb|Caption]]
-|-
-|colspan="3" style="border-top:1px solid #cee0f2;"|
-|-
-|Add a page to a [[Wikipedia:FAQ/Categories|category]]{{Anchor|Add a page to a category}}
-|<code><nowiki>[[Category:Category name]]</nowiki></code><br><br><span style="font-size:0.9em;">''place near the bottom of a page''</span>
-|<span style="font-size:0.9em;">''shows''</span> "Category name" <span style="font-size:0.9em;">''in a bar at bottom when the page is previewed or published''</span>
-|-
-|colspan="3" style="border-top:1px solid #cee0f2;"|
-|-
-|Link to a [[Wikipedia:FAQ/Categories|category]] or [[Help:Files|file]]
-|<br><code><nowiki>[[:Category:Category name]]</nowiki></code><br><code><nowiki>[[:File:File name]]</nowiki></code>
-|<br>[[:Category:Wikipedia basic information]]<br>[[:File:Example.jpg]]
-
-
-|-<!--WORKS ONLY AT THE BEGINNING OF LINES-->
+{|align="center" class="notheme" style="width:100%; border:2px #a3b1bf solid; background:#f5faff; text-align:left;"
+ |-<!--WORKS ONLY AT THE BEGINNING OF LINES-->
 | colspan="3" style="background:#E6F2FF; border-top:2px #a3b1bf solid; text-align:center;" | '''Works only at the beginning of lines''' &nbsp; &nbsp;
 |-<!--COLUMN HEADINGS--> style="background:#E6F2FF; padding:0.3em; font-size: 0.9em; text-align:center;"
 | style="border-bottom:2px #a3b1bf solid" width="30%" | Description
