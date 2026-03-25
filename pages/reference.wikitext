@@ -1,0 +1,18 @@
+<!-------------------- ABOUT / NOTICE --------------------><div class="row">
+<!----- SECTION: About Azur Lane -----><div class="col col-12">
+{{ContentBoxSimple
+| scheme = green
+| padding = 20px
+| content =
+<div class="col col-8" style="padding-right:50px;">
+<p style="font-size:1.7rem; margin:0 0 1em;">Commander, welcome to the '''Azur Lane English Wiki'''!</p>
+<p>{{L|''Azur Lane''|碧蓝航线|アズールレーン}} is a Chinese mobile game developed by Manjuu and Yongshi, published by [https://www.bilibili.com/ BiliBili] for both iOS and Android. Service began on May 25th, 2017 for iOS and June 2nd, 2017 for Android.</p>
+<p>Japanese servers opened up on September 14th, 2017 for both iOS and Android.</p>
+<p>English servers opened up for Open Beta on August 16th, 2018 for both iOS and Android, with official release on [[Recent News/EN/2019#May 20th 2019|May 20th, 2019]].</p>
+</div>
+<div class="col col-4">
+{{HomeIconItem|link=|title=Azur Lane Official|image=Discord.svg|external=https://discord.gg/azurlane}}
+{{HomeIconItem|link=|title=Azur Lane Community|image=Discord.svg|external=https://discord.gg/uv88h5P}}
+{{HomeIconItem|link=|title=Azur Lane Wiki server|image=Discord.svg|external=https://discord.gg/VEuScTYbp3}}
+{{HomeIconItem|link=|title=English Reddit|image=Reddit.svg|external=https://www.reddit.com/r/AzureLane}}
+</div>}}</div></div>
