@@ -1,8 +1,0 @@
-<templatestyles src="User:Samheart564/Homepage/Template:WikiRecruitment/styles.css"/>
-<div class="recruiting-banner">
-<div class="recruiting-img">[[File:Super_Gamer_Kizuna_AI.png]]</div>
-<div class="recruiting-text-container">
-<div class="recruiting-text recruiting-text1">Start editing NOW!</div>
-<div class="recruiting-text  recruiting-text2">Your Shipgirl needs <u>YOU</u> to <u>FIX</u> her page!</div>
-</div>
-</div>
