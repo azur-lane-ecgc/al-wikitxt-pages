@@ -8,12 +8,10 @@
 | scheme = green
 | padding = 20px
 | content =
-<div class="col col-8" style="padding-right:50px;">
-<p style="font-size:1.7rem; margin:0 0 1em;">Commander, welcome to the '''Azur Lane English Wiki'''!</p>
-<p>{{L|''Azur Lane''|碧蓝航线|アズールレーン}} is a Chinese mobile game developed by Manjuu and Yongshi, published by [https://www.bilibili.com/ BiliBili] for both iOS and Android. Service began on May 25th, 2017 for iOS and June 2nd, 2017 for Android.</p>
+<p style="font-size:1.7rem; margin:0 0 1em;text-align:center;">Commander, welcome to the '''Azur Lane English Wiki'''!</p>
+<p>{{L|''Azur Lane''|碧蓝航线|アズールレーン}} is a Chinese mobile game developed by Manjuu and Yongshi and is published by [https://www.bilibili.com/ BiliBili] (CN) / [https://www.yo-star.com/en-us/ Yostar] (JP, Global) for both iOS and Android. Service began on May 25th, 2017 for iOS and June 2nd, 2017 for Android.</p>
 <p>Japanese servers opened up on September 14th, 2017 for both iOS and Android.</p>
 <p>English servers opened up for Open Beta on August 16th, 2018 for both iOS and Android, with official release on [[Recent News/EN/2019#May 20th 2019|May 20th, 2019]].</p>
-</div>
 }}
 </div>
 </div>
