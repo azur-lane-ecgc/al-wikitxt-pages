@@ -6,8 +6,9 @@ By equipping certain [[List of Augment Modules|Augment Modules]], a vanguard can
 |+List of Augment Modules with Slash Attacks
 !style="width:50%|Spread Type
 !Area Type
-|-
-|{{EquipIcon|Bludgeon of Faith|Algérie}}
+|- 
+| <!-- Spread Augments -->
+{{EquipIcon|Bludgeon of Faith|Algérie}}
 {{EquipIcon|Ryuuki Full Moon|Atago}}
 {{EquipIcon|Carabinier's Honored Hallmark|Carabiniere}}
 {{EquipIcon|Plum-Red Silksteps|Chao Ho}}
@@ -15,6 +16,7 @@ By equipping certain [[List of Augment Modules|Augment Modules]], a vanguard can
 {{EquipIcon|Super Bubblegum Pro Max|Columbia}}
 {{EquipIcon|Shining Comet|Comet}}
 {{EquipIcon|Don't Throw Me Away|Dido}}
+{{EquipIcon|Squire's Rapier|Forbin}}
 {{EquipIcon|Halo of Fortune|Fortune}}
 {{EquipIcon|Królik and Canteen|Grozny}}
 {{EquipIcon|Blade of the Holy Mountain|Ibuki}}
@@ -54,9 +56,12 @@ By equipping certain [[List of Augment Modules|Augment Modules]], a vanguard can
 {{EquipIcon|Mini Lebe|Z2}}
 {{EquipIcon|Li'l Smile|Z18}}
 {{EquipIcon|Custom-made Companion Rigging - Raubtier|Z23}}
+{{EquipIcon|The Stage is Mine|Z35}}
 <br>{{EquipIcon|Hammer|DD}} 
 {{EquipIcon|Sword|CL}}
-|{{EquipIcon|Pirozhki|Avrora}}
+| <!-- Area Augments -->
+{{EquipIcon|Tunken der Liebe|Admiral Hipper}}
+{{EquipIcon|Pirozhki|Avrora}}
 {{EquipIcon|The Ace's Card|Baltimore}}
 {{EquipIcon|Afternoon of Surging Elegance|Belfast}}
 {{EquipIcon|My Friends A and Y|Bulldog}}
@@ -65,8 +70,10 @@ By equipping certain [[List of Augment Modules|Augment Modules]], a vanguard can
 {{EquipIcon|Teachings of the Seven Bridges|Königsberg}}
 {{EquipIcon|The Lucky Winner|McCall}}
 {{EquipIcon|Just Like Cleve|Montpelier}}
+{{EquipIcon|Protector of Order|Myoukou}}
 {{EquipIcon|The Sweetness of Cloudwatching|Suffolk}}
 {{EquipIcon|The General's Battlecoat|Wichita}}
+{{EquipIcon|Noble, Lucky, and Invincible|Yukikaze}}
 {{EquipIcon|Fabulous Fioretto|Zara}}
 <br> {{EquipIcon|Dual Swords|DD}}
 {{EquipIcon|Greatsword|CA}}
