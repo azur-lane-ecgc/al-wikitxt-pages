@@ -19,7 +19,7 @@
 <div class="row">
 <div class="col col-12">
 {{ContentBox
-| title = Your Shipgirl needs YOUR HELP to FIX her page!
+| title = Your Shipgirl needs YOU to FIX her page!
 | scheme = lavender
 
 | logo = home head amazon.png
@@ -44,7 +44,7 @@
 </div>
 <div class="col col-6">
 {{HomeListItem|external=https://discord.com/invite/azurlane|title=Discord Server}}
-{{HomeListItem|external=https://yo-topup.com/page/shop/azurlane|title=Official Top-up}}
+{{HomeListItem|external=https://yo-topup.com/page/shop/azurlane|title=Azur Lane Yo-Topup}}
 {{HomeListItem|external=https://x.com/AzurLane_EN|title=Developer's Twitter}}
 </div>
 </div>
