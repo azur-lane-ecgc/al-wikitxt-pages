@@ -1,8 +1,6 @@
 <div class="azl azl home">
 <div class="azl main">
-
 <!-------------------- ABOUT / NOTICE -------------------->
-
 <div class="row">
 <div class="col col-12">
 <!----- SECTION: About Azur Lane ----->
@@ -19,9 +17,7 @@
 }}
 </div>
 </div>
-
 <!-------------------- ROW 1 -------------------->
-
 <div class="row">
 <div class="col col-4">
 <!----- SECTION: Global Client Links ----->
@@ -90,9 +86,7 @@
 }}
 </div>
 </div>
-
 <!-------------------- ROW 2 -------------------->
-
 <div class="row" style="margin-bottom:0px;">
 <div class="col col-8 col-special" style="margin-bottom:20px;">
 <!----- SECTION: Recent News ----->
@@ -186,7 +180,6 @@
 {{HomeIconItem|image=Data Key.png|title=War Archives}}
 </div>
 }}
-
 <!----- SECTION: Combat Extras ----->
 {{ContentBox
 | scheme = blue
@@ -203,9 +196,7 @@
 }}
 </div>
 </div>
-
 <!-------------------- ROW 3 -------------------->
-
 <div class="row">
 <div class="col col-8">
 <!----- SECTION: Campaign ----->
@@ -256,9 +247,7 @@
 }}
 </div>
 </div>
-
 <!-------------------- ROW 4 -------------------->
-
 <div class="row">
 <div class="col col-12">
 <!----- SECTION: Gameplay and Mechanics ----->
@@ -404,9 +393,7 @@
 }}
 </div>
 </div>
-
 <!-------------------- ROW 5 -------------------->
-
 <div class="row" style="margin-bottom:0px;">
 <!----- SECTION: Ships ----->
 <div class="col col-3">
@@ -439,12 +426,10 @@
 </div>
 }}
 </div>
-
 <!----- SECTION: List of Equipment ----->
 <div class="col col-3">
 {{EquipNavbox|blue|650}}
 </div>
-
 <!----- SECTION: Nations ----->
 <div class="col col-3">
 {{ContentBox
@@ -471,7 +456,6 @@
 </div>
 }}
 </div>
-
 <!----- SECTION: Misc. ----->
 <div class="col col-3">
 {{ContentBox
@@ -499,8 +483,6 @@
 }}
 </div>
 </div>
-
 </div>
 </div>
-
 [[Category:Azur Lane Wiki]]
