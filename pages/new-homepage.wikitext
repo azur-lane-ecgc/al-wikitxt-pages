@@ -1,5 +1,8 @@
 <div class="azl azl home">
 <div class="azl main">
+<!-------------------- WIKI RECRUITMENT -------------------->
+{{User:Samheart564/Homepage/Template:WikiRecruitment}}
+
 <!-------------------- ABOUT / NOTICE -------------------->
 <div class="row">
 <div class="col col-12">
@@ -481,6 +484,7 @@
 }}
 </div>
 </div>
+
 </div>
 </div>
 [[Category:Azur Lane Wiki]]
