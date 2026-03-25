@@ -1,0 +1,415 @@
+<div class="azl azl home">
+<div class="azl main">
+<!-------------------- ABOUT / NOTICE --------------------><div class="row">
+<!----- SECTION: About Azur Lane -----><div class="col col-12">
+{{ContentBoxSimple
+| scheme = green
+| padding = 20px
+| content =
+<div class="col col-8" style="padding-right:50px;">
+<p style="font-size:1.7rem; margin:0 0 1em;">Commander, welcome to the '''Azur Lane English Wiki'''!</p>
+<p>{{L|''Azur Lane''|碧蓝航线|アズールレーン}} is a Chinese mobile game developed by Manjuu and Yongshi, published by [https://www.bilibili.com/ BiliBili] for both iOS and Android. Service began on May 25th, 2017 for iOS and June 2nd, 2017 for Android.</p>
+<p>Japanese servers opened up on September 14th, 2017 for both iOS and Android.</p>
+<p>English servers opened up for Open Beta on August 16th, 2018 for both iOS and Android, with official release on [[Recent News/EN/2019#May 20th 2019|May 20th, 2019]].</p>
+</div>
+}}</div></div><!--
+
+
+-------------------- ROW 1 --------------------><div class="row">
+<div class="col col-4">
+<!----- SECTION: Global Client Links ----->{{ContentBox
+| scheme = blue
+| forceHeight = 120px
+| title = Global Client Links
+| logo = home head enterprise.png
+| content =
+<div class="row" style="padding:20px">
+<div class="col col-6">
+{{HomeListItem|external=https://azurlane.yo-star.com/|title=Official Website}}
+{{HomeListItem|external=https://apps.apple.com/us/app/azur-lane/id1411126549|title=iOS App Store}}
+{{HomeListItem|external=https://play.google.com/store/apps/details?id=com.YoStarEN.AzurLane|title=Google Play Store}}
+</div>
+<div class="col col-6">
+{{HomeListItem|external=https://discord.com/invite/azurlane|title=Discord Server}}
+{{HomeListItem|external=https://yo-topup.com/page/shop/azurlane|title=Official Top-up}}
+{{HomeListItem|external=https://x.com/AzurLane_EN|title=Developer's Twitter}}
+</div>
+</div>}}</div>
+<div class="col col-4">
+<!----- SECTION: Chinese Client Links ----->{{ContentBox
+| scheme = yellow
+| forceHeight = 120px
+| title = Chinese Client Links
+| logo = home head ninghai.png
+| content =
+<div class="row" style="padding:20px">
+<div class="col col-6">
+{{HomeListItem|external=http://blhx.biligame.com|title=Official Website}}
+{{HomeListItem|external=https://itunes.apple.com/cn/app/bi-lan-hang-xian/id1170457573|title=iOS App Store}}
+{{HomeListItem|external=https://apps.qoo-app.com/en/app/5242|title=Android QooApp}}
+</div>
+<div class="col col-6">
+{{HomeListItem|link=Bilibili Registration|title=Registration Guide}}
+{{HomeListItem|external=https://wiki.biligame.com/blhx/|title=Chinese Wiki}}
+{{HomeListItem|external=https://weibo.com/azurlane|title=Developer's Weibo}}
+</div>
+</div>}}</div>
+<div class="col col-4">
+<!----- SECTION: Japanese Client Links ----->{{ContentBox
+| scheme = pink
+| forceHeight = 120px
+| title= Japanese Client Links
+| logo= home head kaga.png
+| content = <div class="row" style="padding:20px">
+<div class="col col-6">
+{{HomeListItem|external=http://www.azurlane.jp|title=Official Website}}
+{{HomeListItem|external=https://itunes.apple.com/jp/app/id1242186587|title=iOS App Store}}
+{{HomeListItem|external=https://play.google.com/store/apps/details?id=com.YoStarJP.AzurLane|title=Google Play Store}}
+</div>
+<div class="col col-6">
+{{HomeListItem|external=https://apps.qoo-app.com/en/app/5488|title=Android QooApp}}
+{{HomeListItem|external=http://azurlane.wikiru.jp|title=Japanese Wiki}}
+{{HomeListItem|external=https://twitter.com/azurlane_staff|title=Developer's Twitter}}
+</div>
+</div>}}</div></div><!--
+
+
+-------------------- ROW 2 --------------------><div class="row" style="margin-bottom:0px;">
+<div class="col col-8 col-special" style="margin-bottom:20px;">
+<!----- SECTION: Recent News ----->{{ServerNewsList
+| scheme = blue
+| logo = Home_head_enterprise.png
+| title = News
+| timeCurrent = <span class="time_title">Current Time</span><span class="time_values_box"><span>EN: <span class="js_time_placeholder" id="serverDateEN"></span> UTC-7</span><span>JP: <span class="js_time_placeholder" id="serverDateJP"></span> UTC+9</span><span>CN: <span class="js_time_placeholder" id="serverDateCN"></span> UTC+8</span></span>
+| content =
+{{NewsItemEN
+| type = update
+| link = Recent News#March 19th_2026
+| month = Mar
+| day = 19
+| title = March 19th Patch Notes
+| message = Reflections of the Oasis ships permanent added, TB 3.0, W16 clearing mode, new skins and more
+| image = [[File:Attilio RegoloBanner.png|x110px]]
+| imageTop = 0px
+| imageLeft = -160px
+}}
+{{NewsItemEN
+| type = event
+| link = ???
+| month = Mar
+| day = 27
+| title = [UPCOMING] Sakura SP event
+| message = (March 27 - April 9) -
+| image = [[File:ShinanoBanner.png|x110px]]
+| imageTop = 0px
+| imageLeft = -160px
+}}
+{{NewsItemEN
+| type = event
+| link = Snowrealm Peregrination
+| month = Mar
+| day = 12
+| title = [ENDED] Snowrealm Peregrination
+| message = (March 12 - March 18) Sovetsky Soyuz, Ognevoy, Pamiat' Merkuria META and more return!
+| image = [[File:Sovetsky SoyuzBanner.png|x110px]]
+| imageTop = 0px
+| imageLeft = -160px
+}}
+{{NewsItemEN
+| type = event
+| link = Springtide Inn Online
+| month = Feb
+| day = 26
+| title = [ENDED] Springtide Inn Online
+| message = (February 26 - March 11) UR event with CA Moskva
+| image = [[File:MoskvaBanner.png|x110px]]
+| imageTop = 0px
+| imageLeft = -160px
+}}
+{{NewsItemEN
+| type = event
+| link = Spring Auction Adventure
+| month = Feb
+| day = 13
+| title = [ENDED] Spring Auction Adventure
+| message = (February 12 - February 25) Lunar New Year 2026!
+| image = [[File:Chang WuBanner.png|x110px]]
+| imageTop = 0px
+| imageLeft = -160px
+}}
+{{NewsItemEN
+| type = event
+| link = Commission Exchange Plan
+| month = Jan
+| day = 29
+| title = [ONGOING] Commission Exchange Plan V
+| message = (January 29 - March 25) Gain bonus cubes and more!
+| image = [[File:MemphisBanner.png|x110px]]
+| imageTop = 0px
+| imageLeft = -160px
+}}
+}}</div>
+<div class="col col-4 col-special" style="margin-bottom:20px;">
+<!----- SECTION: Weigh Anchor -----> {{ContentBox
+| scheme = blue
+| forceHeight = 274px
+| title = Weigh Anchor
+| logo = home head unicorn.png
+| content =
+<div style="padding:10px;">
+{{HomeIconItem|image=home item raid.png|title=Daily Raid}}
+{{HomeIconItem|image=home item comm.png|title=Commissions}}
+{{HomeIconItem|image=home item pvp.png|title=Exercise}}
+{{HomeIconItem|image=home item events.png|title=Events}}
+{{HomeIconItem|image=Data Key.png|title=War Archives}}
+</div>}}
+<!----- SECTION: Combat Extras ----->{{ContentBox
+| scheme = blue
+| forceHeight = 180px
+| marginTop = 20px
+| title = Combat Extras
+| logo = home head cleve.png
+| content =
+<div style="padding:10px;">
+{{HomeIconItem|title=Hard Mode}}
+{{HomeIconItem|title=Ship Drop Table|link=List of Ship Drops}}
+{{HomeIconItem|title=Item Drop Table|link=Equipment Drop Table}}
+</div>}}</div></div><!--
+
+
+-------------------- ROW 3 --------------------><div class="row">
+<div class="col col-8">
+<!----- SECTION: Campaign ----->{{ContentBox
+| scheme = blue
+| forceHeight = 300px
+| title = Campaign
+| logo = home head sortie.png
+| content =
+<div style="padding:10px;">
+{{HomeIconItem|class=col col-4|image=home_item_world.png|title=Chapter 1}}
+{{HomeIconItem|class=col col-4|image=home_item_world.png|title=Chapter 2}}
+{{HomeIconItem|class=col col-4|image=home_item_world.png|title=Chapter 3}}
+{{HomeIconItem|class=col col-4|image=home_item_world.png|title=Chapter 4}}
+{{HomeIconItem|class=col col-4|image=home_item_world.png|title=Chapter 5}}
+{{HomeIconItem|class=col col-4|image=home_item_world.png|title=Chapter 6}}
+{{HomeIconItem|class=col col-4|image=home_item_world.png|title=Chapter 7}}
+{{HomeIconItem|class=col col-4|image=home_item_world.png|title=Chapter 8}}
+{{HomeIconItem|class=col col-4|image=home_item_world.png|title=Chapter 9}}
+{{HomeIconItem|class=col col-4|image=home_item_world.png|title=Chapter 10}}
+{{HomeIconItem|class=col col-4|image=home_item_world.png|title=Chapter 11}}
+{{HomeIconItem|class=col col-4|image=home_item_world.png|title=Chapter 12}}
+{{HomeIconItem|class=col col-4|image=home_item_world.png|title=Chapter 13}}
+{{HomeIconItem|class=col col-4|image=home_item_world.png|title=Chapter 14}}
+{{HomeIconItem|class=col col-4|image=home_item_world.png|title=Chapter 15}}
+{{HomeIconItem|class=col col-4|image=home_item_world.png|title=Chapter 16}}
+</div>}}</div>
+<div class="col col-4">
+<!----- SECTION: Operation Siren -----><div>{{ContentBox
+| border = #ff5f5f
+| header = #fd9595
+| body = #fdd6dc
+
+| forceHeight = 300px
+
+| title = [[Operation Siren]]
+| logo = Home head opsi.png
+| content =
+<div style="padding:10px;">
+{{HomeIconItem|image=Guide1.png|title=Storyline|link=Memories/Operation Siren}}
+{{HomeIconItem|image=San Diego Star.png|title=Exploration Stars|link=List of Operation Siren Zones}}
+{{HomeIconItem|image=AzurLane Port.png|title=Ports|link=Operation Siren#Ports}}
+{{HomeIconItem|image=T3Container.png|title=Gear Lab}}
+{{HomeIconItem|image=Icon arc.png|title=META Lab}}
+{{HomeIconItem|image=tip boss.png|title=META Showdown|invertimg=1}}
+</div>}}</div></div></div><!--
+
+
+-------------------- ROW 4 --------------------><div class="row">
+<div class="col col-12">
+<!----- SECTION: Gameplay and Mechanics ----->{{ContentBox
+| scheme = blue
+| forceHeight = 330px
+| title = Gameplay and Mechanics
+| logo = home head akashi.png
+| content =
+<div class="row" style="padding:20px 20px 0">
+<!----- Tutorials -----><div class="col col-3">
+{{HomeListItem
+| title = Tutorials
+| sublist =
+<ul>
+<li>[[Servers|Server List & Differences]]</li>
+<li>[[Getting Started]]</li>
+<li>[[Glossary]]</li>
+<li>[[FAQ]]</li>
+</ul>}}</div>
+<!----- Ships -----><div class="col col-3">
+{{HomeListItem
+| title = [[Dockyard]]
+| sublist =
+<ul>
+<li>[[Dockyard#Retrofit|Retrofit]]</li>
+<li>[[Dockyard#Limit Break|Limit Break]]</li>
+<li>[[Dockyard#Enhance (Reinforce)|Enhance]]</li>
+<li>[[Affinity|Affinity / Pledge]]</li>
+<li>[[Dockyard#Cognitive Awakening|Awakening]]</li>
+</ul>}}</div>
+<!----- Equipment -----><div class="col col-2">
+{{HomeListItem
+| title = [[Equipment]]
+| sublist =
+<ul>
+<li>[[Equipment#Upgrade (Enhance)|Upgrade]]</li>
+<li>[[Equipment#Disassembly (Recycle)|Disassemble]]</li>
+<li>[[Equipment#Design (Craft)|Design]]</li>
+<li>[[Equipment#Material (Items)|Materials]]</li>
+</ul>}}</div>
+<!----- Living Area -----><div class="col col-2">
+{{HomeListItem
+| title = [[Living Area]]
+| sublist =
+<ul>
+<li>[[Living Area#Dorm|Dorm]]</li>
+<li>[[Decorations]]</li>
+<li>[[Meowfficer]]</li>
+</ul>}}</div>
+<!----- Research -----><div class="col col-2">
+{{HomeListItem
+| title = [[Research]]
+| sublist =
+<ul>
+<li>[[Research#Shipyard|Shipyard]]</li>
+<li>[[Fleet Technology]]</li>
+<li>[[Research Academy]]</li>
+<li>[[Gear Lab]]</li>
+<li>[[META Lab]]</li>
+</ul>}}</div>
+</div>
+<div class="row" style="padding:0 20px 20px">
+<!----- Combat -----><div class="col col-3">
+{{HomeListItem
+| title = [[Combat]]
+| sublist =
+<ul>
+<li>[[Damage Calculations]]</li>
+<li>[[Skills]]</li>
+<li>[[Barrage]]</li>
+<li>[[Experience]]</li>
+<li>[[Oil Cost]]</li>
+<li>[[Anti-Submarine Warfare]]</li>
+</ul>}}</div>
+<!----- Missions -----> <div class="col col-3">
+{{HomeListItem
+| title = [[Missions]]
+| sublist =
+<ul>
+<li>[[Beginner Rewards]]</li>
+<li>[[Cruise Missions]]</li>
+<li>[[Memories#Characters|Character Memories]]</li>
+<li>[[List of Collections|Collections]]</li>
+<li>[[Akashi's Homecoming Campaign]]</li>
+</ul>}}</div>
+<!----- Building -----> <div class="col col-2">
+{{HomeListItem
+| title = [[Building]]
+| sublist =
+<ul>
+<li>[[Building#List of Ships by Construction Time|Timers]]</li>
+<li>[[Building#Time Limited Construction|Limited Events]]</li>
+<li>[[Building#Requisition|Requisition]]</li>
+<li>[[Building#Retire|Retire]]</li>
+</ul>}}</div>
+<!----- Fleet/Guild -----> <div class="col col-2">
+{{HomeListItem
+| title = [[Guild|Fleet/Guild]]
+| sublist =
+<ul>
+<li>[[Shops#Guild Shop|Guild Shop]]</li>
+</ul>}}</div>
+<!----- Shops -----> <div class="col col-2">
+{{HomeListItem
+| title = Shops
+| sublist =
+<ul>
+<li>[[Shops|Shiranui's Munition Shop]]</li>
+<li>[[Akashi's Shop]]</li>
+</ul>}}</div>
+</div>}}</div></div><!--
+
+
+-------------------- ROW 5 --------------------> <div class="row" style="margin-bottom:0px;">
+<!----- SECTION: Ships -----> <div class="col col-3">
+{{ContentBox
+| scheme = blue
+| forceHeight = 650px
+| title = Ships
+| logo = home head ships.png
+| content =
+<div style="padding:20px">
+<div class="row">
+{{HomeListItem|title=List of Ships|link=List of Ships
+| sublist =
+<ul>
+<li>[[List of Ships by Stats|by Stats]]</li>
+<li>[[List of Ships by Airspace Control Value|by ACV]]</li>
+<li>[[List of Ships by Image|by Image]]</li>
+<li>[[List of Ships by Class|by Class]]</li>
+<li>[[List of Ships by Type|by Type]]</li>
+<li>[[List of Ships with Skills|with Skills]]</li>
+</ul>}}
+{{HomeListItem|link=Servers#Ships|title=Version Exclusive Ships}}
+{{HomeListItem|link=:Category:Ships with retrofit|title=Ships With Retrofit}}
+{{HomeListItem|link=Skins|title=Ships with Skins}}
+{{HomeListItem|link=:Category:Live2D|title=Ships With Live2D}}
+</div>
+</div>}}</div>
+<!----- SECTION: List of Equipment -----><div class="col col-3">{{EquipNavbox|blue|650}}</div>
+<!----- SECTION: Nations -----><div class="col col-3">
+{{ContentBox
+| scheme = blue
+| forceHeight = 650px
+| title = [[Nations]]
+| logo = home head flag.png
+| content =
+<div style="padding:20px">
+<div class="row">
+{{HomeIconItem|image=Jp 1.png|title=Sakura Empire}}
+{{HomeIconItem|image=Us 1.png|title=Eagle Union}}
+{{HomeIconItem|image=En 1.png|title=Royal Navy}}
+{{HomeIconItem|image=De 1.png|title=Iron Blood}}
+{{HomeIconItem|image=Cn 1.png|title=Dragon Empery}}
+{{HomeIconItem|image=Sn 1.png|title=Northern Parliament}}
+{{HomeIconItem|image=Ff 1.png|title=Iris Libre}}
+{{HomeIconItem|image=Vf 1.png|title=Vichya Dominion}}
+{{HomeIconItem|image=Rn 1.png|title=Sardegna Empire}}
+{{HomeIconItem|image=Nl 1.png|title=Kingdom of Tulipa}}
+{{HomeIconItem|image=Mot 1.png|title=Tempesta}}
+{{HomeIconItem|image=Um 1.png|link=Nations#Collaboration Nations|title=Collabs}}
+</div>
+</div>}}</div>
+<!----- SECTION: Misc. -----><div class="col col-3">
+{{ContentBox
+| scheme = blue
+| forceHeight = 650px
+| title = Misc.
+| logo = home head other.png
+| content =
+<div style="padding:20px">
+<div class="row">
+{{HomeListItem|link=Account Binding|title=Account Binding}}
+{{HomeListItem|link=Decensoring|title=Decensoring (CN only)}}
+{{HomeListItem|link=Voice Actors|title=Contributing Voice Actress}}
+{{HomeListItem|link=Artists|title=Contributing Artists}}
+{{HomeListItem|link=Memories|title=Game Memories}}
+{{HomeListItem|link=Slow Ahead!|title=''Slow Ahead!'' Manga/Anime}}
+{{HomeListItem|link=Queen's Orders|title=''Queen's Orders''}}
+{{HomeListItem|link=Learning Ships of the World with Mikasa Dai-Senpai|title=''Learning Ships of the World with Mikasa Dai-Senpai''}}
+{{HomeListItem|link=Museum Ships|title=Museum Ships}}
+{{HomeListItem|link=Juustagram|title=Juustagram}}
+{{HomeListItem|link=Loading Screens|title=Loading Screen Artwork}}
+{{HomeListItem|link=Comics|title=Comic/Manga Panels}}
+</div>
+</div>}}</div>
+</div>
+</div>
+[[Category:Azur Lane Wiki]]
