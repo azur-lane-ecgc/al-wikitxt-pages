@@ -8,10 +8,17 @@
 | scheme = green
 | padding = 20px
 | content =
-<p style="font-size:1.7rem; margin:0 0 1em;text-align:center;">Commander, welcome to the '''Azur Lane English Wiki'''!</p>
+<div class="col col-8" style="padding-right:50px;">
+<p style="font-size:1.7rem; margin:0 0 1em;">Commander, welcome to the '''Azur Lane English Wiki'''!</p>
 <p>{{L|''Azur Lane''|碧蓝航线|アズールレーン}} is a Chinese mobile game developed by Manjuu and Yongshi and is published by [https://www.bilibili.com/ BiliBili] (CN) / [https://www.yo-star.com/en-us/ Yostar] (JP, Global) for both iOS and Android. Service began on May 25th, 2017 for iOS and June 2nd, 2017 for Android.</p>
 <p>Japanese servers opened up on September 14th, 2017 for both iOS and Android.</p>
 <p>English servers opened up for Open Beta on August 16th, 2018 for both iOS and Android, with official release on [[Recent News/EN/2019#May 20th 2019|May 20th, 2019]].</p>
+</div>
+<div class="col col-4">
+{{HomeIconItem|link=|title=Azur Lane Official|image=Discord.svg|external=https://discord.gg/azurlane}}
+{{HomeIconItem|link=|title=Azure Knights Community Server|image=Discord.svg|external=https://discord.gg/uv88h5P}}
+{{HomeIconItem|link=|title=English Reddit|image=Reddit.svg|external=https://www.reddit.com/r/AzureLane}}
+</div>
 }}
 </div>
 </div>
@@ -27,75 +34,6 @@
 <span>'''The Azur Lane English Wiki is actively seeking new volunteer contributors!''' Join the [https://discord.gg/VEuScTYbp3 Azur Lane Wiki Discord Server] and apply. No prior experience is necessary. Read the [[To Do|To Do page]] to see where we need help.</span></div>
 }}</div></div>
 <!-------------------- ROW 1 -------------------->
-<div class="row">
-<div class="col col-4">
-<!----- SECTION: Global Client Links ----->
-{{ContentBox
-| scheme = blue
-| forceHeight = 120px
-| title = Global Client Links
-| logo = home head enterprise.png
-| content =
-<div class="row" style="padding:20px">
-<div class="col col-6">
-{{HomeListItem|external=https://azurlane.yo-star.com/|title=Official Website}}
-{{HomeListItem|external=https://apps.apple.com/us/app/azur-lane/id1411126549|title=iOS App Store}}
-{{HomeListItem|external=https://play.google.com/store/apps/details?id=com.YoStarEN.AzurLane|title=Google Play Store}}
-</div>
-<div class="col col-6">
-{{HomeListItem|external=https://discord.com/invite/azurlane|title=Discord Server}}
-{{HomeListItem|external=https://yo-topup.com/page/shop/azurlane|title=Azur Lane Yo-Topup}}
-{{HomeListItem|external=https://x.com/AzurLane_EN|title=Developer's Twitter}}
-</div>
-</div>
-}}
-</div>
-<div class="col col-4">
-<!----- SECTION: Chinese Client Links ----->
-{{ContentBox
-| scheme = yellow
-| forceHeight = 120px
-| title = Chinese Client Links
-| logo = home head ninghai.png
-| content =
-<div class="row" style="padding:20px">
-<div class="col col-6">
-{{HomeListItem|external=http://blhx.biligame.com|title=Official Website}}
-{{HomeListItem|external=https://itunes.apple.com/cn/app/bi-lan-hang-xian/id1170457573|title=iOS App Store}}
-{{HomeListItem|external=https://apps.qoo-app.com/en/app/5242|title=Android QooApp}}
-</div>
-<div class="col col-6">
-{{HomeListItem|link=Bilibili Registration|title=Registration Guide}}
-{{HomeListItem|external=https://wiki.biligame.com/blhx/|title=Chinese Wiki}}
-{{HomeListItem|external=https://weibo.com/azurlane|title=Developer's Weibo}}
-</div>
-</div>
-}}
-</div>
-<div class="col col-4">
-<!----- SECTION: Japanese Client Links ----->
-{{ContentBox
-| scheme = pink
-| forceHeight = 120px
-| title = Japanese Client Links
-| logo = home head kaga.png
-| content =
-<div class="row" style="padding:20px">
-<div class="col col-6">
-{{HomeListItem|external=http://www.azurlane.jp|title=Official Website}}
-{{HomeListItem|external=https://itunes.apple.com/jp/app/id1242186587|title=iOS App Store}}
-{{HomeListItem|external=https://play.google.com/store/apps/details?id=com.YoStarJP.AzurLane|title=Google Play Store}}
-</div>
-<div class="col col-6">
-{{HomeListItem|external=https://apps.qoo-app.com/en/app/5488|title=Android QooApp}}
-{{HomeListItem|external=http://azurlane.wikiru.jp|title=Japanese Wiki}}
-{{HomeListItem|external=https://twitter.com/azurlane_staff|title=Developer's Twitter}}
-</div>
-</div>
-}}
-</div>
-</div>
-<!-------------------- ROW 2 -------------------->
 <div class="row" style="margin-bottom:0px;">
 <div class="col col-8 col-special" style="margin-bottom:20px;">
 <!----- SECTION: Recent News ----->
@@ -201,6 +139,75 @@
 {{HomeIconItem|title=Hard Mode}}
 {{HomeIconItem|title=Ship Drop Table|link=List of Ship Drops}}
 {{HomeIconItem|title=Item Drop Table|link=Equipment Drop Table}}
+</div>
+}}
+</div>
+</div>
+<!-------------------- ROW 2 -------------------->
+<div class="row">
+<div class="col col-4">
+<!----- SECTION: Global Client Links ----->
+{{ContentBox
+| scheme = blue
+| forceHeight = 120px
+| title = Global Client Links
+| logo = home head enterprise.png
+| content =
+<div class="row" style="padding:20px">
+<div class="col col-6">
+{{HomeListItem|external=https://azurlane.yo-star.com/|title=Official Website}}
+{{HomeListItem|external=https://apps.apple.com/us/app/azur-lane/id1411126549|title=iOS App Store}}
+{{HomeListItem|external=https://play.google.com/store/apps/details?id=com.YoStarEN.AzurLane|title=Google Play Store}}
+</div>
+<div class="col col-6">
+{{HomeListItem|external=https://discord.com/invite/azurlane|title=Discord Server}}
+{{HomeListItem|external=https://yo-topup.com/page/shop/azurlane|title=Azur Lane Yo-Topup}}
+{{HomeListItem|external=https://twitter.com/AzurLane_EN|title=Developer's Twitter}}
+</div>
+</div>
+}}
+</div>
+<div class="col col-4">
+<!----- SECTION: Chinese Client Links ----->
+{{ContentBox
+| scheme = yellow
+| forceHeight = 120px
+| title = Chinese Client Links
+| logo = home head ninghai.png
+| content =
+<div class="row" style="padding:20px">
+<div class="col col-6">
+{{HomeListItem|external=http://blhx.biligame.com|title=Official Website}}
+{{HomeListItem|external=https://itunes.apple.com/cn/app/bi-lan-hang-xian/id1170457573|title=iOS App Store}}
+{{HomeListItem|external=https://apps.qoo-app.com/en/app/5242|title=Android QooApp}}
+</div>
+<div class="col col-6">
+{{HomeListItem|link=Bilibili Registration|title=Registration Guide}}
+{{HomeListItem|external=https://wiki.biligame.com/blhx/|title=Chinese Wiki}}
+{{HomeListItem|external=https://weibo.com/azurlane|title=Developer's Weibo}}
+</div>
+</div>
+}}
+</div>
+<div class="col col-4">
+<!----- SECTION: Japanese Client Links ----->
+{{ContentBox
+| scheme = pink
+| forceHeight = 120px
+| title = Japanese Client Links
+| logo = home head kaga.png
+| content =
+<div class="row" style="padding:20px">
+<div class="col col-6">
+{{HomeListItem|external=http://www.azurlane.jp|title=Official Website}}
+{{HomeListItem|external=https://itunes.apple.com/jp/app/id1242186587|title=iOS App Store}}
+{{HomeListItem|external=https://play.google.com/store/apps/details?id=com.YoStarJP.AzurLane|title=Google Play Store}}
+</div>
+<div class="col col-6">
+{{HomeListItem|external=https://apps.qoo-app.com/en/app/5488|title=Android QooApp}}
+{{HomeListItem|external=http://azurlane.wikiru.jp|title=Japanese Wiki}}
+{{HomeListItem|external=https://twitter.com/azurlane_staff|title=Developer's Twitter}}
+</div>
 </div>
 }}
 </div>
