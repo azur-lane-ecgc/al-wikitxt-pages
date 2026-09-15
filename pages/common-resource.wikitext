@@ -1,0 +1,263 @@
+<!--Table of Contents-->
+<div style="clear: right; margin-bottom: .5em; float: right; padding: .5em 0 .8em 1.4em; background: none; width: auto;">{{TOC Limit|3}}</div>
+
+{{Main|[[User:Samheart564/Guide_Hub|Sam Guide Compendium]]}}
+
+Comprehensive list of common resources, how to acquire them, and how many of each resource you can acquire in a reasonable time frame of playing Azur Lane. 
+
+== Notes ==
+*This guide assumes you have Merchant, Oil Canteen, Lecture Hall, and all Daily Battles to their maximum level.
+*Quantities are only listed if the resource is in high-demand, guarenteed, and on a case-by-case basis. 
+**Quantities assume a player has not spent money and/or gems on these resources. 
+**Only '''guaranteed''' drops are considered. You can get more of these resources in the timeframe provided depending on your RNG (like in commissions, shop rotations, stage drops, etc.). 
+**If a quantity says "Not a concern," it means that it is never a limiting factor for mid/late-game players. Sorry beginners, you might still have scarcity issues with them. 
+***Weeks are assumed to be 7 Days, Months are assumed to be 30 Days, and Months are assumed to be 4 Weeks long. This means quantities listed can differ from actuality due to how the calendar works. 
+
+'''Relevant Wiki Pages:''' [[Missions]], [[Cruise Missions]], [[Shops]], [[Daily Raid]], [[Commissions]], [[Living Area]]
+
+== Renewable Resources ==
+
+=== Currency ===
+{|class="azltable mw-collapsible" style="width:100%; text-align:center"
+ |+ Currency
+ ! style="width:175px" | Item
+ ! style="width:400px" | Location
+ ! Guarenteed Quantities (If applicable)
+ ! Total Quantity
+ |-
+ | {{Display|Coinicon|N|Coin|50}}
+ | Merchant, Daily Raid, Clearing Rewards (Chapter 9+, Event D stages/Highest SP Stage), Commissions, Missions (Daily and Weekly)
+ | -
+ | Not a concern once you unlock Clearing Rewards. 
+ |-
+ | {{Display|Oilicon|N|Oil|50}}
+ | Canteen, Commissions, Missions (Daily and Weekly), Weekly Free Supplies Pack, Monthly Login Rewards
+ | 2304 Oil/Day from Canteen + 520 Oil/Day from Daily Missions + 2900 Oil/Week from Weekly Missions + 4000 Oil/Week from Weekly Free Supplies Pack
+ |'''26,668 Oil/Week''' (Plus 1500 Monthly Login, Plus Commission RNG, so it's most likely way higher). 
+ |-
+ | {{Display|Core Data|R|Core Data|50}}
+ | Campaign Hard Mode, Missions (Daily and Weekly)
+ | 84 Core Data/Day from Chapter 12 Hard Mode + 5 Core Data/Day from Daily Missions + 15 Core Data/Week from Weekly Missions
+ | '''2730 Core Data/Month''' (Check [[Combat#Hard Mode|this Wiki page]] for lower Chapter drop information)
+ |- 
+ | {{Display|GuildToken|R|Guild Token|50}}
+ | Missions (Daily and Weekly), Cruise Missions, Guild Contribution, Guild Missions, Guild Operations
+ | 50 Tokens/Day from Daily Missions + 225 Tokens/Day from Guild Contributions + 30 Tokens/Day from Fleet Supply + 200 Tokens/Week from Weekly Missions + 400 Tokens/Week from Guild Missions + 498 Tokens/2 Weeks from Guild Operation Boss + ~1500 Tokens / 2 Weeks from Guild Operation Participation + 400 Tokens/2 Months from Cruise Missions
+ | '''15546 Guild Tokens/Month''' (Plus 400 Tokens/2 Months from Cruise Missions, Plus Guild Contribution RNG, Plus Guild Operation Participation RNG)
+ |- 
+ | {{Display|Crystal Fragment|SR|Crystal Fragment|50}}
+ | Beginner Missions (1-time only), Weekly Missions, Operation Siren (Exchange Shop), Operation Siren (Arbiter), Excess META Ships.
+ | 240 Fragments from 1-Time Missions + 8 Fragments/Week + 20/Month Operation Siren (Normal & Hard Arbiter) + 10/Month Operation Siren (Exchange Shop)
+ | '''62 Fragments/Month''' (Plus 240 Fragments from One-Time Missions, Plus Excess META Ship RNG)
+ |-
+ | {{Display|Protocoreicon|SR|Prototype Core|50}}
+ | [[Beginner_Rewards#Development_(PR)|Beginner Rewards (1-time only)]], Cruise Missions (Converting [[File:CombatDataPack.png|30px]])
+ | 1600 Protocore from PR1 + 800 Protocore from PR2 + 800 Protocore from PR3 + 800 Protocore from PR4 + 200 Protocore/2 Months from Cruise Missions
+ | '''200 Protocore/2 Months''' (Plus '''4000 Protocore''' from 1-time sources)
+ |-
+ | {{Display|Wisdom Cube|SR|Wisdom Cube}}
+ | Commissions, Missions (Daily and Weekly), Monthly Login Rewards, Cruise Missions, Merit Shop, Munitions Shop (''ONLY BUY WITH COIN, NEVER BUY USING GEMS'')
+ | Net 3 Cubes/Day from Daily Missions + 12 Cubes/Week from Weekly Missions + 30 Cubes/Month from Monthly Login Rewards + 20 Cubes/2 Months from Cruise Missions
+ | '''168 Cubes/Month''' (Plus 20 Cubes/2 Months from Cruise Missions, Plus Merit/Munitions Shops RNG, Plus Commission RNG, so it's most likely way higher). 
+ |-
+|}
+
+=== Consumables ===
+{|class="azltable mw-collapsible" style="width:100%; text-align:center"
+ |+ Consumables
+ ! style="width:175px" | Item
+ ! style="width:400px" | Location
+ ! Guarenteed Quantities (If applicable)
+ ! Total Quantity
+ |-
+ | {{Display|T1EXP|R|T1 EXP Data Pack|50}}
+ | Lecture Hall, Weekly Free Supplies Pack, Cruise Missions, Daily Raid (Tactical Training and Supply Line Disruption)
+ | 52 Packs/Day from Lecture Hall + 50 Packs/Week from Daily Raid + 20 Packs/Week from Weekly Free Supplies Pack + 120 Packs/2 Months from Cruise Missions
+ |'''434 Packs/Week''' (Plus 120 Packs/2 Months from Cruise Missions).
+ |-
+ | {{Display|High-Efficiency Combat Logistics Plan|P|High-Efficiency Combat Logistics Plan|50}}
+ | Weekly Free Supplies Pack, Operation Siren (Exchange Shop)
+ | 10 Plans/Week from Weekly Free Supplies Pack + 30 Plans/Month from Operation Siren (Exchange Shop)
+ |'''70 Plans/Month''' (Plus Mail RNG). 
+ |-
+|}
+
+=== Cognitive Awakening ===
+{{See also|[[Dockyard#Cognitive_Awakening|Cognitive Awakening]]}}
+
+{|class="azltable mw-collapsible" style="width:100%; text-align:center"
+ |+ Cognitive Chips/Arrays
+ ! style="width:175px" | Item
+ ! style="width:400px" | Location
+ ! Guarenteed Quantities (If applicable)
+ ! Total Quantity
+ |-
+ | {{Display|Cognitive Chip|SR|[[Dockyard#Cognative_Awakening|Cognitive Chip]]|50}}
+ | Daily Raid (Tactical Training), Event Shop, Guild Shop, Core Data Shop, Cruise Missions, Research (H-type), Clearing Rewards (Chapter 12+), Fleet Technology Rewards (1-time only), 3-Star Hard Mode Rewards (1-time only)
+ | ~200 (195-210) Chips/Day from Daily Raid + 1000 Chips/Month from Core Data Shop + 400 Chips/2 Months from Cruise Missions
+ | '''7000 Chips/Month''' (Plus 400 Chips/2 Months from Cruise Missions, Plus Daily Raid RNG, Plus Research, Plus Event Shop, Plus Guild Shop RNG, Plus Clearing Rewards RNG, Plus 1-time sources).  
+ |-
+ | {{Display|Cognitive Array|SR|[[Dockyard#Cognative Awakening|Cognitive Array]]|50}}
+ | Daily Raid (Tactical Training), Event Shop, Core Data Shop, Cruise Missions, Fleet Technology Rewards (1-time only), Chapter 12+ 3-Star Hard Mode Rewards (1-time only)
+ | 9 Arrays/Day from Daily Raid + 50/Month from Core Data Shop + 150 Arrays/2 Months from Cruise Missions
+ |'''320 Arrays/Month''' (Plus 150 Arrays/2 Months from Cruise Missions,  Event Shop, Plus 1-time sources).  
+ |-
+|}
+
+=== Bulins ===
+{{See also|[[Dockyard#Limit_Break|Limit Break]]}}
+
+{|class="azltable mw-collapsible" style="width:100%; text-align:center"
+ |+ Bulins
+ ! style="width:175px" | Item
+ ! style="width:400px" | Location
+ ! Guarenteed Quantities (If applicable)
+ ! Total Quantity
+ |-
+ | {{Display|Universal BulinIcon|P|[[Universal Bulin]]|50}}
+ | Missions (Weekly), Merit Shop, Medal Shop, Monthly Login Rewards, Stage Clear Rewards (1-time only)
+ | 3 Bulins/Week from Weekly Missions + 3 Bulins/Month from Monthly Login Rewards + 10 Bulins/Month from Medal Shop
+ |'''25 Purple Bulins/Month''' (Plus Merit Shop, Plus 1-time sources).
+ |-
+ | {{Display|Prototype Bulin MKIIIcon|SR|[[Prototype Bulin MKII]]|50}}
+ | Missions (Weekly), Merit Shop, Medal Shop, Monthly Login Rewards, Stage Clear Rewards (1-time only)
+ | 1 Bulin/Week from Weekly Missions + 2 Bulins/Month from Medal Shop + 2 (2-4) Bulins/Month from Merit Shop + 1 Bulin/Month from Monthly Login Rewards
+ |'''9 Gold Bulins/Month''' (Plus Exercise RNG, Plus 1-time sources). 
+ |-
+ | {{Display|Specialized Bulin Custom MKIIIIcon|UR|[[Specialized Bulin Custom MKIII]]|50}}
+ | Prototype Shop, Cruise Missions, Bulin-Support Plan (1-time only), Event Milestone Rewards (For UR Events, 1-time only per event) 
+ | 1 Bulin/Month from Prototype Shop, 1 Bulin/2 Months from Cruise Missions
+ |'''3 UR Bulins/2 Months''' (Plus Beginner Missions, Plus UR Event Milestone Rewards). ''Note: Provided you have the currency stored, you can buy as much as you need anytime.'' 
+ |-
+|}
+
+=== Gear Upgrade Parts ===
+{{See also|[[Equipment#Upgrade_(Enhance)|Equipment Upgrade (Enhance)]]}}
+
+{|class="azltable mw-collapsible" style="width:100%; text-align:center"
+ |+ Gear Upgrade Parts
+ ! style="width:175px" | Item
+ ! style="width:400px" | Location
+ ! Guarenteed Quantities (If applicable)
+ ! Total Quantity
+ |-
+ | {{Display|UnknownT1Plate|N|T1 Plate|50}} {{Display|UnknownT2Plate|R|T2 Plate|50}}
+ | Daily Raid (Escort Mission), Campaign/Event Stages, Guild Shop (Blue Plates), Medal Shop, Munitions Shop (''ONLY BUY WITH COIN, NEVER BUY USING GEMS''), Guild Operations
+ | -
+ | Not a concern.
+ |-
+ | {{Display|UnknownT3Plate|P|T3 Plate|50}}
+ | Daily Raid (Escort Mission), Campaign Stages (Chapter 6+), Event Stages (C, D, or SP), Guild Shop, Medal Shop, Munitions Shop, Guild Operation
+ | -
+ | General Plates might be a concern, but there is no real way to estimate Plate income realistically. Rest of the parts aren't a concern. 
+ |-
+ | {{Display|UnknownT4Plate|SR|T4 Plate|50}}
+ | Daily Raid (Escort Mission, Supply Line Disruption), Guild Shop, Guild Operation, Operation Siren (Blue Port Shops, Boss Drop RNG, Cat Node RNG) 
+ | 20 Plates/Week from Guild Shop + 9 Plates/Week from Daily Raid (Escort Mission) + 4 Plates/Week from Daily Raid (Supply Line Disruption) + 30 Plates/Month from Operation Siren (Blue Port Shops) + 36 Plates/Month from Guild Operation
+ |'''198 Gold Plates/Month''' (Plus Operation Siren RNG). ''Plate types outside of Guild Shop are random, however.'' 
+ |-
+|}
+
+=== Augmentation Materials ===
+{{See also|[[Augmentation]]}}
+
+{|class="azltable mw-collapsible" style="width:100%; text-align:center"
+ |+ Augment Materials
+ ! style="width:175px" | Item
+ ! style="width:400px" | Location
+ ! Guarenteed Quantities (If applicable)
+ ! Total Quantity
+ |-
+ | {{Display|Augment Module Core|SR|Augment Module Core|50}}
+ | Daily Raid (Module Development), Operation Siren (Normal Arbiter), Event Milestone Rewards (1-time only per event), Cruise Missions
+ | 2 Cores/Week from Daily Raid + 5 Cores/Month from Normal Arbiter + 5 Cores/2 Months from Cruise Missions
+ |'''13 Cores/Month''' (Plus 5 Cores/2 Months from Cruise Missions, Plus Event Milestone Rewards).
+ |-
+ | {{Display|T1 Augment Module Stone|R|Augment Module Stone T1|50}}
+ | Daily Raid (Module Development), Clearing Rewards (Chapter 12+)
+ | 100 Stones/Week from Daily Raid
+ |'''100 Stones/Week''' (Plus Clearing Rewards RNG).
+ |-
+ | {{Display|T2 Augment Module Stone|E|Augment Module Stone T2|50}}
+ | Daily Raid (Module Development), Clearing Rewards (Chapter 12+), Event Shop, Cruise Mussions
+ | 10 Stones/Week from Daily Raid + 100 Stones/2 Months from Cruise Missions
+ |'''10 Stones/Week''' (Plus 100 Stones/2 Months from Cruise Missions, Plus Clearing Rewards RNG, Plus Event Shop).
+ |-
+ | {{Display|T3 Augment Module Stone|SR|Augment Module Stone T3|50}}
+ | Daily Raid (Module Development), Event Milestone Rewards (1-time only per event)
+ | 2 Stones/Week from Daily Raid
+ |'''2 Stones/Week''' (Plus Event Milestone Rewards).
+ |-
+ | {{Display|T1 Augment Module Conversion Stone|E|Augment Module Conversion Stone T1|50}}
+ | Daily Raid (Module Development), Event Shop
+ | 4 Stones/Week from Daily Raid
+ |'''4 Stones/Week''' (Plus Event Shop).
+ |-
+ | {{Display|T2 Augment Module Conversion Stone|SR|Augment Module Conversion Stone T2|50}}
+ | Daily Raid (Module Development), Event Shop
+ | 2 Stones/Week from Daily Raid
+ |'''2 Stones/Week''' (Plus Event Shop).
+ |-
+|}
+
+=== Skill Books ===
+{{See also|[[Living_Area#Tactical_Class|Tactical Class]]}}
+
+{|class="azltable mw-collapsible" style="width:100%; text-align:center"
+ |+ Skill Books
+ ! style="width:175px" | Item
+ ! style="width:400px" | Location
+ ! Guarenteed Quantities (If applicable)
+ ! Total Quantity
+ |-
+ | {{Display|UnknownT1Book|R|T1 Skill Book}} {{Display|UnknownT2Book|P|T2 Skill Book}} {{Display|UnknownT3Book|SR|T3 Skill Book}}
+ | Daily Raid (Advance Mission), Guild Shop, Medal Shop, Munitions Shop (''ONLY BUY WITH COIN, NEVER BUY USING GEMS'')
+ | -
+ | Red Skill Books might be a concern, but there is no real way to estimate Skill Book income realistically. Rest of the skill books aren't a concern. 
+ |-
+ | {{Display|UnknownT4Book|UR|T4 Skill Book}}
+ | Daily Raid (Advance Mission), Operation Siren (Exchange Shop)
+ | -
+ | Red Skill Books might be a concern, but there is no real way to estimate Skill Book income realistically. Rest of the skill books aren't a concern. 
+ |-
+|}
+
+=== Retrofit Blueprints ===
+{{See also|[[Retrofit]]}}
+
+{|class="azltable mw-collapsible" style="width:100%; text-align:center"
+ |+ List of Common Renewable Resources
+ ! style="width:175px" | Item
+ ! style="width:400px" | Location
+ ! Guarenteed Quantities (If applicable)
+ ! Total Quantity
+ |-
+ | {{Display|UnknownT1BP|R|[[Dockyard#Retrofit|Blue Retrofit Blueprints]]}} {{Display|UnknownT2BP|P|[[Dockyard#Retrofit|Purple Retrofit Blueprints]]}}
+ | Campaign Hard Mode, Event Milestone Rewards (1-time only per event), Medal Shop (Retrofit Prints are slightly overpriced, try not to buy them here), Guild Shop 
+ | - 
+ | Cruiser prints might be a concern, but there is no real way to estimate Retrofit Blueprint income realistically.
+ |-
+ | {{Display|UnknownT3BP|SR|[[Dockyard#Retrofit|Gold Retrofit Blueprints]]}}
+ | Campaign Hard Mode (Chapter 3+), Event Milestone Rewards (1-time only per event), Medal Shop (Gold Prints are overpriced, try not to buy them here), Guild Shop 
+ | - 
+ | Cruiser prints might be a concern, but there is no real way to estimate Retrofit Blueprint income realistically.
+ |-
+|}
+
+== (Almost) Finite Resources ==
+{|class="azltable mw-collapsible" style="width:100%; text-align:center"
+ |+ Finite Resources
+ ! style="width:175px" | Item
+ ! style="width:400px" | Location
+ ! Guarenteed Quantities
+ ! Lifetime Amount
+ |-
+ | {{Display|Ruby|P|Gems}}
+ | New Player 8-day Login Campaign, 3* Reward for Campaign Stages, [[List of Collections|Memento (Collection)]] Rewards, Commissions (Urgent) 
+ | 150 Gems from New Player 8-Day Login Campaign + 250 Gems/Chapter + 800 from Memento (Collection) Rewards
+ |'''4450 Gems''' (Plus Commission RNG, Plus Special Event/Mail RNG).
+ |-
+|}
+
+==Credits==
+Written by samheart564#4031, with help from various AL community members. If there are any questions, DM me on Discord or ask in various AL-Help Channels.
