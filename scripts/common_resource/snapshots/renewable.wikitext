@@ -1,0 +1,267 @@
+===Currency===
+
+{|class="azltable mw-collapsible" style="width:100%; text-align:center"
+|+ Currency
+! style='width:175px' | Item
+! style='width:400px' | Location
+! Guaranteed quantities (if applicable)
+! Total quantity
+|-
+| {{Display|Coinicon|N|Coin|50}}<br />[[Shops|Coin]]
+| <span style="color:#2e8b57">&#10003;</span> '''Academy:''' [[Living_Area#Canteen_and_Merchant|Merchant]], [[Commissions|Commissions]]<br /><span style="color:#2e8b57">&#10003;</span> '''Missions:''' [[Missions#Login Rewards|Login Rewards]], [[Missions#Daily_Missions|Daily Missions]], [[Missions#Weekly_Missions|Weekly Missions]], [[Commander Handbook#Rookie Missions|Commander Handbook]]<br /><span style="color:#2e8b57">&#8277;</span> '''Daily Raid:''' [[Daily_Raid|All Daily Raids]]<br /><span style="color:#2e8b57">&#10003;</span> '''Cruise Pass:''' [[Cruise_Missions#Rewards|Cruise Missions]]<br /><span style="color:#2e8b57">&#8277;</span> '''Campaign:''' [[Campaign|Campaign Chapters 9+]]<br /><span style="color:#2e8b57">&#8277;</span> '''Event:''' [[Events|Event Chapter D]], [[Events|Event Point Milestone]]<br /><span style="color:#2e8b57">&#10003;</span> '''OPSI:''' [[Operation_Siren#Exchange_Shop|Exchange Shop]]<br /><span style="color:#b8860b">&#10003;</span> '''Event Shop:''' [[Shops#Event_Shop|Limited Event Shop]]
+| 7,776/Day (Merchant) + RNG (Commissions)<br />4,800/Month (Login Rewards) + 2,300/Day (Daily Missions) + 14,000/Week (Weekly Missions) + 14,000 (one-time) (Commander Handbook), Rookie<br />RNG (All Daily Raids)<br />24,000/2 Months (Cruise Missions), Free<br />RNG (Campaign Chapters 9+), Clearing Rewards<br />RNG (Event Chapter D), Clearing Rewards + 1,000/Event Cycle (Event Point Milestone), 3000 Points<br />10,000/Month (Exchange Shop)<br />10,000/Event Cycle (Limited Event Shop)
+| style='white-space:nowrap' | '''12,436/Day'''<br />'''93,270/Week'''<br />'''373,080/Month'''<br />'''770,160/2 Months'''<br />'''14,000''' one-time
+
+|-
+| {{Display|Oilicon|N|Oil|50}}<br />[[Oil_Cost|Oil]]
+| <span style="color:#2e8b57">&#10003;</span> '''Academy:''' [[Living_Area#Canteen_and_Merchant|Canteen]], [[Commissions|Commissions]]<br /><span style="color:#2e8b57">&#8277;</span> '''Missions:''' [[Missions#Login Rewards|Login Rewards]], [[Missions#Daily_Missions|Daily Missions]], [[Missions#Weekly_Missions|Weekly Missions]], [[Akashi's Shop#Packs|Weekly Free Supplies Pack]], [[Commander Handbook#Rookie Missions|Commander Handbook]]<br /><span style="color:#b8860b">&#10003;</span> '''Event Shop:''' [[Shops#Event_Shop|Limited Event Shop]]
+| 2,304/Day (Canteen) + RNG (Commissions)<br />1,500/Month (Login Rewards) + 520/Day (Daily Missions) + 2,900/Week (Weekly Missions) + 4,000/Week (Weekly Free Supplies Pack) + 9,300 (one-time) (Commander Handbook), Rookie<br />5,000/Event Cycle (Limited Event Shop)
+| style='white-space:nowrap' | '''3,794/Day'''<br />'''28,455/Week'''<br />'''113,820/Month'''<br />'''227,640/2 Months'''<br />'''9,300''' one-time
+
+|-
+| {{Display|Core Data|R|Core Data|50}}<br />[[Shops#Core_Exchange|Core Data]]
+| <span style="color:#2e8b57">&#10003;</span> '''Missions:''' [[Missions#Daily_Missions|Daily Missions]], [[Missions#Weekly_Missions|Weekly Missions]], [[Commander Handbook#Rookie Missions|Commander Handbook]]<br /><span style="color:#2e8b57">&#8277;</span> '''Hard Mode:''' [[Combat#Hard_Mode|Campaign Hard Mode]]
+| 5/Day (Daily Missions) + 15/Week (Weekly Missions) + 1,600 (one-time) (Commander Handbook), Rookie<br />90/Day (Campaign Hard Mode)
+| style='white-space:nowrap' | '''97/Day'''<br />'''727/Week'''<br />'''2,910/Month'''<br />'''5,820/2 Months'''<br />'''1,600''' one-time<br />Check [[Combat#Hard_Mode|this Wiki page]] for lower Chapter drop information.
+
+|-
+| {{Display|GuildToken|R|Guild Token|50}}<br />[[Guild|Guild Token]]
+| <span style="color:#2e8b57">&#8277;</span> '''Academy:''' [[Guild#Logistics|Guild Missions]], [[Guild#Operations|Guild Operations]], [[Guild#Logistics|Guild Contributions]]<br /><span style="color:#2e8b57">&#10003;</span> '''Missions:''' [[Missions#Daily_Missions|Daily Missions]], [[Missions#Weekly_Missions|Weekly Missions]], [[Commander Handbook#Rookie Missions|Commander Handbook]]<br /><span style="color:#2e8b57">&#10003;</span> '''Cruise Pass:''' [[Cruise_Missions#Rewards|Cruise Missions]]
+| 400/Week (Guild Missions) + 1,000/Week (Guild Operations) + 255/Day (Guild Contributions)<br />50/Day (Daily Missions) + 200/Week (Weekly Missions) + 500 (one-time) (Commander Handbook), Rookie<br />400/2 Months (Cruise Missions), Free
+| style='white-space:nowrap' | '''518/Day'''<br />'''3,887/Week'''<br />'''15,550/Month'''<br />'''31,500/2 Months'''<br />'''500''' one-time
+
+|-
+| {{Display|Crystal Fragment|SR|Crystal Fragment|50}}<br />[[Shops#META_Shop|Crystal Fragment]]
+| <span style="color:#2e8b57">&#8277;</span> '''Missions:''' [[Missions#Weekly_Missions|Weekly Missions]], [[Shops#Crystal_Fragment_Missions|One-Time Missions]]<br /><span style="color:#2e8b57">&#8277;</span> '''OPSI:''' [[Operation_Siren#Exchange_Shop|Exchange Shop]], [[Operation_Siren#Arbiter|Arbiter]]
+| 8/Week (Weekly Missions) + 240 (one-time) (One-Time Missions)<br />10/Month (Exchange Shop) + 20/Month (Arbiter), Normal & Hard
+| style='white-space:nowrap' | '''2/Day'''<br />'''15/Week'''<br />'''62/Month'''<br />'''124/2 Months'''<br />'''240''' one-time
+
+|-
+| {{Display|Protocoreicon|SR|Prototype Core|50}}<br />[[Shops#Prototype_Shop|Prototype Core]]
+| <span style="color:#cd5c5c">&#10003;</span> '''Academy:''' [[Guild#Logistics|Guild Contributions]]<br /><span style="color:#b8860b">&#10007;</span> '''Missions:''' [[Commander Handbook#Development Missions|Commander Handbook]]<br /><span style="color:#2e8b57">&#8277;</span> '''Cruise Pass:''' [[Cruise_Missions#Rewards|Cruise Missions (Free)]]
+| RNG (Guild Contributions)<br />5,600 (one-time) (Commander Handbook), Dev.<br />200/2 Months (Cruise Missions (Free))
+| style='white-space:nowrap' | '''100/Month'''<br />'''200/2 Months'''<br />'''5,600''' one-time<br />Read Protocore Income for more information.
+
+|-
+| {{Display|Wisdom Cube|SR|Wisdom Cube}}<br />[[Construction|Wisdom Cube]]
+| <span style="color:#b8860b">&#8277;</span> '''Academy:''' [[Commissions|Commissions]]<br /><span style="color:#2e8b57">&#8277;</span> '''Missions:''' [[Missions#Login Rewards|Login Rewards]], [[Missions#Daily_Missions|Daily Missions]], [[Missions#Weekly_Missions|Weekly Missions]], [[Commander Handbook|Commander Handbook]]<br /><span style="color:#2e8b57">&#10003;</span> '''Cruise Pass:''' [[Cruise_Missions#Rewards|Cruise Missions (Free)]]<br /><span style="color:#b8860b">&#10003;</span> '''General Shop:''' [[Shops#General Shop|General Shop]]<br /><span style="color:#b8860b">&#10003;</span> '''Merit Shop:''' [[Shops#Merit Shop|Merit Shop]]
+| RNG (Commissions)<br />30/Month (Login Rewards) + 3/Day (Daily Missions) + 12/Week (Weekly Missions) + 148 (one-time) (Commander Handbook), 80 Rookie {{!}} 68 Mechanic<br />20/2 Months (Cruise Missions (Free))<br />1/Event Cycle (General Shop), RNG<br />1/Event Cycle (Merit Shop), RNG
+| style='white-space:nowrap' | '''5/Day'''<br />'''42/Week'''<br />'''168/Month'''<br />'''356/2 Months'''<br />'''148''' one-time<br />Total income is likely way higher due to Commission RNG.
+
+|}
+
+
+===Consumables===
+
+{|class="azltable mw-collapsible" style="width:100%; text-align:center"
+|+ Consumables
+! style='width:175px' | Item
+! style='width:400px' | Location
+! Guaranteed quantities (if applicable)
+! Total quantity
+|-
+| {{Display|T1EXP|R|T1 EXP Data Pack|50}}<br />[[Experience#Ship_XP|T1 EXP Data Pack]]
+| <span style="color:#2e8b57">&#10003;</span> '''Academy:''' [[Living_Area#Lecture_Hall|Lecture Hall]]<br /><span style="color:#2e8b57">&#10003;</span> '''Missions:''' [[Akashi's Shop#Packs|Weekly Free Supplies Pack]], [[Beginner_Rewards#Side_Quests|Missions - Side]], [[Commander Handbook#Rookie Missions|Commander Handbook]]<br /><span style="color:#2e8b57">&#10003;</span> '''Daily Raid:''' [[Daily_Raid#Tactical_Training|Tactical Training]], [[Daily_Raid#Supply_Line_Disruption|Supply Line Disruption]]<br /><span style="color:#2e8b57">&#10003;</span> '''Cruise Pass:''' [[Cruise_Missions#Rewards|Cruise Missions (Free)]]
+| 52/Day (Lecture Hall)<br />20/Week (Weekly Free Supplies Pack) + 900 (one-time) (Missions - Side), Total Rewards + 600 (one-time) (Commander Handbook), Rookie<br />6/Day (Tactical Training), Lv.100 + 8/Week (Supply Line Disruption), Lv.95<br />120/2 Months (Cruise Missions (Free))
+| style='white-space:nowrap' | '''61/Day'''<br />'''463/Week'''<br />'''1,852/Month'''<br />'''3,824/2 Months'''<br />'''1,500''' one-time
+
+|-
+| {{Display|High-Efficiency Combat Logistics Plan|P|High-Efficiency Combat Logistics Plan|50}}<br />[[Combat#High-Efficiency_Combat_Logistics_Plan|High-Efficiency Combat Logistics Plan]]
+| <span style="color:#2e8b57">&#10003;</span> '''Missions:''' [[Akashi%27s_Shop#Packs|Weekly Free Supplies Pack]]<br /><span style="color:#2e8b57">&#10003;</span> '''OPSI:''' [[Operation_Siren#Exchange_Shop|Exchange Shop]]
+| 10/Week (Weekly Free Supplies Pack)<br />30/Month (Exchange Shop)
+| style='white-space:nowrap' | '''2/Day'''<br />'''17/Week'''<br />'''70/Month'''<br />'''140/2 Months'''<br />Usually given via Mail after Server Maintenance.
+
+|}
+
+
+===Cognitive Awakening===
+{{See also|[[Dockyard#Cognitive_Awakening|Cognitive Awakening]]}}
+
+{|class="azltable mw-collapsible" style="width:100%; text-align:center"
+|+ Cognitive Awakening
+! style='width:175px' | Item
+! style='width:400px' | Location
+! Guaranteed quantities (if applicable)
+! Total quantity
+|-
+| {{Display|Cognitive Chip|SR|Cognitive Chip|50}}<br />[[Dockyard#Cognitive_Awakening|Cognitive Chip]]
+| <span style="color:#b8860b">&#10003;</span> '''Academy:''' [[Commissions|Commissions]]<br /><span style="color:#b8860b">&#10007;</span> '''Missions:''' [[Beginner_Rewards#Side_Quests|Missions - Side]]<br /><span style="color:#2e8b57">&#8277;</span> '''Daily Raid:''' [[Daily_Raid#Tactical_Training|Tactical Training]]<br /><span style="color:#2e8b57">&#10003;</span> '''Cruise Pass:''' [[Cruise_Missions#Rewards|Cruise Missions (Free)]]<br /><span style="color:#b8860b">&#10003;</span> '''Campaign:''' [[Campaign|Chapter 12+]]<br /><span style="color:#b8860b">&#10003;</span> '''Event:''' [[Events|Event Point Milestone]]<br /><span style="color:#2e8b57">&#8277;</span> '''Core Data Shop:''' [[Shops#Core_Shop_(Mo.)|Core Data (Mo.)]]<br /><span style="color:#b8860b">&#10003;</span> '''Guild Shop:''' [[Shops#Guild_Shop|Guild Shop]]<br /><span style="color:#b8860b">&#10003;</span> '''Event Shop:''' [[Shops#Event_Shop|Limited Event Shop]]
+| RNG (Commissions)<br />4,200 (one-time) (Missions - Side), Total Rewards<br />210/Day (Tactical Training)<br />400/2 Months (Cruise Missions (Free))<br />RNG (Chapter 12+), Clearing Rewards<br />1,900/Event Cycle (Event Point Milestone), 12000 Points<br />1,000/Month (Core Data (Mo.))<br />200/Event Cycle (Guild Shop), RNG<br />1,000/Event Cycle (Limited Event Shop)
+| style='white-space:nowrap' | '''243/Day'''<br />'''1,825/Week'''<br />'''7,300/Month'''<br />'''15,000/2 Months'''<br />'''4,200''' one-time<br />Cognitive Chip commissions unlock once any ship reaches Lv.100.
+
+|-
+| {{Display|Cognitive Array|SR|Cognitive Array|50}}<br />[[Dockyard#Cognitive_Awakening|Cognitive Array]]
+| <span style="color:#b8860b">&#10007;</span> '''Missions:''' [[Beginner_Rewards#Side_Quests|Missions - Side]]<br /><span style="color:#2e8b57">&#10003;</span> '''Daily Raid:''' [[Daily_Raid#Tactical_Training|Tactical Training]]<br /><span style="color:#2e8b57">&#10003;</span> '''Cruise Pass:''' [[Cruise_Missions#Rewards|Cruise Missions (Free)]]<br /><span style="color:#2e8b57">&#10003;</span> '''Core Data Shop:''' [[Shops#Core_Shop_(Mo.)|Core Data (Mo.)]]<br /><span style="color:#b8860b">&#10003;</span> '''Event Shop:''' [[Shops#Event_Shop|Limited Event Shop]]
+| 1,150 (one-time) (Missions - Side), Total Rewards<br />9/Day (Tactical Training), Lv.100<br />150/2 Months (Cruise Missions (Free))<br />50/Month (Core Data (Mo.))<br />50/Event Cycle (Limited Event Shop)
+| style='white-space:nowrap' | '''10/Day'''<br />'''80/Week'''<br />'''320/Month'''<br />'''790/2 Months'''<br />'''1,150''' one-time
+
+|}
+
+
+===Bulins===
+{{See also|[[Dockyard#Limit_Break|Limit Break]]}}
+
+{|class="azltable mw-collapsible" style="width:100%; text-align:center"
+|+ Bulins
+! style='width:175px' | Item
+! style='width:400px' | Location
+! Guaranteed quantities (if applicable)
+! Total quantity
+|-
+| {{Display|Universal BulinIcon|P|Universal Bulin|50}}<br />[[Dockyard#Limit_Break|Universal Bulin]]
+| <span style="color:#2e8b57">&#8277;</span> '''Missions:''' [[Missions#Login Rewards|Login Rewards]], [[Missions#Weekly_Missions|Weekly Missions]], [[Beginner_Rewards#Level-Up|Level-Up Rewards]], [[Commander Handbook#Rookie Missions|Commander Handbook]]<br /><span style="color:#b8860b">&#10007;</span> '''Campaign:''' [[Campaign|X-2 Stages]]<br /><span style="color:#2e8b57">&#10003;</span> '''Merit Shop:''' [[Shops#Merit_Shop|Merit Shop]]<br /><span style="color:#2e8b57">&#8277;</span> '''Medal Shop:''' [[Shops#Medal_Shop|Medal Shop]]
+| 3/Month (Login Rewards) + 3/Week (Weekly Missions) + 2 (one-time) (Level-Up Rewards), Lv.20, Lv.30 + 4 (one-time) (Commander Handbook), Rookie<br />1/Chapter (X-2 Stages), 3-Star Reward<br />1/Event Cycle (Merit Shop), Daily<br />10/Month (Medal Shop)
+| style='white-space:nowrap' | '''6/Week'''<br />'''25/Month'''<br />'''50/2 Months'''<br />'''21''' one-time<br />Only buy as much as you need.
+
+|-
+| {{Display|Prototype Bulin MKIIIcon|SR|Prototype Bulin MKII|50}}<br />[[Dockyard#Limit_Break|Prototype Bulin MKII]]
+| <span style="color:#2e8b57">&#10003;</span> '''Missions:''' [[Missions#Login Rewards|Login Rewards]], [[Missions#Weekly_Missions|Weekly Missions]], [[Beginner_Rewards#Level-Up|Level-Up Rewards]], [[Commander Handbook#Rookie Missions|Commander Handbook]]<br /><span style="color:#b8860b">&#10007;</span> '''Campaign:''' [[Campaign|X-4 Stages]]<br /><span style="color:#2e8b57">&#10003;</span> '''Merit Shop:''' [[Shops#Merit_Shop|Merit Shop]]<br /><span style="color:#2e8b57">&#10003;</span> '''Medal Shop:''' [[Shops#Medal_Shop|Medal Shop]]
+| 1/Month (Login Rewards) + 1/Week (Weekly Missions) + 2 (one-time) (Level-Up Rewards), Lv.40, Lv.50 + 4 (one-time) (Commander Handbook), Rookie<br />1/Chapter (X-4 Stages), 3-Star Reward<br />2/Month (Merit Shop)<br />2/Month (Medal Shop)
+| style='white-space:nowrap' | '''2/Week'''<br />'''9/Month'''<br />'''18/2 Months'''<br />'''21''' one-time<br />You can get up to 4 from [[Merit_Shop|Merit Shop]] depending on your performance.
+
+|-
+| {{Display|Specialized Bulin Custom MKIIIIcon|UR|Specialized Bulin Custom MKIII|50}}<br />[[Dockyard#Limit_Break|Specialized Bulin Custom MKIII]]
+| <span style="color:#b8860b">&#10007;</span> '''Missions:''' [[Beginner_Rewards#Bulin_Support_Plan|Bulin Support Plan]]<br /><span style="color:#2e8b57">&#10003;</span> '''Cruise Pass:''' [[Cruise_Missions#Rewards|Cruise Missions (Free)]]<br /><span style="color:#2e8b57">&#10003;</span> '''Medal Shop:''' [[Shops#Prototype_Shop|Medal Shop]]<br /><span style="color:#2e8b57">&#8277;</span> '''Prototype Shop:''' [[Shops#Prototype_Shop|Prototype Shop]]
+| 1.5 (one-time) (Bulin Support Plan)<br />1/2 Months (Cruise Missions (Free))<br />0.75/Month (Medal Shop), Specialized Core<br />1.25/Month (Prototype Shop)
+| style='white-space:nowrap' | '''2/Month'''<br />'''5/2 Months'''<br />'''1.5''' one-time<br />Assuming '''6''' new UR Ships per Year, you need '''24''' bulins to MLB all of them.<br />[[Prototype_Shop|Prototype Shop]] has no purchase limit.
+
+|}
+
+
+===Gear Upgrade Parts===
+{{See also|[[Equipment#Upgrade_(Enhance)|Equipment Upgrade (Enhance)]]}}
+
+{|class="azltable mw-collapsible" style="width:100%; text-align:center"
+|+ Gear Upgrade Parts
+! style='width:175px' | Item
+! style='width:400px' | Location
+! Guaranteed quantities (if applicable)
+! Total quantity
+|-
+| {{Display|UnknownT1Plate|N|T1 Plate|50}}<br />[[Equipment#Upgrade_(Enhance)|T1 Plate]]
+| <span style="color:#b8860b">&#10003;</span> '''Academy:''' [[https://azurlane.koumakan.jp/wiki/Commissions|Commissions]]<br /><span style="color:#b8860b">&#10007;</span> '''Missions:''' [[Commander Handbook#Rookie Missions|Commander Handbook]]<br /><span style="color:#2e8b57">&#8277;</span> '''Daily Raid:''' [[https://azurlane.koumakan.jp/wiki/Daily_Raid#Escort_Mission|Escort Mission]]<br /><span style="color:#2e8b57">&#8277;</span> '''Campaign:''' [[https://azurlane.koumakan.jp/wiki/Campaign|Chapters 1-12]]<br /><span style="color:#2e8b57">&#8277;</span> '''Event:''' [[https://azurlane.koumakan.jp/wiki/Events|All Event Chapters]]<br /><span style="color:#b8860b">&#10003;</span> '''General Shop:''' [[https://azurlane.koumakan.jp/wiki/Shops#General_Shop|General Shop]]<br /><span style="color:#2e8b57">&#10003;</span> '''Medal Shop:''' [[https://azurlane.koumakan.jp/wiki/Shops#Medal_Shop|Medal Shop]]
+| RNG (Commissions)<br />20 (one-time) (Commander Handbook), Rookie<br />RNG (Escort Mission), all but Lv.95<br />RNG (Chapters 1-12)<br />RNG (All Event Chapters)<br />5/Event Cycle (General Shop), RNG<br />300/Month (Medal Shop)
+| style='white-space:nowrap' | '''Not a concern.'''
+
+|-
+| {{Display|UnknownT2Plate|R|T2 Plate|50}}<br />[[Equipment#Upgrade_(Enhance)|T2 Plate]]
+| <span style="color:#b8860b">&#10003;</span> '''Academy:''' [[https://azurlane.koumakan.jp/wiki/Commissions|Commissions]]<br /><span style="color:#2e8b57">&#10003;</span> '''Missions:''' [[Missions#Daily_Missions|Daily Missions]], [[Commander Handbook#Rookie Missions|Commander Handbook]]<br /><span style="color:#2e8b57">&#8277;</span> '''Daily Raid:''' [[https://azurlane.koumakan.jp/wiki/Daily_Raid#Escort_Mission|Escort Mission]]<br /><span style="color:#2e8b57">&#8277;</span> '''Campaign:''' [[https://azurlane.koumakan.jp/wiki/Campaign|Chapters 3+]]<br /><span style="color:#2e8b57">&#8277;</span> '''Event:''' [[https://azurlane.koumakan.jp/wiki/Events|All Event Chapters]]<br /><span style="color:#b8860b">&#10003;</span> '''General Shop:''' [[https://azurlane.koumakan.jp/wiki/Shops#General_Shop|General Shop]]<br /><span style="color:#b8860b">&#10003;</span> '''Guild Shop:''' [[https://azurlane.koumakan.jp/wiki/Shops#Guild_Shop|Guild Shop]]<br /><span style="color:#2e8b57">&#10003;</span> '''Medal Shop:''' [[https://azurlane.koumakan.jp/wiki/Shops#Medal_Shop|Medal Shop]]
+| RNG (Commissions)<br />5/Day (Daily Missions) + 50 (one-time) (Commander Handbook), Rookie<br />RNG (Escort Mission), Lv.25+<br />RNG (Chapters 3+)<br />RNG (All Event Chapters)<br />5/Event Cycle (General Shop), RNG<br />5/Event Cycle (Guild Shop), RNG<br />300/Month (Medal Shop)
+| style='white-space:nowrap' | '''Not a concern.'''
+
+|-
+| {{Display|UnknownT3Plate|P|T3 Plate|50}}<br />[[Equipment#Upgrade_(Enhance)|T3 Plate]]
+| <span style="color:#b8860b">&#10003;</span> '''Academy:''' [[https://azurlane.koumakan.jp/wiki/Commissions|Commissions]]<br /><span style="color:#2e8b57">&#10003;</span> '''Missions:''' [[Missions#Weekly_Missions|Weekly Missions]], [[Commander Handbook#Rookie Missions|Commander Handbook]]<br /><span style="color:#2e8b57">&#8277;</span> '''Daily Raid:''' [[https://azurlane.koumakan.jp/wiki/Daily_Raid#Escort_Mission|Escort Mission]]<br /><span style="color:#2e8b57">&#10003;</span> '''Cruise Pass:''' [[Cruise_Missions#Rewards|Cruise Missions]]<br /><span style="color:#2e8b57">&#8277;</span> '''Campaign:''' [[https://azurlane.koumakan.jp/wiki/Campaign|Chapters 6+]]<br /><span style="color:#2e8b57">&#8277;</span> '''Event:''' [[https://azurlane.koumakan.jp/wiki/Events|Event Chapters C+]]<br /><span style="color:#b8860b">&#10003;</span> '''General Shop:''' [[https://azurlane.koumakan.jp/wiki/Shops#General_Shop|General Shop]]<br /><span style="color:#b8860b">&#10003;</span> '''Guild Shop:''' [[https://azurlane.koumakan.jp/wiki/Shops#Guild_Shop|Guild Shop]]<br /><span style="color:#2e8b57">&#10003;</span> '''Medal Shop:''' [[https://azurlane.koumakan.jp/wiki/Shops#Medal_Shop|Medal Shop]]<br /><span style="color:#b8860b">&#10003;</span> '''Event Shop:''' [[Shops#Event_Shop|Limited Event Shop]]
+| RNG (Commissions)<br />10/Week (Weekly Missions) + 60 (one-time) (Commander Handbook), Rookie<br />RNG (Escort Mission), Lv.50+<br />100/2 Months (Cruise Missions), Free<br />RNG (Chapters 6+)<br />RNG (Event Chapters C+)<br />5/Event Cycle (General Shop), RNG<br />5/Event Cycle (Guild Shop), RNG<br />120/Month (Medal Shop)<br />150/Event Cycle (Limited Event Shop)
+| style='white-space:nowrap' | '''General Plates might be a concern, rest aren't.'''
+
+|-
+| {{Display|UnknownT4Plate|SR|T4 Plate|50}}<br />[[Equipment#Upgrade_(Enhance)|T4 Plate]]
+| <span style="color:#2e8b57">&#10003;</span> '''Academy:''' [[Guild#Operations|Guild Operations]]<br /><span style="color:#2e8b57">&#10003;</span> '''Missions:''' [[Missions#Weekly_Missions|Weekly Missions]]<br /><span style="color:#2e8b57">&#10003;</span> '''Daily Raid:''' [[Daily_Raid#Escort_Mission|Escort Mission]], [[Daily_Raid#Supply_Line_Disruption|Supply Line Disruption]]<br /><span style="color:#2e8b57">&#10003;</span> '''Cruise Pass:''' [[Cruise_Missions#Rewards|Cruise Missions (Free)]]<br /><span style="color:#b8860b">&#10003;</span> '''Event:''' [[Events|Event Point Milestone]]<br /><span style="color:#2e8b57">&#8277;</span> '''OPSI:''' [[Operation_Siren#Ports|Blue Port Shops]], [[Operation_Siren#Arbiter|Arbiter]], [[Operation_Siren#Siren_Stronghold|Strongholds]], [[Operation_Siren#Abyssal|Coordinate Zones]]<br /><span style="color:#2e8b57">&#8277;</span> '''Guild Shop:''' [[Shops#Guild_Shop|Guild Shop]]
+| 36/Month (Guild Operations)<br />4/Week (Weekly Missions)<br />9/Week (Escort Mission), Lv.95 + 9/Week (Supply Line Disruption), Lv.95<br />30/2 Months (Cruise Missions (Free))<br />20/Event Cycle (Event Point Milestone), 55000 Points<br />30/Month (Blue Port Shops) + 60/Month (Arbiter), Normal + Hard + RNG (Strongholds) + RNG (Coordinate Zones)<br />20/Week (Guild Shop)
+| style='white-space:nowrap' | '''9/Day'''<br />'''73/Week'''<br />'''294/Month'''<br />'''618/2 Months'''<br />Total income is likely way higher due to OpSi RNG.
+
+|}
+
+
+===Augmentation Materials===
+{{See also|[[Augmentation]]}}
+
+{|class="azltable mw-collapsible" style="width:100%; text-align:center"
+|+ Augmentation Materials
+! style='width:175px' | Item
+! style='width:400px' | Location
+! Guaranteed quantities (if applicable)
+! Total quantity
+|-
+| {{Display|Augment Module Core|SR|Augment Module Core|50}}<br />[[Augmentation#Crafting_and_Enhancing|Augment Module Core]]
+| <span style="color:#b8860b">&#10007;</span> '''Missions:''' [[Commander Handbook#Rookie Missions|Commander Handbook]]<br /><span style="color:#2e8b57">&#10003;</span> '''Daily Raid:''' [[Daily_Raid#Module Development|Module Development]]<br /><span style="color:#2e8b57">&#10003;</span> '''Cruise Pass:''' [[Cruise_Missions#Rewards|Cruise Missions]]<br /><span style="color:#b8860b">&#10003;</span> '''Event:''' [[Events|Event Point Milestone]]<br /><span style="color:#2e8b57">&#10003;</span> '''OPSI:''' [[Operation_Siren#Arbiter|Arbiter]]<br /><span style="color:#b8860b">&#10003;</span> '''Event Shop:''' [[Shops#Event_Shop|Limited Event Shop]]
+| 10 (one-time) (Commander Handbook), Rookie<br />2/Week (Module Development)<br />5/2 Months (Cruise Missions), Free<br />5/Event Cycle (Event Point Milestone), 25000 Points<br />5/Month (Arbiter), Normal<br />5/Event Cycle (Limited Event Shop)
+| style='white-space:nowrap' | '''3/Week'''<br />'''13/Month'''<br />'''31/2 Months'''<br />'''10''' one-time
+
+|-
+| {{Display|T1 Augment Module Stone|R|Augment Module Stone T1|50}} {{Display|T2 Augment Module Stone|E|Augment Module Stone T2|50}} {{Display|T3 Augment Module Stone|SR|Augment Module Stone T3|50}}<br />[[Augmentation#Crafting_and_Enhancing|Augment Module EXP]]
+| <span style="color:#b8860b">&#10007;</span> '''Missions:''' [[Commander Handbook#Rookie Missions|Commander Handbook]]<br /><span style="color:#2e8b57">&#8277;</span> '''Daily Raid:''' [[Daily_Raid#Module Development|Module Development]]<br /><span style="color:#2e8b57">&#10003;</span> '''Cruise Pass:''' [[Cruise_Missions#Rewards|Cruise Missions]]<br /><span style="color:#b8860b">&#10003;</span> '''Campaign:''' [[Campaign|Campaign Chapters 12+]]<br /><span style="color:#b8860b">&#10003;</span> '''Event:''' [[Events|Event Point Milestone]]<br /><span style="color:#b8860b">&#10003;</span> '''Event Shop:''' [[Shops#Event_Shop|Limited Event Shop]]
+| 1,000 (one-time) (Commander Handbook), Rookie<br />4,000/Week (Module Development)<br />1,000/2 Months (Cruise Missions), Free<br />RNG (Campaign Chapters 12+), Clearing Rewards<br />11,000/Event Cycle (Event Point Milestone), 45000 Points<br />5,000/Event Cycle (Limited Event Shop)
+| style='white-space:nowrap' | '''533/Day'''<br />'''4,000/Week'''<br />'''16,000/Month'''<br />'''33,000/2 Months'''<br />'''1,000''' one-time<br />Purple & Gold Rarity only drop on Chapters 13/14+ respectively.<br />You can use extra Augment Modules for enhancement. See [[Augmentation|Augmentation]] for more details.
+
+|-
+| {{Display|T1 Augment Module Conversion Stone|E|Augment Module Conversion Stone T1|50}}<br />[[Augmentation#Convertion|T1 Augment Conversion]]
+| <span style="color:#2e8b57">&#10003;</span> '''Daily Raid:''' [[Daily_Raid#Module Development|Module Development]]<br /><span style="color:#b8860b">&#10003;</span> '''Event Shop:''' [[Shops#Event_Shop|Limited Event Shop]]
+| 4/Week (Module Development)<br />10/Event Cycle (Limited Event Shop)
+| style='white-space:nowrap' | '''4/Week'''<br />'''16/Month'''<br />'''32/2 Months'''
+
+|-
+| {{Display|T2 Augment Module Conversion Stone|SR|Augment Module Conversion Stone T2|50}}<br />[[Augmentation#Convertion|T2 Augment Conversion]]
+| <span style="color:#2e8b57">&#10003;</span> '''Daily Raid:''' [[Daily_Raid#Module Development|Module Development]]<br /><span style="color:#b8860b">&#10003;</span> '''Event:''' [[Events|Event Point Milestone]]<br /><span style="color:#b8860b">&#10003;</span> '''Event Shop:''' [[Shops#Event_Shop|Limited Event Shop]]
+| 2/Week (Module Development)<br />5/Event Cycle (Event Point Milestone), 17500 Points<br />2/Event Cycle (Limited Event Shop)
+| style='white-space:nowrap' | '''2/Week'''<br />'''8/Month'''<br />'''16/2 Months'''
+
+|}
+
+
+===Retrofit Blueprints===
+{{See also|[[Retrofit]]}}
+
+{|class="azltable mw-collapsible" style="width:100%; text-align:center"
+|+ Retrofit Blueprints
+! style='width:175px' | Item
+! style='width:400px' | Location
+! Guaranteed quantities (if applicable)
+! Total quantity
+|-
+| {{Display|UnknownT1BP|R|T1 Retrofit Blueprint|50}}<br />[[Dockyard#Retrofit|T1 Retrofit Blueprint]]
+| <span style="color:#b8860b">&#10003;</span> '''Academy:''' [[Commissions|Commissions]]<br /><span style="color:#2e8b57">&#10003;</span> '''Missions:''' [[Missions#Daily_Missions|Daily Missions]], [[Commander Handbook#Rookie Missions|Commander Handbook]]<br /><span style="color:#2e8b57">&#8277;</span> '''Hard Mode:''' [[Combat#Hard_Mode|Campaign Hard Mode]]<br /><span style="color:#2e8b57">&#10003;</span> '''Medal Shop:''' [[Shops#Medal_Shop|Medal Shop]]
+| RNG (Commissions)<br />2/Day (Daily Missions) + 20 (one-time) (Commander Handbook), Rookie<br />RNG (Campaign Hard Mode)<br />24/Month (Medal Shop)
+| style='white-space:nowrap' | '''Not a concern.'''
+
+|-
+| {{Display|UnknownT2BP|P|T2 Retrofit Blueprint|50}}<br />[[Dockyard#Retrofit|T2 Retrofit Blueprint]]
+| <span style="color:#cd5c5c">&#10003;</span> '''Academy:''' [[Commissions|Commissions]]<br /><span style="color:#b8860b">&#10007;</span> '''Missions:''' [[Commander Handbook#Rookie Missions|Commander Handbook]]<br /><span style="color:#2e8b57">&#8277;</span> '''Hard Mode:''' [[Combat#Hard_Mode|Campaign Hard Mode]]<br /><span style="color:#b8860b">&#10003;</span> '''Event:''' [[Events|Event Point Milestone]]<br /><span style="color:#b8860b">&#10003;</span> '''Guild Shop:''' [[Shops#Guild_Shop|Guild Shop]]<br /><span style="color:#2e8b57">&#10003;</span> '''Medal Shop:''' [[Shops#Medal_Shop|Medal Shop]]
+| RNG (Commissions)<br />20 (one-time) (Commander Handbook), Rookie<br />RNG (Campaign Hard Mode)<br />4/Event Cycle (Event Point Milestone), 2500 Points; 1 Each<br />2/Event Cycle (Guild Shop), RNG<br />12/Month (Medal Shop)
+| style='white-space:nowrap' | '''Not a concern.'''
+
+|-
+| {{Display|UnknownT3BP|SR|T3 Retrofit Blueprint|50}}<br />[[Dockyard#Retrofit|T3 Retrofit Blueprint]]
+| <span style="color:#b8860b">&#10007;</span> '''Missions:''' [[Commander Handbook#Rookie Missions|Commander Handbook]]<br /><span style="color:#2e8b57">&#8277;</span> '''Hard Mode:''' [[Combat#Hard_Mode|Campaign Hard Mode]]<br /><span style="color:#b8860b">&#10003;</span> '''Event:''' [[Events|Event Point Milestone]]<br /><span style="color:#b8860b">&#10003;</span> '''Guild Shop:''' [[Shops#Guild_Shop|Guild Shop]]<br /><span style="color:#2e8b57">&#10003;</span> '''Medal Shop:''' [[Shops#Medal_Shop|Medal Shop]]
+| 10 (one-time) (Commander Handbook), Rookie<br />RNG (Campaign Hard Mode)<br />9/Event Cycle (Event Point Milestone), 13000 Points; 1 Each + 5 Random<br />2/Event Cycle (Guild Shop), RNG<br />4/Month (Medal Shop)
+| style='white-space:nowrap' | '''Cruiser Prints might be a concern, rest aren't.'''
+
+|}
+
+
+===Skill Books===
+{{See also|[[Living_Area#Tactical_Class|Tactical Class]]}}
+
+{|class="azltable mw-collapsible" style="width:100%; text-align:center"
+|+ Skill Books
+! style='width:175px' | Item
+! style='width:400px' | Location
+! Guaranteed quantities (if applicable)
+! Total quantity
+|-
+| {{Display|UnknownT1Book|R|T1 Skill Book}}<br />[[https://azurlane.koumakan.jp/wiki/Living_Area#Tactical_Class|T1 Skill Book]]
+| <span style="color:#b8860b">&#10003;</span> '''Academy:''' [[https://azurlane.koumakan.jp/wiki/Commissions|Commissions]]<br /><span style="color:#2e8b57">&#10003;</span> '''Missions:''' [[Missions#Daily_Missions|Daily Missions]]<br /><span style="color:#2e8b57">&#8277;</span> '''Daily Raid:''' [[https://azurlane.koumakan.jp/wiki/Daily_Raid#Advance_Mission|Advance Mission]]<br /><span style="color:#b8860b">&#10003;</span> '''General Shop:''' [[https://azurlane.koumakan.jp/wiki/Shops#General_Shop|General Shop]]
+| RNG (Commissions)<br />2/Day (Daily Missions)<br />RNG (Advance Mission), all but Lv.95<br />1/Event Cycle (General Shop), RNG
+| style='white-space:nowrap' | '''Not a concern.'''
+
+|-
+| {{Display|UnknownT2Book|P|T2 Skill Book}}<br />[[https://azurlane.koumakan.jp/wiki/Living_Area#Tactical_Class|T2 Skill Book]]
+| <span style="color:#b8860b">&#10003;</span> '''Academy:''' [[https://azurlane.koumakan.jp/wiki/Commissions|Commissions]]<br /><span style="color:#b8860b">&#10007;</span> '''Missions:''' [[Commander Handbook#Rookie Missions|Commander Handbook]]<br /><span style="color:#2e8b57">&#8277;</span> '''Daily Raid:''' [[https://azurlane.koumakan.jp/wiki/Daily_Raid#Advance_Mission|Advance Mission]]<br /><span style="color:#b8860b">&#10003;</span> '''Event:''' [[Events|Event Point Milestone]]<br /><span style="color:#b8860b">&#10003;</span> '''General Shop:''' [[https://azurlane.koumakan.jp/wiki/Shops#General_Shop|General Shop]]<br /><span style="color:#b8860b">&#10003;</span> '''Guild Shop:''' [[https://azurlane.koumakan.jp/wiki/Shops#Guild_Shop|Guild Shop]]<br /><span style="color:#2e8b57">&#8277;</span> '''Medal Shop:''' [[https://azurlane.koumakan.jp/wiki/Shops#Medal_Shop|Medal Shop]]
+| RNG (Commissions)<br />10 (one-time) (Commander Handbook), Rookie<br />RNG (Advance Mission), Lv.25+<br />5/Event Cycle (Event Point Milestone), 100 Points<br />1/Event Cycle (General Shop), RNG<br />3/Event Cycle (Guild Shop), RNG<br />18/Month (Medal Shop), 6 Each
+| style='white-space:nowrap' | '''Not a concern.'''
+
+|-
+| {{Display|UnknownT3Book|SR|T3 Skill Book}}<br />[[https://azurlane.koumakan.jp/wiki/Living_Area#Tactical_Class|T3 Skill Book]]
+| <span style="color:#b8860b">&#10003;</span> '''Academy:''' [[https://azurlane.koumakan.jp/wiki/Commissions|Commissions]]<br /><span style="color:#2e8b57">&#10003;</span> '''Missions:''' [[Missions#Weekly_Missions|Weekly Missions]], [[Commander Handbook#Rookie Missions|Commander Handbook]]<br /><span style="color:#2e8b57">&#8277;</span> '''Daily Raid:''' [[https://azurlane.koumakan.jp/wiki/Daily_Raid#Advance_Mission|Advance Mission]]<br /><span style="color:#2e8b57">&#10003;</span> '''Cruise Pass:''' [[Cruise_Missions#Rewards|Cruise Missions (Free)]]<br /><span style="color:#b8860b">&#10003;</span> '''Event:''' [[Events|Event Point Milestone]]<br /><span style="color:#b8860b">&#10003;</span> '''General Shop:''' [[https://azurlane.koumakan.jp/wiki/Shops#General_Shop|General Shop]]<br /><span style="color:#b8860b">&#10003;</span> '''Guild Shop:''' [[https://azurlane.koumakan.jp/wiki/Shops#Guild_Shop|Guild Shop]]<br /><span style="color:#2e8b57">&#8277;</span> '''Medal Shop:''' [[https://azurlane.koumakan.jp/wiki/Shops#Medal_Shop|Medal Shop]]
+| RNG (Commissions)<br />1/Week (Weekly Missions) + 10 (one-time) (Commander Handbook), Rookie<br />RNG (Advance Mission), Lv.50+<br />15/2 Months (Cruise Missions (Free)), 5 Each<br />8/Event Cycle (Event Point Milestone), 1100 Points; 2 Each + 2 Random<br />1/Event Cycle (General Shop), RNG<br />3/Event Cycle (Guild Shop), RNG<br />6/Month (Medal Shop), 2 Each
+| style='white-space:nowrap' | '''Offensive Skill Books might be a concern, rest aren't.'''
+
+|-
+| {{Display|UnknownT4Book|UR|T4 Skill Book}}<br />[[https://azurlane.koumakan.jp/wiki/Living_Area#Tactical_Class|T4 Skill Book]]
+| <span style="color:#2e8b57">&#8277;</span> '''Daily Raid:''' [[https://azurlane.koumakan.jp/wiki/Daily_Raid#Advance_Mission|Advance Mission]]<br /><span style="color:#2e8b57">&#10003;</span> '''Cruise Pass:''' [[Cruise_Missions#Rewards|Cruise Missions (Free)]]<br /><span style="color:#b8860b">&#10003;</span> '''Event:''' [[Events|Event Point Milestone]]<br /><span style="color:#2e8b57">&#10003;</span> '''OPSI:''' [[Operation_Siren#Exchange_Shop|Exchange Shop]]
+| RNG (Advance Mission), Lv.95<br />4/2 Months (Cruise Missions (Free)), Random<br />2/Event Cycle (Event Point Milestone), 70000 Points; Random<br />6/Month (Exchange Shop), 2 Each
+| style='white-space:nowrap' | '''1/Week'''<br />'''6/Month'''<br />'''16/2 Months'''
+
+|}
+

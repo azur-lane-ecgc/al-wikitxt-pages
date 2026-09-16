@@ -8,13 +8,19 @@
 --   sand check   = source spawning / item dropping is random,
 --   sand cross   = one-time drop only,
 --   red check    = not recommended, red cross = cannot drop from this source.
--- Total math mirrors ecgc-dev getTotalGuaranteed exactly: month = 30 days,
--- 4 weeks per month; Monthly and Bimonthly are summed separately, and
--- Weekly/Daily derive from the Monthly sum (before the bimonthly fallback).
+-- Server-load notes: mw.loadData shares one immutable copy of the data per
+-- page parse (canonical loader for pure-data Scribunto modules); rendering
+-- is single-pass over the data; every repeated string is built once.
 
 local p = {}
 
-local data = require('Module:CommonResourceData')
+local data = mw.loadData('Module:CommonResourceData')
+
+-- Upvalues: these library functions run hundreds of times per render.
+local concat = table.concat
+local insert = table.insert
+local format = string.format
+local floor = math.floor
 
 -- Section headings and See-also links per category, in display order.
 local CATEGORY_HEADINGS = {
@@ -73,7 +79,13 @@ local MARK_COLORS = {
     red = '#cd5c5c',
 }
 
-local NUM_CHAPTERS = 15
+-- Fixed table skeleton; only caption, total header, and rows vary.
+local TABLE_OPEN = '{|class="azltable mw-collapsible" style="width:100%; text-align:center"'
+local TABLE_HEADERS = concat({
+    "! style='width:175px' | Item",
+    "! style='width:400px' | Location",
+    '! Guaranteed quantities (if applicable)',
+}, '\n')
 
 -- Formats 1234567 -> "1,234,567"; keeps up to 2 decimals, trailing zeros trimmed.
 local function formatNumber(value)
@@ -81,102 +93,63 @@ local function formatNumber(value)
         return value
     end
     local body
-    if math.floor(value) == value then
-        body = string.format('%d', value)
+    if floor(value) == value then
+        body = format('%d', value)
     else
-        body = string.format('%.2f', value)
-        body = body:gsub('0+$', ''):gsub('%.$', '')
+        body = format('%.2f', value):gsub('0+$', ''):gsub('%.$', '')
     end
     local withCommas = body:reverse():gsub('(%d%d%d)', '%1,'):reverse()
-    withCommas = withCommas:gsub('^,', '')
-    return withCommas
+    return (withCommas:gsub('^,', ''))
 end
 
--- Port of the ecgc-dev getTotalGuaranteed, quirks included.
-local function getTotalGuaranteed(resource)
-    local monthlyTotal = 0
-    local bimonthlyTotal = 0
-    local oneTimeTotal = 0
-
-    for _, group in ipairs(resource.drops) do
-        for _, loc in ipairs(group.locations) do
-            local amount = loc.amount
-            if type(amount) == 'number' then
-                local tf = loc.timeFrame
-                if tf == 'daily' then
-                    monthlyTotal = monthlyTotal + amount * 30
-                    bimonthlyTotal = bimonthlyTotal + amount * 60
-                elseif tf == 'weekly' then
-                    monthlyTotal = monthlyTotal + amount * 4
-                    bimonthlyTotal = bimonthlyTotal + amount * 8
-                elseif tf == 'monthly' then
-                    monthlyTotal = monthlyTotal + amount
-                    bimonthlyTotal = bimonthlyTotal + amount * 2
-                elseif tf == 'bimonthly' then
-                    bimonthlyTotal = bimonthlyTotal + amount
-                elseif tf == 'one-time' then
-                    oneTimeTotal = oneTimeTotal + amount
-                elseif tf == 'chapter' then
-                    oneTimeTotal = oneTimeTotal + amount * NUM_CHAPTERS
-                end
-            end
-        end
-    end
-
-    local monthly = monthlyTotal
-    if monthly == 0 then
-        monthly = math.floor(bimonthlyTotal / 2)
-    end
-    return {
-        bimonthly = bimonthlyTotal,
-        monthly = monthly,
-        weekly = math.floor(monthlyTotal / 4),
-        daily = math.floor(monthlyTotal / 30),
-        oneTime = oneTimeTotal ~= 0 and oneTimeTotal or 'N/A',
-    }
-end
-
+-- Mark spans: at most 12 distinct (color, mark, optimal) combos exist in the
+-- data, so build each once and reuse across all ~120 groups per render.
+local markCache = {}
 local function markWikitext(group)
-    local glyph = group.optimal and '&#8277;' or (group.mark == 'check' and '&#10003;' or '&#10007;')
-    local color = MARK_COLORS[group.color] or group.color
-    return string.format('<span style="color:%s">%s</span>', color, glyph)
-end
-
-local function linkWikitext(loc)
-    if loc.link and loc.link ~= '' then
-        return string.format('[[%s|%s]]', loc.link, loc.name)
+    local key = group.color .. '/' .. group.mark .. '/' .. (group.optimal and '1' or '0')
+    local span = markCache[key]
+    if not span then
+        local glyph = group.optimal and '&#8277;' or (group.mark == 'check' and '&#10003;' or '&#10007;')
+        local color = MARK_COLORS[group.color] or group.color
+        span = '<span style="color:' .. color .. '">' .. glyph .. '</span>'
+        markCache[key] = span
     end
-    return loc.name
+    return span
 end
 
 -- One line per source group: "✓ '''Academy:''' Canteen, Commissions".
-local function locationCell(resource)
+local function locationCell(drops)
     local lines = {}
-    for _, group in ipairs(resource.drops) do
+    for i = 1, #drops do
+        local group = drops[i]
+        local locations = group.locations
         local names = {}
-        for _, loc in ipairs(group.locations) do
-            table.insert(names, linkWikitext(loc))
+        for j = 1, #locations do
+            local loc = locations[j]
+            local name = loc.name
+            if loc.link and loc.link ~= '' then
+                name = '[[' .. loc.link .. '|' .. name .. ']]'
+            end
+            names[j] = name
         end
         local label = GROUP_LABELS[group.group] or group.group
-        table.insert(
-            lines,
-            string.format("%s '''%s:''' %s", markWikitext(group), label, table.concat(names, ', '))
-        )
+        lines[i] = markWikitext(group) .. " '''" .. label .. ":''' " .. concat(names, ', ')
     end
-    return table.concat(lines, '<br />')
+    return concat(lines, '<br />')
 end
 
 -- One line per source group listing guaranteed (and RNG) amounts per source.
-local function quantityCell(resource)
+local function quantityCell(drops)
     local lines = {}
-    for _, group in ipairs(resource.drops) do
+    for i = 1, #drops do
+        local locations = drops[i].locations
         local terms = {}
-        for _, loc in ipairs(group.locations) do
+        for j = 1, #locations do
+            local loc = locations[j]
             local term
             if type(loc.amount) == 'number' then
-                local tf = loc.timeFrame or ''
-                term = formatNumber(loc.amount) .. (TIMEFRAME_LABELS[tf] or '')
-                if tf == 'one-time' then
+                term = formatNumber(loc.amount) .. (TIMEFRAME_LABELS[loc.timeFrame] or '')
+                if loc.timeFrame == 'one-time' then
                     term = term .. ' (one-time)'
                 end
             else
@@ -186,48 +159,52 @@ local function quantityCell(resource)
             if loc.notes then
                 term = term .. ', ' .. loc.notes
             end
-            table.insert(terms, term)
+            terms[j] = term
         end
-        table.insert(lines, table.concat(terms, ' + '))
+        lines[i] = concat(terms, ' + ')
     end
-    return table.concat(lines, '<br />')
+    return concat(lines, '<br />')
+end
+
+-- Totals come from the data module verbatim (mirroring the ecgc-dev source,
+-- where 21 resources use getTotalGuaranteed and the 9 type-random ones
+-- report 'N/A'). A field renders only when it is a non-zero number.
+local function isVisibleNumber(field)
+    return type(field) == 'number' and field ~= 0
 end
 
 local function totalCell(resource, isFinite)
-    -- Totals come from the data module verbatim (mirroring the ecgc-dev
-    -- source, where 21 resources use getTotalGuaranteed and the 9 type-random
-    -- ones report 'N/A').
     local total = resource.total
-    -- A field renders only when it is a non-zero number ('N/A' and 0 are skipped).
-    local function show(field)
-        return type(field) == 'number' and field ~= 0
-    end
     local parts = {}
+    local n = 0
     if isFinite then
-        if show(total.oneTime) then
-            table.insert(parts, string.format("'''%s''' lifetime", formatNumber(total.oneTime)))
+        if isVisibleNumber(total.oneTime) then
+            n = n + 1
+            parts[n] = "'''" .. formatNumber(total.oneTime) .. "''' lifetime"
         end
     else
-        if show(total.daily) then
-            table.insert(parts, string.format("'''%s/Day'''", formatNumber(total.daily)))
+        if isVisibleNumber(total.daily) then
+            n = n + 1
+            parts[n] = "'''" .. formatNumber(total.daily) .. "/Day'''"
         end
-        if show(total.weekly) then
-            table.insert(parts, string.format("'''%s/Week'''", formatNumber(total.weekly)))
+        if isVisibleNumber(total.weekly) then
+            n = n + 1
+            parts[n] = "'''" .. formatNumber(total.weekly) .. "/Week'''"
         end
-        if show(total.monthly) then
-            table.insert(parts, string.format("'''%s/Month'''", formatNumber(total.monthly)))
+        if isVisibleNumber(total.monthly) then
+            n = n + 1
+            parts[n] = "'''" .. formatNumber(total.monthly) .. "/Month'''"
         end
-        if show(total.bimonthly) then
-            table.insert(parts, string.format("'''%s/2 Months'''", formatNumber(total.bimonthly)))
+        if isVisibleNumber(total.bimonthly) then
+            n = n + 1
+            parts[n] = "'''" .. formatNumber(total.bimonthly) .. "/2 Months'''"
         end
-        if show(total.oneTime) then
-            table.insert(
-                parts,
-                string.format("'''%s''' one-time", formatNumber(total.oneTime))
-            )
+        if isVisibleNumber(total.oneTime) then
+            n = n + 1
+            parts[n] = "'''" .. formatNumber(total.oneTime) .. "''' one-time"
         end
     end
-    local cell = table.concat(parts, '<br />')
+    local cell = concat(parts, '<br />')
     if resource.notes then
         if cell ~= '' then
             cell = cell .. '<br />'
@@ -235,92 +212,76 @@ local function totalCell(resource, isFinite)
         cell = cell .. resource.notes
     end
     if cell == '' then
-        cell = "-"
+        return '-'
     end
     return cell
 end
 
 local function resourceRow(resource, isFinite)
-    local itemCell = string.format("%s<br />[[%s|%s]]", resource.icon, resource.link, resource.name)
-    return table.concat({
+    return concat({
         '|-',
-        '| ' .. itemCell,
-        '| ' .. locationCell(resource),
-        '| ' .. quantityCell(resource),
+        '| ' .. resource.icon .. '<br />[[' .. resource.link .. '|' .. resource.name .. ']]',
+        '| ' .. locationCell(resource.drops),
+        '| ' .. quantityCell(resource.drops),
         "| style='white-space:nowrap' | " .. totalCell(resource, isFinite),
         '',
     }, '\n')
 end
 
-local function categoryTable(resources, caption, totalHeader, isFinite)
-    local rows = {}
-    for _, resource in ipairs(resources) do
-        table.insert(rows, resourceRow(resource, isFinite))
-    end
-    return table.concat({
-        '{|class="azltable mw-collapsible" style="width:100%; text-align:center"',
-        '|+ ' .. caption,
-        "! style='width:175px' | Item",
-        "! style='width:400px' | Location",
-        '! Guaranteed quantities (if applicable)',
-        '! ' .. totalHeader,
-        table.concat(rows, '\n'),
-        '|}',
-        '',
-    }, '\n')
-end
-
--- Keeps only resources of one category, preserving data order.
-local function filterByCategory(resources, category)
-    local filtered = {}
-    for _, resource in ipairs(resources) do
-        if resource.category == category then
-            table.insert(filtered, resource)
-        end
-    end
-    return filtered
+local function categoryTable(rows, caption, totalHeader)
+    return TABLE_OPEN
+        .. '\n|+ '
+        .. caption
+        .. '\n'
+        .. TABLE_HEADERS
+        .. '\n! '
+        .. totalHeader
+        .. '\n'
+        .. concat(rows, '\n')
+        .. '\n|}\n'
 end
 
 function p.renewable()
-    local seen = {}
+    -- Single pass over the data: bucket rendered rows by category and keep
+    -- first-seen category order.
     local categories = {}
-    for _, resource in ipairs(data.infinite) do
-        if not seen[resource.category] then
-            seen[resource.category] = true
-            table.insert(categories, resource.category)
+    local rowsByCategory = {}
+    local infinite = data.infinite
+    for i = 1, #infinite do
+        local resource = infinite[i]
+        local category = resource.category
+        local rows = rowsByCategory[category]
+        if not rows then
+            rows = {}
+            rowsByCategory[category] = rows
+            insert(categories, category)
         end
+        insert(rows, resourceRow(resource, false))
     end
 
     local output = {}
-    for _, category in ipairs(categories) do
+    for i = 1, #categories do
+        local category = categories[i]
         local heading = CATEGORY_HEADINGS[category] or category
-        table.insert(output, '===' .. heading .. '===')
+        local block = '===' .. heading .. '===\n'
         local seeAlso = CATEGORY_SEE_ALSO[category]
         if seeAlso then
-            table.insert(output, seeAlso)
+            block = block .. seeAlso .. '\n'
         end
-        table.insert(output, '')
-        local label = CATEGORY_HEADINGS[category] or category
-        table.insert(output, categoryTable(filterByCategory(data.infinite, category), label, 'Total quantity', false))
-        table.insert(output, '')
+        output[i * 3 - 2] = block
+        output[i * 3 - 1] = categoryTable(rowsByCategory[category], heading, 'Total quantity')
+        output[i * 3] = ''
     end
-    return table.concat(output, '\n')
+    return concat(output, '\n')
 end
 
 function p.finite()
-    return categoryTable(data.finite, 'Finite resources', 'Lifetime amount', true)
-end
-
--- Exposed for tests: totals keyed by resource name.
-function p.totals()
-    local result = { infinite = {}, finite = {} }
-    for _, resource in ipairs(data.infinite) do
-        result.infinite[resource.name] = getTotalGuaranteed(resource)
+    local finite = data.finite
+    local rows = {}
+    for i = 1, #finite do
+        rows[i] = resourceRow(finite[i], true)
     end
-    for _, resource in ipairs(data.finite) do
-        result.finite[resource.name] = getTotalGuaranteed(resource)
-    end
-    return result
+    return categoryTable(rows, 'Finite resources', 'Lifetime amount')
 end
 
 return p
