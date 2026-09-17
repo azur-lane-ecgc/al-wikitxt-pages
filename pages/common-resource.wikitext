@@ -5,8 +5,6 @@
 
 Comprehensive list of common resources, how to acquire them, and how many of each resource you can acquire in a reasonable time frame of playing Azur Lane.
 
-The tables on this page are generated from the [[Module:CommonResourceData|CommonResourceData module]]. Do not edit them by hand; update the module data instead.
-
 == Notes ==
 
 === Glossary ===
