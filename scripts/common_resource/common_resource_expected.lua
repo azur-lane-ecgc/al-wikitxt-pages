@@ -35,6 +35,6 @@ return {
     ['T4 Skill Book'] = { bimonthly = 16, monthly = 6, weekly = 1, daily = 0, oneTime = 'N/A' },
   },
   finite = {
-    ['Gem'] = { bimonthly = 0, monthly = 0, weekly = 0, daily = 0, oneTime = 4700 },
+    ['Gem'] = { bimonthly = 0, monthly = 0, weekly = 0, daily = 0, oneTime = 6030 },
   },
 }

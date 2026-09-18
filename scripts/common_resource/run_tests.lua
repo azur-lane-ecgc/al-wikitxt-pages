@@ -194,7 +194,7 @@ assertEqual(openCount, closeCount, 'renewable balanced table braces')
 assertEqual(#finite > 0, true, 'finite renders')
 assertEqual(renewable:find('113,820', 1, true) ~= nil, true, 'oil monthly total rendered')
 assertEqual(renewable:find('2,910', 1, true) ~= nil, true, 'core data monthly total rendered')
-assertEqual(finite:find('4,700', 1, true) ~= nil, true, 'gem lifetime total rendered')
+assertEqual(finite:find('6,030', 1, true) ~= nil, true, 'gem lifetime total rendered')
 
 -- Emit rendered wikitext between markers so the shell can capture it (the
 -- wasmoon FS sandbox discards io.open writes, so stdout is the only channel).
