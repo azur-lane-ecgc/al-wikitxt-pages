@@ -6,8 +6,8 @@
 ! Lifetime amount
 |-
 | {{Display|Ruby|P|Gems|50}}<br />[[Akashi's_Shop#Gems|Gem]]
-| <span style="color:#cd5c5c">&#10003;</span> '''Academy:''' [[Commissions|Commissions]]<br /><span style="color:#b8860b">&#10007;</span> '''Missions:''' [[Beginner_Rewards#8-Day_Login_Rewards|Beginner Rewards]], [[List_of_Collections|Memento]]<br /><span style="color:#b8860b">&#10007;</span> '''Campaign:''' [[Campaign|Campaign Stages (X-1, X-2, X-3)]], [[Campaign|Campaign Stages (X-4)]]
-| RNG (Commissions)<br />150 (one-time) (Beginner Rewards), 8-Day Login + 800 (one-time) (Memento), Collections<br />150/Chapter (Campaign Stages (X-1, X-2, X-3)), 3-Star Reward + 100/Chapter (Campaign Stages (X-4)), 3-Star Reward
-| style='white-space:nowrap' | '''4,700''' lifetime
+| <span style="color:#cd5c5c">&#10003;</span> '''Academy:''' [[Commissions|Commissions]]<br /><span style="color:#b8860b">&#10007;</span> '''Missions:''' [[Beginner_Rewards#8-Day_Login_Rewards|Beginner Rewards]], [[List_of_Collections|Memento]], [[Island_Planner|Character Collection]], [[Island_Planner|Achievements]], [[Island_Planner|Stellar Prize Draw]]<br /><span style="color:#b8860b">&#10007;</span> '''Campaign:''' [[Campaign|Campaign Stages (X-1, X-2, X-3)]], [[Campaign|Campaign Stages (X-4)]]
+| RNG (Commissions)<br />150 (one-time) (Beginner Rewards), 8-Day Login + 800 (one-time) (Memento), Collections + 150 (one-time) (Character Collection) + 1,180 (one-time) (Achievements) + RNG (Stellar Prize Draw), Extra tickets convert to gems once the prize pool is exhausted<br />150/Chapter (Campaign Stages (X-1, X-2, X-3)), 3-Star Reward + 100/Chapter (Campaign Stages (X-4)), 3-Star Reward
+| style='white-space:nowrap' | '''6,030''' lifetime<br />Collection, achievement, and prize draw amounts per the [[Island Planner]] page
 
 |}

@@ -2673,6 +2673,25 @@ return {
               timeFrame = 'one-time',
               notes = 'Collections',
             },
+            {
+              name = 'Character Collection',
+              link = 'Island_Planner',
+              amount = 150,
+              timeFrame = 'one-time',
+            },
+            {
+              name = 'Achievements',
+              link = 'Island_Planner',
+              amount = 1180,
+              timeFrame = 'one-time',
+            },
+            {
+              name = 'Stellar Prize Draw',
+              link = 'Island_Planner',
+              amount = 'RNG',
+              timeFrame = nil,
+              notes = 'Extra tickets convert to gems once the prize pool is exhausted',
+            },
           },
         },
         {
@@ -2698,7 +2717,8 @@ return {
           },
         },
       },
-      total = { bimonthly = 0, monthly = 0, weekly = 0, daily = 0, oneTime = 4700 },
+      total = { bimonthly = 0, monthly = 0, weekly = 0, daily = 0, oneTime = 6030 },
+      notes = 'Collection, achievement, and prize draw amounts per the [[Island Planner]] page',
     },
   },
 }
